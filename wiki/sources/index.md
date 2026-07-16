@@ -2,7 +2,7 @@
 title: Sources
 ---
 
-# Sources (22)
+# Sources (32)
 
 See `AGENT_INSTRUCTIONS.md` for how this list is built and maintained.
 
@@ -19,6 +19,16 @@ See `AGENT_INSTRUCTIONS.md` for how this list is built and maintained.
 | [Aviation industry plans for growth 'irreconcilable' with Europe's climate goals](aviation-industry-plans-for-growth-irreconcilable-with-europe-s-climate-goals.md) | 2025-01-13 | Brussels | [Aviation growth vs. decarbonisation](../topics/aviation-decarbonisation.md) |
 | [IMO: Fuelling deforestation](imo-fuelling-deforestation.md) | 2025-02-17 | Brussels | [Biofuels](../topics/biofuels.md) |
 | [Palm oil in disguise?](palm-oil-in-disguise.md) | 2025-04-09 | Brussels | [POME (Palm Oil Mill Effluent)](../topics/pome.md) |
+| [Spotlight on e-SAF](spotlight-on-e-saf.md) | 2025-06-16 | Brussels | [E-fuels financing and infrastructure](../topics/e-fuels-financing.md) |
+| [Which fuels should the EU back for shipping?](which-fuels-should-the-eu-back-for-shipping.md) | 2025-06-23 | Brussels | [Biofuels](../topics/biofuels.md), [POME (Palm Oil Mill Effluent)](../topics/pome.md) |
+| [Shipping is flying the flag for multilateral climate action: why aren't we celebrating yet?](shipping-is-flying-the-flag-for-multilateral-climate-action-why-aren-t-we-celebr.md) | 2025-07-04 | Brussels | [IMO shipping fuel standard (Net-Zero Framework)](../topics/imo-shipping-fuel-standard.md) |
+| [Buying electric](buying-electric.md) | 2025-07-14 | Brussels | [Zero-emission trucking and EU HDV CO2 standards](../topics/zero-emission-trucking.md) |
+| [Towards 2040: a strengthened ETS to support the transition of the shipping sector](towards-2040-a-strengthened-ets-to-support-the-transition-of-the-shipping-sector.md) | 2025-07-14 | Brussels | [IMO shipping fuel standard (Net-Zero Framework)](../topics/imo-shipping-fuel-standard.md) |
+| [EV progress report: Which EU carmakers are on track for 2025-27 targets?](ev-progress-report-which-eu-carmakers-are-on-track-for-2025-27-targets.md) | 2025-09-08 | Brussels | [Car CO2 standards and industry lobbying](../topics/car-co2-standards-lobbying.md) |
+| [Unlocking e-fuels for aviation and shipping and clean transport infrastructure](unlocking-e-fuels-for-aviation-and-shipping-and-clean-transport-infrastructure.md) | 2025-09-09 | Brussels | [E-fuels financing and infrastructure](../topics/e-fuels-financing.md) |
+| [Driving Change: Creating the EU's Ambitious 2040 Climate Commitment](driving-change-creating-the-eu-s-ambitious-2040-climate-commitment.md) | 2025-09-09 | Brussels | [EU 2040 climate target](../topics/eu-2040-climate-target.md) |
+| [European aviation set to spend billions on offsetting schemes](european-aviation-set-to-spend-billions-on-offsetting-schemes.md) | 2025-09-22 | Brussels | [Aviation growth vs. decarbonisation](../topics/aviation-decarbonisation.md) |
+| [Blue threat: will the EU's hydrogen policy stay green?](blue-threat-will-the-eu-s-hydrogen-policy-stay-green.md) | 2025-09-23 | Brussels | [Hydrogen policy: blue vs. green](../topics/hydrogen-policy.md) |
 | [Carbon leakage in the aviation sector: Is it a problem and if so what can be done to address it?](carbon-leakage-in-the-aviation-sector-is-it-a-problem-and-if-so-what-can-be-done.md) | 2025-10-06 | Brussels | [Aviation growth vs. decarbonisation](../topics/aviation-decarbonisation.md) |
 | [Leaked car industry paper: carmakers' EU demands would cut EV sales in half](leaked-car-industry-paper-carmakers-eu-demands-would-cut-ev-sales-in-half.md) | 2025-10-08 | Brussels | [Car CO2 standards and industry lobbying](../topics/car-co2-standards-lobbying.md) |
 | [CrOP30: Why burning food for land-hungry biofuels is fuelling the climate crisis](crop30-why-burning-food-for-land-hungry-biofuels-is-fuelling-the-climate-crisis.md) | 2025-10-09 | Brussels | [Biofuels](../topics/biofuels.md) |

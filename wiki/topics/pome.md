@@ -5,7 +5,7 @@ summary: >
   T&E's fraud finding: reported EU/UK POME "waste" biofuel volumes exceed plausible global
   production, suggesting POME is functioning as a disguised route for restricted palm oil.
 first_seen: 2025-04-09
-last_updated: 2025-04-09
+last_updated: 2025-06-23
 ---
 
 # POME (Palm Oil Mill Effluent)
@@ -47,3 +47,12 @@ remove POME from the EU's Annex IX advanced-biofuels list entirely, and create a
 fraud investigation unit to examine biofuel feedstock claims more broadly (i.e. not just POME —
 see [Biofuels § Fraud and mislabeling](biofuels.md#fraud-and-mislabeling) for how this connects to
 T&E's wider concern about waste/residue feedstock fraud).
+
+## The same finding, cited again for shipping fuels
+
+[Which fuels should the EU back for shipping?](../sources/which-fuels-should-the-eu-back-for-shipping.md)
+(June 2025) cites the same Ireland data point — POME consumption there rising 26x in 2023 — while
+assessing candidate shipping fuels, noting Irish regulators responded by removing incentives for
+POME-based biofuel. It's evidence the POME finding isn't a one-off: T&E now references it as
+established background when evaluating any policy area where "waste" biofuels compete for
+support, not just the original road-transport context.

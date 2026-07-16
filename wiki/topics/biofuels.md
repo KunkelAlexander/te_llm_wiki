@@ -50,6 +50,18 @@ emissions rather than cut them, since existing waste-oil feedstocks (UCO, animal
 oils) cannot scale to meet IMO decarbonisation demand — T&E argues novel fuels (e-fuels, advanced
 cellulosic biofuels) are needed instead of a feedstock free-for-all.
 
+[Which fuels should the EU back for shipping?](../sources/which-fuels-should-the-eu-back-for-shipping.md)
+(June 2025) applies a "sustainable, scalable, sovereign" test to rank candidate shipping fuels,
+ruling out fossil LNG and crop-based biofuels and flagging the same limits on advanced/waste
+biofuels and blue hydrogen covered elsewhere on this page and in
+[Hydrogen policy](hydrogen-policy.md). It puts a sharper number on the ILUC risk raised above:
+palm-oil-based biofuels can emit up to 3x more than the fossil fuels they replace once land-use
+change is counted, and roughly 4 million hectares of forest have been cut for palm/soy biofuel
+production over the last decade. It also cites the [POME](pome.md) fraud finding directly —
+Ireland's POME consumption rose 26x in 2023 alone, prompting Irish regulators to remove
+incentives for it — as evidence for why green ammonia and green methanol, not biofuels, should be
+the EU's preferred shipping fuel bet.
+
 [EU transport plan sets out first steps to boost green fuel production for planes and ships](../sources/eu-transport-plan-sets-out-first-steps-to-boost-green-fuel-production-for-planes.md)
 (November 2025) shows the same biofuels-vs-e-fuels tension on the EU's own funding side: T&E
 welcomed the EU's planned double-sided auction for aviation/maritime e-fuels under its Sustainable
@@ -58,7 +70,8 @@ remain eligible for the same funding, they risk crowding out scarce funding for 
 biomethane specifically should go to heating/industry rather than shipping. T&E noted extending
 the ETS to all long-haul flights could have raised over €7bn in a single year, and that including
 small shipping vessels could add roughly €2.4bn/year (2028-2035) — revenue it wants earmarked for
-e-fuels specifically.
+e-fuels specifically. See [E-fuels financing and infrastructure](e-fuels-financing.md) for T&E's
+fuller case on why financing, not sustainability alone, is what's holding e-fuels back.
 
 ## Global outlook to 2030
 

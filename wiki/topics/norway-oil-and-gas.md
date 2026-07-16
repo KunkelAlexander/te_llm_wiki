@@ -31,3 +31,7 @@ decarbonisation — BloombergNEF is cited projecting green hydrogen cheaper than
 24-45% cheaper in Germany specifically by 2030. T&E's recommendation is that the EU and Norway
 halt new licensing and exploration, and that the EU resist Norwegian pressure to expand Arctic
 extraction beyond 2030.
+
+*See also: [Hydrogen policy: blue vs. green](hydrogen-policy.md)*, which covers the EU-rulemaking
+side of the same blue-vs-green question in more depth (lifecycle emissions accounting, CCS
+capture-rate requirements).

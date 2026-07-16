@@ -26,7 +26,8 @@ that by 2050, four out of every five litres of SAF could come from unsustainable
 putting up to 385 MtCO2 of claimed biofuel savings (2025-2050) at risk. As an alternative,
 e-kerosene is described as scalable but extremely electricity-intensive — meeting a 35% e-kerosene
 mandate would require 585 TWh of renewable electricity by 2050, more than Germany's entire 2023
-electricity demand (506 TWh).
+electricity demand (506 TWh) — see [E-fuels financing and infrastructure](e-fuels-financing.md)
+for T&E's view on what it will actually take to build that e-kerosene supply.
 
 Even the European Commission's own 2040 modelling, which assumes 60% lower traffic growth than
 industry projections, still shows a 46% emissions increase by 2040 versus the 1990 baseline
@@ -49,6 +50,22 @@ context, it notes CORSIA (the industry-favoured global alternative) only prices 
 ETS's full scope. The study also assesses five possible countermeasures against leakage (mirroring
 approaches used in other sectors, e.g. shipping's EU ETS) as worth further legal vetting rather
 than a reason to abandon scope extension.
+
+## CORSIA offsetting vs. EU ETS
+
+[European aviation set to spend billions on offsetting schemes](../sources/european-aviation-set-to-spend-billions-on-offsetting-schemes.md)
+(T&E and Carbon Market Watch, September 2025, ahead of the 42nd ICAO Assembly) makes T&E's case
+that the EU's own carbon-pricing route (extending the ETS) is a far better mechanism than the
+UN's CORSIA offsetting scheme, which the report argues is captured by industry (a 14:1
+industry-to-green-group ratio at ICAO meetings, held under NDAs) and only covers growth above 85%
+of 2019 emissions — leaving CORSIA offsetting just 26% of EU aviation CO2 by 2035. A case study of
+Guyana's ART TREES/HFLD forest credits found 84% of 2016-2020 credits came from an artificially
+inflated deforestation baseline, illustrating a broader low-integrity-offset concern. T&E
+estimates CORSIA compliance will cost European aviation €7-43bn over 2024-2035 depending on
+credit-market conditions, versus extending the EU ETS to all departing flights from 2027, which
+Carbon Market Watch estimates could raise an extra €147bn by 2040 — money T&E argues should
+instead fund real decarbonisation (see
+[E-fuels financing and infrastructure](e-fuels-financing.md)).
 
 ## Airline cost lobbying vs. the data
 

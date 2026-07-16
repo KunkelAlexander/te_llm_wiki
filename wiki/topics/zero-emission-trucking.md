@@ -6,7 +6,7 @@ summary: >
   trucking; LNG is a false solution; EU truck CO2 targets have repeatedly undershot both available
   tech and industry's own trajectory.
 first_seen: 2021-04-06
-last_updated: 2023-06-19
+last_updated: 2025-07-14
 ---
 
 # Zero-emission trucking and EU HDV CO2 standards
@@ -68,3 +68,20 @@ zero-emission truck registrations in 2022 versus 7% for EU+EFTA+UK, and that the
 -45% 2030 target implied only 28% ZET sales by 2030 — weaker than OEMs' own voluntary plans of
 47%. The recurring throughline: T&E has repeatedly found that EU truck CO2 targets, as proposed,
 undershoot both the available technology and industry's own trajectory.
+
+## Shippers, not just truckmakers, as a lever
+
+[Buying electric: How shippers can drive the transition to zero-emission trucking](../sources/buying-electric.md)
+(2025) shifts the argument from regulating truckmakers to targeting the companies whose freight
+fills the trucks. It proposes zero-emission procurement targets for large shippers (cargo owners)
+under the EU's Decarbonise Corporate Fleets initiative, reasoning that hauliers themselves operate
+on 1-4% margins and can't absorb the roughly 2x purchase-price premium of electric trucks, whereas
+large companies — just 0.2% of EU companies by count, but over 50% of turnover and roughly 40% of
+EU truck activity — could. Modelling three ambition scenarios (targeting large manufacturers,
+wholesalers and retailers, who alone account for 26% of truck activity), T&E recommends a
+"moderate" scenario reaching 20% zero-emission procurement by 2030, 60% by 2035 and 100% by 2039.
+Even with green premiums of up to 30% passed through the supply chain, the report estimates the
+maximum end-consumer price impact at just 1.1% by 2039 (transport being roughly 10% of a typical
+product's price) — used to argue the shipper-procurement lever is nearly free at the checkout while
+unlocking demand that TCO alone hasn't yet delivered (TNO's 2022 finding that electric trucks
+already undercut diesel on TCO by 2035 notwithstanding).
