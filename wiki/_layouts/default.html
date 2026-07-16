@@ -2,44 +2,90 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
   <title>{{ page.title | default: site.title }}</title>
   <link rel="stylesheet" href="{{ '/pagefind/pagefind-ui.css' | relative_url }}">
   <style>
-    body { font-family: -apple-system, Segoe UI, Helvetica, Arial, sans-serif; max-width: 780px; margin: 2rem auto; padding: 0 1rem; line-height: 1.6; color: #1a1a1a; }
-    nav a { margin-right: 1rem; }
-    a { color: #0a5c36; }
-    blockquote { color: #444; border-left: 3px solid #ddd; margin-left: 0; padding-left: 1rem; }
-    #search { margin: 1.5rem 0; }
-    footer { margin-top: 3rem; font-size: 0.85rem; color: #777; }
+    :root{
+      --blue:#75a1f4; --orange:#ff8754; --pink:#c2447a; --green:#039961;
+      --lightblue:#b4d8f4; --darkgreen:#034538; --mint:#73d68a; --beige:#f0dccd;
+      --purple:#4d45ff;
+      --ink:#1b1b1f; --muted:#6a6a72; --line:#e7e7ea; --bg:#ffffff;
+      --sans:"Helvetica Neue", Helvetica, Arial, system-ui, sans-serif;
+      --mono:ui-monospace, "SF Mono", Menlo, Consolas, "Roboto Mono", monospace;
+    }
+    *{box-sizing:border-box;}
+    html,body{margin:0;padding:0;}
+    body{
+      font-family:var(--sans); color:var(--ink); background:var(--bg); line-height:1.6;
+      -webkit-font-smoothing:antialiased;
+    }
+    .topbar{position:fixed; top:0; left:0; right:0; height:6px; z-index:50;
+      background:linear-gradient(90deg,#e07aa8,var(--pink) 45%,#9c2f60);}
+
+    .wrap{max-width:860px; margin:0 auto; padding:2.5rem 1rem 4rem;}
+    .mark{width:72px; height:7px; border-radius:6px; background:linear-gradient(90deg,#ee8fb6,var(--pink)); margin-bottom:1.4rem;}
+
+    h1{font-size:2rem; line-height:1.15; letter-spacing:-.02em; margin:0 0 .6rem; color:var(--ink);}
+    h2{font-size:1.4rem; letter-spacing:-.01em; margin:2rem 0 .6rem; color:var(--ink);}
+    h3{font-size:1.1rem; margin:1.6rem 0 .5rem; color:var(--ink);}
+    p{margin:0 0 1rem;}
+
+    nav{display:flex; gap:1.4rem; margin-bottom:1.6rem; font-weight:600; font-size:.95rem;}
+    nav a{color:var(--ink); text-decoration:none; padding-bottom:2px; border-bottom:2px solid transparent;}
+    nav a:hover{border-bottom-color:var(--pink);}
+
+    a{color:var(--pink); text-decoration:none;}
+    a:hover{text-decoration:underline;}
+
+    blockquote{color:var(--muted); border-left:3px solid var(--line); margin:1rem 0; padding:.2rem 0 .2rem 1rem;}
+
+    code{font-family:var(--mono); background:#f5f4fb; border:1px solid #e3e2f3; border-radius:4px; padding:.1rem .35rem; font-size:.9em;}
+    pre{background:#f5f4fb; border:1px solid #e3e2f3; border-radius:10px; padding:1rem; overflow-x:auto;}
+    pre code{background:none; border:0; padding:0;}
+
+    #search{margin:1.6rem 0;}
+
+    hr{border:none; border-top:1px solid var(--line); margin:1.6rem 0;}
+
     /* Wide reference tables (Topics, Sources) get their own horizontal scroll instead of
        clipping content or breaking the layout on narrow/mobile viewports. */
-    table { border-collapse: collapse; display: block; overflow-x: auto; max-width: 100%; }
-    th, td { padding: 0.4rem 0.7rem; text-align: left; border-bottom: 1px solid #eee; vertical-align: top; }
-    th { white-space: nowrap; }
+    table{border-collapse:collapse; display:block; overflow-x:auto; max-width:100%; font-size:.95rem;}
+    th, td{padding:.5rem .8rem; text-align:left; border-bottom:1px solid var(--line); vertical-align:top;}
+    th{white-space:nowrap; color:var(--ink); border-bottom:2px solid var(--pink);}
+    tr:hover td{background:#fbfbfe;}
+
+    footer{margin-top:3rem; padding-top:1.4rem; border-top:1px solid var(--line); font-size:.85rem; color:var(--muted); line-height:1.5;}
+    footer a{color:var(--muted); text-decoration:underline;}
+
+    @media (max-width:480px){ h1{font-size:1.6rem;} nav{gap:1rem; flex-wrap:wrap;} }
   </style>
 </head>
 <body>
-  <nav>
-    <a href="{{ '/' | relative_url }}">Home</a>
-    <a href="{{ '/topics/index.html' | relative_url }}">Topics</a>
-    <a href="{{ '/sources/index.html' | relative_url }}">Sources</a>
-  </nav>
-  <div id="search"></div>
-  <script src="{{ '/pagefind/pagefind-ui.js' | relative_url }}"></script>
-  <script>
-    window.addEventListener('DOMContentLoaded', () => {
-      if (window.PagefindUI) {
-        new PagefindUI({ element: "#search", showSubResults: true });
-      }
-    });
-  </script>
-  <hr>
-  {{ content }}
-  <footer>
-    Generated from T&amp;E publications. Every claim above should cite a
-    <a href="{{ '/sources/index.html' | relative_url }}">source page</a> with a link to the
-    original publication.
-  </footer>
+  <div class="topbar"></div>
+  <div class="wrap">
+    <div class="mark"></div>
+    <nav>
+      <a href="{{ '/' | relative_url }}">Home</a>
+      <a href="{{ '/topics/index.html' | relative_url }}">Topics</a>
+      <a href="{{ '/sources/index.html' | relative_url }}">Sources</a>
+    </nav>
+    <div id="search"></div>
+    <script src="{{ '/pagefind/pagefind-ui.js' | relative_url }}"></script>
+    <script>
+      window.addEventListener('DOMContentLoaded', () => {
+        if (window.PagefindUI) {
+          new PagefindUI({ element: "#search", showSubResults: true });
+        }
+      });
+    </script>
+    <hr>
+    {{ content }}
+    <footer>
+      Generated from T&amp;E publications. Every claim above should cite a
+      <a href="{{ '/sources/index.html' | relative_url }}">source page</a> with a link to the
+      original publication.
+    </footer>
+  </div>
 </body>
 </html>
