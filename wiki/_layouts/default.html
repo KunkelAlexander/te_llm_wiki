@@ -12,6 +12,11 @@
     blockquote { color: #444; border-left: 3px solid #ddd; margin-left: 0; padding-left: 1rem; }
     #search { margin: 1.5rem 0; }
     footer { margin-top: 3rem; font-size: 0.85rem; color: #777; }
+    /* Wide reference tables (Topics, Sources) get their own horizontal scroll instead of
+       clipping content or breaking the layout on narrow/mobile viewports. */
+    table { border-collapse: collapse; display: block; overflow-x: auto; max-width: 100%; }
+    th, td { padding: 0.4rem 0.7rem; text-align: left; border-bottom: 1px solid #eee; vertical-align: top; }
+    th { white-space: nowrap; }
   </style>
 </head>
 <body>

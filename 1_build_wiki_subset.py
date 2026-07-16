@@ -5,13 +5,20 @@ document under wiki/sources/ (skipping documents already materialized there). Th
 source pages are the citation targets that topic pages (wiki/topics/*.md, hand-authored
 per wiki/AGENT_INSTRUCTIONS.md) link back to.
 
+A source page is a short citation card, NOT a dump of the PDF's cleaned text layer: title,
+date/office/type, a link to the original publication, and the publication's own summary/
+abstract if one exists. The full fulltext is deliberately not rendered — PDF-extracted body
+text comes out as unreadable page-fragment soup (running headers, footnote markers, table
+cells) that is worse than no body at all. The fulltext stays available for search/embedding
+via the parquet file; it just isn't fit for human reading on the page itself.
+
 This script only writes source pages — it does not touch wiki/sources/index.md or
 wiki/topics/index.md. After running it (and updating/authoring topic pages), always run
-`python 7_refresh_wiki_index.py` to regenerate both index files from what's on disk.
+`python 2_refresh_wiki_index.py` to regenerate both index files from what's on disk.
 
 Usage:
-  python 6_build_wiki_subset.py                         # default keyword, all matches
-  python 6_build_wiki_subset.py --keyword biofuel --limit 10   # latest 10 new matches
+  python 1_build_wiki_subset.py                         # default keyword, all matches
+  python 1_build_wiki_subset.py --keyword biofuel --limit 10   # latest 10 new matches
 """
 import argparse
 import glob
@@ -20,7 +27,6 @@ import re
 import pandas as pd
 
 from config import PAGES_PARQUET_OUT, WIKI_SOURCES_DIR, WIKI_SUBSET_FILTER
-from utils import clean_text
 
 FRONTMATTER_TMPL = """---
 id: {id}
@@ -113,22 +119,38 @@ def build_subset(keyword: str = WIKI_SUBSET_FILTER, limit: int = None):
             pdf_url=_yaml_str(row["PDF URL"]),
             doc_ids=", ".join(row["doc_ids"]),
         )
-        body = clean_text(row["fulltext"] or "")
+        date_str = _yaml_str(row["Publication Date"])[:10]
+        office = _yaml_str(row["Office"])
+        pub_type = _yaml_str(row["Publication Type"])
+        meta_line = " · ".join(p for p in (pub_type, office, date_str) if p and p != "null")
+
+        article_url = _yaml_str(row["Article URL"])
+        pdf_url = _yaml_str(row["PDF URL"])
+        links = []
+        if article_url != "null":
+            links.append(f"[Read the original publication]({article_url})")
+        if pdf_url != "null" and pdf_url != article_url:
+            links.append(f"[PDF]({pdf_url})")
 
         with open(path, "w", encoding="utf-8") as f:
             f.write(frontmatter)
             f.write("\n")
             f.write(f"# {title}\n\n")
-            if row["Summary"]:
-                f.write(f"> {row['Summary']}\n\n")
-            f.write(body)
-            f.write("\n")
+            if meta_line:
+                f.write(f"*{meta_line}*\n\n")
+            if links:
+                f.write(" · ".join(links) + "\n\n")
+            summary = row["Summary"]
+            if summary and summary.strip().lower() != "no summary":
+                f.write(f"> {summary}\n")
+            else:
+                f.write("*(No abstract available for this publication.)*\n")
 
         written.append(filename)
         print(f"Wrote {path}")
 
     print(f"\n{len(written)} new source page(s) written. Now run "
-          f"`python 7_refresh_wiki_index.py` to rebuild the index files.")
+          f"`python 2_refresh_wiki_index.py` to rebuild the index files.")
     return written
 
 

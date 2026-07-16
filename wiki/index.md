@@ -18,3 +18,9 @@ links back to the publication it's drawn from.
 - [Browse sources](sources/index.md)
 
 Use the search box above to find pages by keyword.
+
+**Coverage note:** this is currently a small test subset of T&E's output (a handful of
+2021-2024 trucking/van reports plus most of 2025), not the full publication archive — see
+[Sources](sources/index.md) for exactly what's included. Topic pages describe how positions
+evolved *across the sources cited on that page*, which for most topics means within 2025 so far,
+not necessarily T&E's full history on the subject.

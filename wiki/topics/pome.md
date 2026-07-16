@@ -14,7 +14,7 @@ last_updated: 2025-06-23
 
 POME is a wastewater by-product of palm oil milling, classified as an Annex IX "waste" feedstock
 and therefore eligible for advanced-biofuel policy support that virgin palm oil is not.
-[Palm oil in disguise?](../sources/palm-oil-in-disguise.md) (published March 2025) is T&E's
+[Palm oil in disguise?](../sources/palm-oil-in-disguise.md) (published 2025-04-09) is T&E's
 finding that reported POME-based biofuel volumes are implausibly large relative to how much POME
 actually exists — evidence of fraud or mislabeling rather than a genuine new waste-feedstock
 supply.

@@ -1,16 +1,15 @@
 """
 Step 7: Refresh the wiki's cross-reference indexes.
 
-Regenerates wiki/topics/index.md and wiki/sources/index.md from the frontmatter and citation
-links already present in wiki/topics/*.md and wiki/sources/*.md. This is the file an agent should
-check before adding or updating anything: topics/index.md lists every topic with a one-line
-summary and which sources it already cites, and sources/index.md lists every source with which
-topics already cite it, so an agent processing a new/unprocessed source can see at a glance which
-existing topic pages are relevant instead of opening every topic file.
+Regenerates wiki/topics/index.md and wiki/sources/index.md (both public pages — a colleague
+browsing the site, not a maintenance tool) plus wiki/topics/DEDUP_INDEX.md (a maintainer-only
+page, excluded from the Jekyll build via _config.yml, that carries the "what does each topic
+already cite" detail an agent needs before adding a new source). It does not call an LLM or touch
+topic/source content — it only reflects links and frontmatter that are already there.
 
 Run this after authoring or updating any topic page (see wiki/AGENT_INSTRUCTIONS.md, update
-workflow step 5-6). It does not call an LLM or touch topic/source content — it only reflects
-links and frontmatter that are already there.
+workflow step 5-6). Check wiki/topics/DEDUP_INDEX.md — not the public topics/index.md — before
+adding a new source, per that workflow.
 """
 import glob
 import os
@@ -55,11 +54,14 @@ def parse_frontmatter(text: str) -> dict:
     return data
 
 
+_GENERATED_INDEX_FILES = {"index.md", "DEDUP_INDEX.md"}
+
+
 def _load(dir_path):
     entries = {}
     for path in sorted(glob.glob(os.path.join(dir_path, "*.md"))):
         filename = os.path.basename(path)
-        if filename == "index.md":
+        if filename in _GENERATED_INDEX_FILES:
             continue
         text = open(path, encoding="utf-8").read()
         entries[filename] = {"frontmatter": parse_frontmatter(text), "body": text}
@@ -77,16 +79,34 @@ def refresh():
         for s_filename in cites:
             cited_by[s_filename].append(t_filename)
 
-    # — topics/index.md —
+    # — topics/index.md (public: name, type, one-line summary, link — nothing else) —
     topics_path = os.path.join(WIKI_TOPICS_DIR, "index.md")
     ordered_topics = sorted(
         topics.items(), key=lambda kv: kv[1]["frontmatter"].get("first_seen", "")
     )
     with open(topics_path, "w", encoding="utf-8") as f:
         f.write("---\ntitle: Topics\n---\n\n# Topics\n\n")
+        f.write("Everything T&E works on that this wiki covers, one page per subject. Each page "
+                "tracks how T&E's position or estimates on that subject have evolved over time, "
+                "with every claim linked back to the publication it's drawn from.\n\n")
+        f.write("| Topic | Type | Summary |\n")
+        f.write("|---|---|---|\n")
+        for filename, t in ordered_topics:
+            fm = t["frontmatter"]
+            title = fm.get("title", filename)
+            summary = fm.get("summary", "")
+            f.write(f"| [{title}]({filename}) | {fm.get('type', '')} | {summary} |\n")
+    print(f"Wrote {topics_path}  ({len(topics)} topics)")
+
+    # — topics/DEDUP_INDEX.md (maintainer-only, excluded from the Jekyll build) —
+    dedup_path = os.path.join(WIKI_TOPICS_DIR, "DEDUP_INDEX.md")
+    with open(dedup_path, "w", encoding="utf-8") as f:
+        f.write("---\ntitle: Topic dedup index (maintainer-only, not published)\n---\n\n")
+        f.write("# Topic dedup index\n\n")
         f.write("Check this table before adding a new source: it shows what each topic already "
                 "covers and which sources it cites, so you know which pages might need updating "
-                "rather than duplicating.\n\n")
+                "rather than duplicating. This page is excluded from the built site (see "
+                "`_config.yml`) — it's a maintenance tool, not a reader-facing page.\n\n")
         f.write("| Topic | Type | Summary | Sources cited | First seen | Last updated |\n")
         f.write("|---|---|---|---|---|---|\n")
         for filename, t in ordered_topics:
@@ -101,9 +121,9 @@ def refresh():
                 f"| [{title}]({filename}) | {fm.get('type', '')} | {summary} | {cite_links} "
                 f"| {fm.get('first_seen', '')} | {fm.get('last_updated', '')} |\n"
             )
-    print(f"Wrote {topics_path}  ({len(topics)} topics)")
+    print(f"Wrote {dedup_path}  ({len(topics)} topics)")
 
-    # — sources/index.md —
+    # — sources/index.md (public) —
     sources_path = os.path.join(WIKI_SOURCES_DIR, "index.md")
     ordered_sources = sorted(
         sources.items(), key=lambda kv: kv[1]["frontmatter"].get("date", "") or ""
@@ -111,9 +131,10 @@ def refresh():
     with open(sources_path, "w", encoding="utf-8") as f:
         f.write("---\ntitle: Sources\n---\n\n")
         f.write(f"# Sources ({len(sources)})\n\n")
-        f.write("See `AGENT_INSTRUCTIONS.md` for how this list is built and maintained.\n\n")
-        f.write("| Source | Date | Office | Cited by topics |\n")
-        f.write("|---|---|---|---|\n")
+        f.write("Every T&E publication cited anywhere in this wiki. Open a source page for a "
+                "link to the original publication.\n\n")
+        f.write("| Source | Date | Cited by topics |\n")
+        f.write("|---|---|---|\n")
         for filename, s in ordered_sources:
             fm = s["frontmatter"]
             title = fm.get("title", filename)
@@ -122,7 +143,7 @@ def refresh():
                 f"[{topics[t]['frontmatter'].get('title', t)}](../topics/{t})"
                 for t in cited_by.get(filename, [])
             ) or "*(none yet)*"
-            f.write(f"| [{title}]({filename}) | {date} | {fm.get('office', '')} | {citing_topics} |\n")
+            f.write(f"| [{title}]({filename}) | {date} | {citing_topics} |\n")
     print(f"Wrote {sources_path}  ({len(sources)} sources)")
 
 
