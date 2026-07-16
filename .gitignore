@@ -1,0 +1,11 @@
+/.github
+/.venv_wiki
+/1_download.py
+/2_parse.py
+/3_filter.py
+/4_embed.py
+/5_build_parquet.py
+/analysis.ipynb
+/models
+/output
+/__pycache__

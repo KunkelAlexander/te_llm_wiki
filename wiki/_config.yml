@@ -1,0 +1,26 @@
+title: T&E LLM Wiki (test subset)
+description: >
+  Topic/entity-centric wiki synthesizing Transport & Environment's publications,
+  built with the llmwiki pattern. This is a test subset filtered on "Simon Suzan".
+baseurl: "/te-wiki-subset"  # update to match the repo's GitHub Pages path
+
+markdown: kramdown
+plugins:
+  - jekyll-relative-links
+
+relative_links:
+  enabled: true
+  collections: true
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: default
+
+exclude:
+  - AGENT_INSTRUCTIONS.md
+  - Gemfile
+  - Gemfile.lock
+  - README.md

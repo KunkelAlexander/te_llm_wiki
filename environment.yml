@@ -1,0 +1,13 @@
+name: te_scraper
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - requests
+  - pypdf
+  - pandas
+  - tqdm
+  - numpy
+  - lxml
+  - beautifulsoup4
+  - ipykernel
