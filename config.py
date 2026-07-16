@@ -89,6 +89,49 @@ WIKI_BASE          = "wiki"
 WIKI_SOURCES_DIR   = os.path.join(WIKI_BASE, "sources")
 WIKI_TOPICS_DIR    = os.path.join(WIKI_BASE, "topics")
 WIKI_SUBSET_FILTER = "Simon Suzan"  # substring match on fulltext; test-subset heuristic only
+WIKI_PROCESSED_LOG = os.path.join(WIKI_SOURCES_DIR, "PROCESSED.csv")
+
+# — WIKI DEDUP SETTINGS —
+# T&E frequently publishes the same underlying work twice: once as a short announcement
+# (a press release, news post) and once as the substantive document itself (report, briefing).
+# When a new candidate's title closely matches an announcement/substantive pair within a short
+# date window, only the substantive one gets a source page; the announcement is logged as a
+# dropped duplicate rather than materialized. Ranks below are relative "substantiveness" —
+# ties break on fulltext length. Same-tier near-duplicate titles (e.g. two distinct country
+# briefings published the same day) are deliberately NOT clustered: that pattern showed up as a
+# false-positive risk in practice (e.g. "Appraisal of the Krahmer Report on vans" vs "...Ulmer
+# Report on cars", same day, title similarity 0.89 — two genuinely different briefings).
+#
+# Title similarity is Jaccard overlap of stemmed, stopword-filtered title tokens, not raw
+# character similarity — validated against the real corpus, character-level similarity
+# (difflib.SequenceMatcher) scored a truck-CO2 op-ed as *more* similar to a passenger-car press
+# release than the car report the press release was actually announcing, because both titles
+# shared a generic template ("X on track to meet CO2 target"). Token overlap only fires on
+# shared distinctive words and doesn't have that failure mode.
+#
+# The 0.25 threshold was picked by manually reviewing every match the full corpus produced at
+# each score band: below ~0.25 the false-positive rate was high (short/generic titles sharing
+# one weak word, e.g. "Big oil profits should support the green transition" matched to "How
+# Russian oil flows to Europe" on "oil"+"europe" alone); at 0.25+ matches were consistently
+# correct announcement/substantive pairs. This trades away a few genuine matches that scored
+# right at the noisy floor — the safer failure mode, since the cost is a redundant press-release
+# source page (annoying) rather than two unrelated articles getting silently merged (wrong).
+PUB_TYPE_SUBSTANTIVENESS = {
+    "Report": 5,
+    "Briefing": 5,
+    "Publication": 4,
+    "Consultation response": 4,
+    "Op-ed": 3,
+    "Letter": 3,
+    "Open letter": 3,
+    "Post": 2,
+    "News": 2,
+    "Press release": 1,
+}
+DEFAULT_PUB_TYPE_SUBSTANTIVENESS = 2
+WIKI_ANNOUNCEMENT_TIER_MAX_RANK  = 2   # Press release / News / Post
+WIKI_DUP_TITLE_SIMILARITY        = 0.25  # min Jaccard overlap of stemmed title tokens
+WIKI_DUP_DATE_WINDOW_DAYS        = 10
 
 # — PUBLICATION TYPE NORMALISATION —
 pub_type_map = {

@@ -25,3 +25,4 @@ exclude:
   - Gemfile.lock
   - README.md
   - topics/DEDUP_INDEX.md
+  - sources/PROCESSED.csv

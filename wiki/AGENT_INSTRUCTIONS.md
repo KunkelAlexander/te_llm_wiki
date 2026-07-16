@@ -54,6 +54,9 @@ wiki/
                      first/last seen dates) — regenerated alongside topics/index.md but excluded
                      from the built site via _config.yml; topics/index.md itself is the public
                      page and stays a plain topic/type/summary table
+  sources/PROCESSED.csv   log of every article 1_build_wiki_subset.py has ever decided on
+                     (included or dropped as a duplicate) — see "Near-duplicate articles" below.
+                     Excluded from the built site via _config.yml. Never hand-edit.
   AGENT_INSTRUCTIONS.md   this file
 ```
 
@@ -71,6 +74,38 @@ search/embedding; it's just not rendered on the page. These pages are regenerate
 (never hand-edited) whenever the upstream filter/corpus changes — don't rely on their exact
 filenames staying stable across regenerations if the underlying title changes; re-check links
 after regenerating.
+
+### Near-duplicate articles
+
+T&E often publishes the same underlying work twice: a press release or news post announcing it,
+and the report/briefing itself. `1_build_wiki_subset.py` detects this automatically within each
+run — when two new candidates have a close title match, fall within `WIKI_DUP_DATE_WINDOW_DAYS`
+of each other, and sit in different substantiveness tiers (announcement: press release/news/post
+vs. substantive: report/briefing/publication/op-ed/letter — see `PUB_TYPE_SUBSTANTIVENESS` in
+`config.py`), only the more substantial one gets a source page. The announcement is **not**
+silently discarded: it's logged in `sources/PROCESSED.csv` with `status=dropped_duplicate` and
+`duplicate_of` pointing at the source page that supersedes it, so the decision stays auditable.
+Same-tier near-duplicate titles (e.g. two distinct country briefings published the same day) are
+deliberately never clustered this way — that pattern produces false positives (genuinely
+different documents that happen to share a title template).
+
+This only compares candidates within the same run. It does not (yet) check a new candidate
+against already-published source pages from a prior run — if a press release for an existing
+report surfaces weeks later under a different keyword pass, it will currently get its own source
+page rather than being recognized as a duplicate of the old one. If that starts happening in
+practice, extend `_cluster_duplicates` in `1_build_wiki_subset.py` to also compare against
+`status=included` rows in `PROCESSED.csv`, not just the current batch.
+
+### Processed-article log (`sources/PROCESSED.csv`)
+
+Every article this script has ever decided on — included or dropped as a duplicate — is logged
+here, one row per Article URL, the first time it's seen. This is what keeps re-running the script
+over a growing corpus (thousands of articles, many keyword passes over time) cheap and
+idempotent: already-decided Article URLs are skipped up front rather than re-read and re-decided
+every run, and a dropped duplicate stays dropped instead of reappearing as "new" just because a
+later keyword pass happens to match it too. The log bootstraps itself from existing
+`wiki/sources/*.md` frontmatter the first time it runs, so pages that predate the log count as
+already-decided. Never hand-edit it — it's rewritten by `1_build_wiki_subset.py` each run.
 
 ## Topic pages (`wiki/topics/*.md`)
 
