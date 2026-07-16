@@ -41,7 +41,9 @@ jobs:
 
       - name: Build Pagefind search index
         working-directory: wiki
-        run: npx -y pagefind --site _site
+        # --glob restricts indexing to topics/*.html: topic pages are the curated wiki content;
+        # source pages are raw reference material and shouldn't surface directly in search results.
+        run: npx -y pagefind --site _site --glob "topics/**/*.html"
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3

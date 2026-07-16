@@ -1,16 +1,18 @@
 ---
-title: T&E LLM Wiki (test subset)
+title: T&E Policy Wiki
 ---
 
-# T&E LLM Wiki — test subset
+{% assign topic_pages = site.pages | where_exp: "p", "p.path contains 'topics/' and p.name != 'index.md'" %}
+{% assign source_pages = site.pages | where_exp: "p", "p.path contains 'sources/' and p.name != 'index.md'" %}
 
-This is a small, hand-curated wiki built from Transport & Environment publications, following
-Karpathy's llmwiki pattern: pages are organized by **topic and argument**, not by publication, and
-cite the source documents they're built from.
+# T&E Policy Wiki
 
-This deployment is a **test subset**: only documents whose fulltext mentions "Simon Suzan" are
-included (12 source publications, 2021-2025). See `AGENT_INSTRUCTIONS.md` in the wiki source
-repository for how this wiki is generated and maintained, and how to extend it to the full corpus.
+A topic-based reference to Transport & Environment's published research. Pages are organized
+around **subjects** — fuels, vehicle segments, policy dossiers — rather than individual
+publications, tracking how T&E's positions and estimates have evolved over time. Every claim
+links back to the publication it's drawn from.
+
+**{{ topic_pages.size }}** topic pages, drawn from **{{ source_pages.size }}** source publications.
 
 - [Browse topics](topics/index.md)
 - [Browse sources](sources/index.md)

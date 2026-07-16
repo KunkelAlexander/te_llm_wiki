@@ -6,7 +6,7 @@ summary: >
   assumes, several "advanced/waste" categories look increasingly fraudulent, and land-based
   biofuels can be a net climate negative once indirect land-use change is counted.
 first_seen: 2024-07-01
-last_updated: 2025-10-09
+last_updated: 2025-11-05
 ---
 
 # Biofuels
@@ -39,12 +39,26 @@ to police, even under tightened certification rules.
 
 ## Shipping and the IMO Global Fuel Standard
 
+*See also: [IMO shipping fuel standard](imo-shipping-fuel-standard.md)* for the broader 2025
+political fight over the IMO's Net-Zero Framework — this subsection covers only the
+biofuel-feedstock-safeguard angle.
+
 [IMO: Fuelling deforestation](../sources/imo-fuelling-deforestation.md) (February 2025) applies
 the same high-ILUC-risk logic to the shipping sector: without excluding high-ILUC feedstocks
 (palm, soy) from the IMO's proposed Global Fuel Standard, the policy could increase net global
 emissions rather than cut them, since existing waste-oil feedstocks (UCO, animal fats, vegetable
 oils) cannot scale to meet IMO decarbonisation demand — T&E argues novel fuels (e-fuels, advanced
 cellulosic biofuels) are needed instead of a feedstock free-for-all.
+
+[EU transport plan sets out first steps to boost green fuel production for planes and ships](../sources/eu-transport-plan-sets-out-first-steps-to-boost-green-fuel-production-for-planes.md)
+(November 2025) shows the same biofuels-vs-e-fuels tension on the EU's own funding side: T&E
+welcomed the EU's planned double-sided auction for aviation/maritime e-fuels under its Sustainable
+Transport Investment Plan, but warned it must be restricted to e-fuels — if biofuels/biomethane
+remain eligible for the same funding, they risk crowding out scarce funding for e-fuels, and
+biomethane specifically should go to heating/industry rather than shipping. T&E noted extending
+the ETS to all long-haul flights could have raised over €7bn in a single year, and that including
+small shipping vessels could add roughly €2.4bn/year (2028-2035) — revenue it wants earmarked for
+e-fuels specifically.
 
 ## Global outlook to 2030
 
@@ -60,7 +74,21 @@ emit 70 MtCO2e more per year than displaced fossil fuels by 2030 (equivalent to 
 cars) — while T&E estimates returning that cropland to natural ecosystems could absorb over 400
 MtCO2e/year, nearly double the direct emissions the biofuels are credited with avoiding.
 
+This argument sharpened further in the run-up to COP30 (November 2025). T&E's
+[op-ed on Brazil's sustainable fuels pledge](../sources/brazil-s-sustainable-fuels-pledge-is-dangerously-ambitious-and-risks-repeating-m.md)
+(October 2025) criticized a Brazil/India/Italy/Japan COP30 pledge to quadruple global
+"sustainable fuel" use by 2035 — which T&E notes would more than double global biofuel use — for
+dropping the IEA's own caveat that such an increase should not require additional cropland; T&E
+called this omission "critical" given the risk of repeating past deforestation from palm, soy,
+sugarcane and corn expansion. Days later, [Scientists call on global leaders to limit crop biofuels ahead of COP30](../sources/scientists-call-on-global-leaders-to-limit-crop-biofuels-ahead-of-cop30.md)
+(an open letter with 100+ signatories, November 2025) generalised the same warning: meeting 2030
+biofuel feedstock demand would require 52 million hectares of cropland (+63% vs 2023, roughly the
+size of France) versus just 3% of that area if the equivalent energy came from solar, adding an
+estimated 34 MtCO2e/year (~30 million extra diesel cars) — with 92% of projected 2030 biofuel
+demand still food-crop-based. The letter calls for capping first-generation biofuels in climate
+mechanisms, phasing out crop-biofuel subsidies/mandates, and prioritising electrification instead.
+
 Read together, these reports show T&E's biofuels argument moving from "the sustainable supply is
 smaller than policy assumes" (2024) to "the current volumes already look fraudulent" (early 2025,
-see [POME](pome.md)) to "the entire global growth trajectory is a net climate negative" (late
-2025).
+see [POME](pome.md)) to "the entire global growth trajectory is a net climate negative, and
+COP30-era pledges risk making it worse" (late 2025).

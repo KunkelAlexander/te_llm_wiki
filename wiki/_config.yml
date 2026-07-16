@@ -1,7 +1,7 @@
-title: T&E LLM Wiki (test subset)
+title: T&E Policy Wiki
 description: >
-  Topic/entity-centric wiki synthesizing Transport & Environment's publications,
-  built with the llmwiki pattern. This is a test subset filtered on "Simon Suzan".
+  A topic-based reference to Transport & Environment's published research, tracking how
+  T&E's positions, arguments, and estimates have evolved across its publications over time.
 baseurl: "/te_llm_wiki"  # matches the repo name for project-page GitHub Pages
 
 markdown: kramdown
