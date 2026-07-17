@@ -6,7 +6,7 @@ summary: >
   T&E's push to keep EU hydrogen rules climate-honest as fossil (blue) hydrogen enters the
   market alongside green (renewable) hydrogen, warning that current lifecycle-accounting
   defaults understate blue hydrogen's real emissions.
-first_seen: 2025-09-23
+first_seen: 2024-02-13
 last_updated: 2025-09-23
 ---
 
@@ -16,6 +16,18 @@ last_updated: 2025-09-23
 
 *See also: [Oil and gas § Norway's Arctic expansion](oil-and-gas.md#norways-arctic-expansion-2024)*,
 which covers the same blue-vs-green cost comparison from the gas-supply side.
+
+Before the EU's blue-hydrogen accounting rules became the focus (below), T&E had already flagged
+that hydrogen's climate credentials depend heavily on where it's produced.
+[Hydrogen hype: Why the EU should be cautious about uncertain imports from far-flung places](../sources/hydrogen-hype-why-the-eu-should-be-cautious-about-uncertain-imports-from-far-flu.md)
+(Ricardo report for T&E, February 2024) examined the EU's reliance on hydrogen imports from
+countries such as Egypt and other desert-region exporters, warning this risks trading one energy
+dependency (fossil gas) for another and that large-scale renewables build-out for export-oriented
+green hydrogen production carries its own local environmental and social costs (land, water,
+ecosystem impacts). Ammonia and liquid hydrogen — the two main hydrogen carriers for long-distance
+import — each pass through energy-intensive conversion steps; ammonia can also be used directly
+for green steel production, the same industrial end-use covered in
+[EV battery and raw materials supply chains](ev-battery-and-raw-materials.md).
 
 [Blue threat: will the EU's hydrogen policy stay green?](../sources/blue-threat-will-the-eu-s-hydrogen-policy-stay-green.md)
 (September 2025) is T&E's assessment of the EU's Low-Carbon Fuels Delegated Act (adopted July

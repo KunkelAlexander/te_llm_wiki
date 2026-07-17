@@ -23,8 +23,8 @@ truck regulation, which shows the same "flexibilities blunt real ambition" patte
 [Electric vehicles](electric-vehicles.md) for the "Car taxation" and "Fleets" subtopics (EV-adoption
 policy mechanisms outside this CO2-standards framework); and
 [EV battery and raw materials supply chains](ev-battery-and-raw-materials.md) for Green Steel's
-"aluminium in cars" subtopic, which T&E frames as complementary to the tailpipe-CO2 fight covered
-here (decarbonising what the car is made of, not just what it emits while driving).
+"aluminium and steel in cars" subtopic, which T&E frames as complementary to the tailpipe-CO2 fight
+covered here (decarbonising what the car is made of, not just what it emits while driving).
 
 **Contents:** [Vans](#vans) · [EV market](#ev-market) · [E-fuels](#e-fuels)
 
@@ -110,6 +110,16 @@ percentage points. This is the car-specific angle on e-fuels that recurs across 
 angles on the same fuel type. ACEA's paper also asks to stop properly counting the real-world
 emissions of plug-in hybrids, which typically emit far more on-road than their official test-cycle
 figures.
+
+[Bend or break time for Europe's 2035 car CO2 rules](../sources/bend-or-break-time-for-europe-s-2035-car-co2-rules.md)
+(op-ed, October 2025) weighs the flexibilities on the table in the same 2025 review, distinguishing
+"limited, well defined" concessions — eco-innovation credits for clean materials like green
+batteries or green steel (see
+[EV battery and raw materials supply chains § Aluminium and steel in cars](ev-battery-and-raw-materials.md#aluminium-and-steel-in-cars),
+worth an estimated 2-4g CO2/km, or a 2-3% weakening of BEV sales), or a small allowance for
+extended-range EVs (EREVs) — from the German car lobby VDA's much broader "let's-destroy-the-CO2-
+regulation" demands. T&E's message: gutting the 2035 rules would remove a key pillar of the European
+Green Deal and consign Europe's carmakers to the car museum.
 
 This mirrors the pattern T&E has documented in truck CO2 standards and, earlier, in the van
 segment above: compliance flexibilities that look narrow in the regulatory text but materially

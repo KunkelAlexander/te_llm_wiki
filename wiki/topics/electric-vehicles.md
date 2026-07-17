@@ -6,7 +6,7 @@ summary: >
   T&E's work on EV adoption mechanisms beyond the EU fleet CO2 targets themselves — national
   purchase-subsidy design (e.g. France's life-cycle "éco-score") and other policy levers meant to
   accelerate and green the EV transition.
-first_seen: 2025-01-27
+first_seen: 2024-04-22
 last_updated: 2025-11-18
 ---
 
@@ -25,6 +25,35 @@ covered on this page.
 **Contents:** [Car taxation](#car-taxation) · [Fleets](#fleets) · [Charging infrastructure](#charging-infrastructure)
 
 ## Car taxation
+
+Before France's national éco-score (below), T&E had already been pushing for an EU-wide version of
+the same idea.
+[Making EVs fit for the future](../sources/making-evs-fit-for-the-future.md)
+(briefing with IMT and BEUC, April 2024) sets out how to design a life-cycle environmental score for
+EVs, covering both energy efficiency and the carbon footprint of materials — batteries, steel and
+aluminium account for most of an EV's non-tailpipe emissions. T&E frames the score as a green
+industrial-policy tool as much as a consumer-information one: by rewarding low-carbon materials, it
+would let the EU car market act as a lead market to scale up green steel, green aluminium and clean
+materials manufacturing (see
+[EV battery and raw materials supply chains](ev-battery-and-raw-materials.md)), and it could replace
+a patchwork of individual component-level rules (e.g. separate battery-carbon-footprint or green
+steel requirements) with one streamlined framework. The companion op-ed
+[A streamlined EV 'eco-score' would encourage green, made-in-Europe electric cars](../sources/a-streamlined-ev-eco-score-would-encourage-green-made-in-europe-electric-cars.md)
+(April 2024) made the same case publicly: combining energy efficiency and material carbon footprint
+into one score, rather than a growing list of separate requirements.
+
+Two months later,
+[Making the EU single market work for the Green Deal](../sources/making-the-eu-single-market-work-for-the-green-deal.md)
+(briefing, June 2024) folded the same ask into a broader EU regulatory-harmonisation paper: among
+its recommendations, merging the various vehicle material-carbon requirements (battery, green steel,
+green aluminium) into one single EU vehicle "ecoscore" to accelerate green-material investment, and
+standardising car labels across national markets. By September 2024, the campaign had become a joint
+industry-NGO push:
+[Joint call for an EU-wide vehicle environmental score to support the industrial transition](../sources/joint-call-for-an-eu-wide-vehicle-environmental-score-to-support-the-industrial-.md)
+(letter with BEUC, DUH and IMT, September 2024) asked the European Commission to adopt a methodology
+that would help meet 2050 climate neutrality while boosting "Made in EU" electric cars — framing
+embedded-carbon accounting for vehicles as a way to create a lead market for green steel, aluminium,
+refining and other decarbonisation technologies.
 
 France's éco-score (Environmental Score) is a life-cycle GHG scoring system for EVs, introduced by
 decree in October 2023, that conditions the "bonus écologique" purchase subsidy on a minimum score

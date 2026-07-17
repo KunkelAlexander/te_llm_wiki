@@ -7,7 +7,7 @@ summary: >
   vs. 1990, tightly limit international carbon credits and engineered removals, and hold
   transport — the only sector to have grown emissions since 1990 — to a much steeper cut than
   current policies deliver.
-first_seen: 2025-02-26
+first_seen: 2021-12-15
 last_updated: 2025-11-13
 ---
 
@@ -91,6 +91,13 @@ per year, worth $75-100bn/year.
 ETS2 (the EU's planned 2027 extension of carbon pricing to buildings and road transport fuels) is
 projected to raise around €300bn in revenue from 2026-2032 at a carbon price of €55/tCO2, with road
 transport accounting for 58% of ETS2 emissions.
+
+T&E's concern with making road-transport carbon pricing socially fair predates ETS2's final design.
+[The road to a road ETS: How to design a socially fair and environmentally effective system](../sources/the-road-to-a-road-ets-how-to-design-a-socially-fair-and-environmentally-effecti.md)
+(briefing, December 2021) proposed an early set of criteria for the road-transport emissions
+trading scheme and the Social Climate Fund (SCF), warning that without them SCF-linked green
+industry funding — including for green steel — could end up not benefiting the road transport and
+buildings sectors it was meant to support.
 
 [How to defuse the EU's carbon tax time bomb](../sources/how-to-defuse-the-eu-s-carbon-tax-time-bomb.md)
 (op-ed, April 2025) sets out T&E's earliest response to the political risk ETS2 carries — carbon

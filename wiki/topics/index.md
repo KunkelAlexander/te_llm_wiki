@@ -43,11 +43,11 @@ T&E's work, organized by subject. Each page tracks how T&E's position or estimat
 
 | Topic | Summary |
 |---|---|
+| [Hydrogen policy: blue vs. green](hydrogen-policy.md) | T&E's push to keep EU hydrogen rules climate-honest as fossil (blue) hydrogen enters the market alongside green (renewable) hydrogen, warning that current lifecycle-accounting defaults understate blue hydrogen's real emissions. |
 | [Oil and gas](oil-and-gas.md) | T&E's case that EU oil/gas demand is in structural long-term decline under every plausible scenario, making new fossil supply (Norwegian Arctic drilling so far; the durable topic covers any future oil/gas-supply story) unnecessary and a stranded-asset risk; blue hydrogen won't be cost-competitive with green hydrogen. |
 | [Biofuels](biofuels.md) | T&E's position on biofuels across 2024-2025: sustainable feedstock is far scarcer than policy assumes, several "advanced/waste" categories look increasingly fraudulent, and land-based biofuels can be a net climate negative once indirect land-use change is counted. |
 | [E-fuels financing and infrastructure](e-fuels-financing.md) | T&E's case that e-fuels (green hydrogen derivatives) are the only aviation/shipping fuel meeting sustainability, scalability and sovereignty criteria, but that a financing gap — not technology — is what's stalling projects, and its push for a Revenue Certainty Mechanism funded from ETS revenue to close it. |
 | [POME (Palm Oil Mill Effluent)](pome.md) | T&E's fraud finding: reported EU/UK POME "waste" biofuel volumes exceed plausible global production, suggesting POME is functioning as a disguised route for restricted palm oil. |
-| [Hydrogen policy: blue vs. green](hydrogen-policy.md) | T&E's push to keep EU hydrogen rules climate-honest as fossil (blue) hydrogen enters the market alongside green (renewable) hydrogen, warning that current lifecycle-accounting defaults understate blue hydrogen's real emissions. |
 
 ## Sustainable Finance
 
@@ -65,7 +65,7 @@ T&E's work, organized by subject. Each page tracks how T&E's position or estimat
 
 | Topic | Summary |
 |---|---|
-| [EV battery and raw materials supply chains](ev-battery-and-raw-materials.md) | T&E's push to make Europe's shift to EVs resilient and clean upstream, not just at the tailpipe: a critical raw materials strategy that goes beyond reshuffling, EU industrial policy for battery manufacturing, decarbonising materials like aluminium, catching up on LFP battery technology, and tighter circularity/mining-waste standards. |
+| [EV battery and raw materials supply chains](ev-battery-and-raw-materials.md) | T&E's push to make Europe's shift to EVs resilient and clean upstream, not just at the tailpipe: a critical raw materials strategy that goes beyond reshuffling, EU industrial policy for battery manufacturing, decarbonising materials like steel and aluminium (green steel/green aluminium uptake and its embedding in an EU-wide vehicle environmental score), catching up on LFP battery technology, and tighter circularity/mining-waste standards including the End-of-life Vehicles Regulation. |
 
 ## Mobility
 

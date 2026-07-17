@@ -2,7 +2,7 @@
 title: Sources
 ---
 
-# Sources (114)
+# Sources (133)
 
 Every T&E publication cited anywhere in this wiki. Open a source page for a link to the original publication.
 
@@ -13,9 +13,23 @@ Every T&E publication cited anywhere in this wiki. Open a source page for a link
 | [How regulation is failing to electrify Europe's van market](how-regulation-is-failing-to-electrify-europe-s-van-market.md) | 2021-05-10 | [Car and van CO2 standards](../topics/car-and-van-co2-standards.md) |
 | [LNG trucks: a dead-end bridge](lng-trucks-a-dead-end-bridge.md) | 2021-09-27 | [Zero-emission trucks](../topics/zero-emission-trucking.md) |
 | [EU truck targets too weak to incentivise transition to zero-emission vehicles](eu-truck-targets-too-weak-to-incentivise-transition-to-zero-emission-vehicles.md) | 2021-10-10 | [Zero-emission trucks](../topics/zero-emission-trucking.md) |
+| [The road to a road ETS: How to design a socially fair and environmentally effective system](the-road-to-a-road-ets-how-to-design-a-socially-fair-and-environmentally-effecti.md) | 2021-12-15 | [EU 2040 climate target](../topics/eu-2040-climate-target.md) |
+| [A carbon market that works for the climate and industry](a-carbon-market-that-works-for-the-climate-and-industry.md) | 2022-06-03 | [EV battery and raw materials supply chains](../topics/ev-battery-and-raw-materials.md) |
 | [Ready or not: Who are the frontrunners in the global race to clean up trucks?](ready-or-not-who-are-the-frontrunners-in-the-global-race-to-clean-up-trucks.md) | 2023-06-19 | [Zero-emission trucks](../topics/zero-emission-trucking.md) |
+| [How the EU's car scrapyard law can bring clean steel and aluminium to Europe](how-the-eu-s-car-scrapyard-law-can-bring-clean-steel-and-aluminium-to-europe.md) | 2023-07-06 | [EV battery and raw materials supply chains](../topics/ev-battery-and-raw-materials.md) |
+| [Hydrogen hype: Why the EU should be cautious about uncertain imports from far-flung places](hydrogen-hype-why-the-eu-should-be-cautious-about-uncertain-imports-from-far-flu.md) | 2024-02-13 | [Hydrogen policy: blue vs. green](../topics/hydrogen-policy.md) |
 | [On Thin Ice: Norway's Fossil Ambitions and the EU's Green Energy Future](on-thin-ice-norway-s-fossil-ambitions-and-the-eu-s-green-energy-future.md) | 2024-02-21 | [Oil and gas](../topics/oil-and-gas.md) |
+| [Making EVs fit for the future](making-evs-fit-for-the-future.md) | 2024-04-22 | [Electric vehicles](../topics/electric-vehicles.md) |
+| [Towards a €1 trillion package for Europe](towards-a-1-trillion-package-for-europe.md) | 2024-04-23 | [EV battery and raw materials supply chains](../topics/ev-battery-and-raw-materials.md) |
+| [A streamlined EV 'eco-score' would encourage green, made-in-Europe electric cars](a-streamlined-ev-eco-score-would-encourage-green-made-in-europe-electric-cars.md) | 2024-04-24 | [Electric vehicles](../topics/electric-vehicles.md) |
+| [What has the EU done for the planet and its citizens?](what-has-the-eu-done-for-the-planet-and-its-citizens.md) | 2024-05-06 | *(none yet)* |
+| [Making the EU single market work for the Green Deal](making-the-eu-single-market-work-for-the-green-deal.md) | 2024-06-24 | [Electric vehicles](../topics/electric-vehicles.md) |
 | [How sustainable are advanced and waste biofuels?](how-sustainable-are-advanced-and-waste-biofuels.md) | 2024-07-01 | [Biofuels](../topics/biofuels.md) |
+| [Cleaning up steel in cars: why and how?](cleaning-up-steel-in-cars-why-and-how.md) | 2024-07-10 | [EV battery and raw materials supply chains](../topics/ev-battery-and-raw-materials.md) |
+| [Green steel can cut the climate impact of car production for just €57 per car](gr-ner-stahl-kann-die-klimaauswirkungen-der-autoproduktion-f-r-nur-57-euro-pro-a.md) | 2024-07-10 | [EV battery and raw materials supply chains](../topics/ev-battery-and-raw-materials.md) |
+| [Joint call for an EU-wide vehicle environmental score to support the industrial transition](joint-call-for-an-eu-wide-vehicle-environmental-score-to-support-the-industrial-.md) | 2024-09-25 | [Electric vehicles](../topics/electric-vehicles.md) |
+| [T&E position paper on the End-of-life Vehicles Regulation](t-e-position-paper-on-the-end-of-life-vehicles-regulation.md) | 2024-10-30 | [EV battery and raw materials supply chains](../topics/ev-battery-and-raw-materials.md) |
+| [What investments are needed to green Europe's transport sector?](what-investments-are-needed-to-green-europe-s-transport-sector.md) | 2024-11-04 | *(none yet)* |
 | [Aviation: International scientists warn of warming impact of contrails and risks of delaying action](aviation-international-scientists-warn-of-warming-impact-of-contrails-and-risks-.md) | 2024-11-20 | [Aviation](../topics/aviation-decarbonisation.md) |
 | [Fuels for cars: a dead end for industry, consumers and the environment](fuels-for-cars-a-dead-end-for-industry-consumers-and-the-environment.md) | 2024-11-27 | [Car and van CO2 standards](../topics/car-and-van-co2-standards.md) |
 | [Coming soon: Your European train ticket with just one click](coming-soon-your-european-train-ticket-with-just-one-click.md) | 2024-11-28 | [Rail](../topics/rail.md) |
@@ -26,6 +40,7 @@ Every T&E publication cited anywhere in this wiki. Open a source page for a link
 | [Carbon market revenues can fund green fuels for shipping and aviation](carbon-market-revenues-can-fund-green-fuels-for-shipping-and-aviation.md) | 2024-12-16 | [E-fuels financing and infrastructure](../topics/e-fuels-financing.md) |
 | [Reducing emissions from non-road mobile machinery](reducing-emissions-from-non-road-mobile-machinery.md) | 2024-12-19 | *(none yet)* |
 | [Green aviation's make or break moment](green-aviation-s-make-or-break-moment.md) | 2024-12-20 | [E-fuels financing and infrastructure](../topics/e-fuels-financing.md) |
+| [Make, buy, protect Europe](make-buy-protect-europe.md) | 2024-12-20 | [EV battery and raw materials supply chains](../topics/ev-battery-and-raw-materials.md) |
 | [Aviation fuels and emissions trading - T&E consultation response](aviation-fuels-and-emissions-trading-t-e-consultation-response.md) | 2025-01-08 | [E-fuels financing and infrastructure](../topics/e-fuels-financing.md) |
 | [Aviation industry plans for growth 'irreconcilable' with Europe's climate goals](aviation-industry-plans-for-growth-irreconcilable-with-europe-s-climate-goals.md) | 2025-01-13 | [Aviation](../topics/aviation-decarbonisation.md) |
 | [Down to earth](down-to-earth.md) | 2025-01-13 | [Aviation](../topics/aviation-decarbonisation.md) |
@@ -49,6 +64,7 @@ Every T&E publication cited anywhere in this wiki. Open a source page for a link
 | [People do not simply want to get from A to B](people-do-not-simply-want-to-get-from-a-to-b.md) | 2025-03-31 | [Mobility](../topics/mobility.md) |
 | [Business travel: emissions from major global companies fell by a third between 2019 and 2023](voyages-d-affaires-les-missions-des-grandes-entreprises-mondiales-ont-recul-d-un.md) | 2025-04-01 | [Aviation](../topics/aviation-decarbonisation.md) |
 | [Why international shipping needs a global carbon levy AND a global fuel standard](why-international-shipping-needs-a-global-carbon-levy-and-a-global-fuel-standard.md) | 2025-04-08 | [IMO shipping fuel standard (Net-Zero Framework)](../topics/imo-shipping-fuel-standard.md) |
+| [Setting recycled-content targets for steel under the ELV Regulation](setting-recycled-content-targets-for-steel-under-the-elv-regulation.md) | 2025-04-09 | [EV battery and raw materials supply chains](../topics/ev-battery-and-raw-materials.md) |
 | [Palm oil in disguise?](palm-oil-in-disguise.md) | 2025-04-09 | [POME (Palm Oil Mill Effluent)](../topics/pome.md) |
 | ['Renewable diesel' sold by oil majors most likely contains fraudulent palm oil - study](renewable-diesel-sold-by-oil-majors-most-likely-contains-fraudulent-palm-oil-stu.md) | 2025-04-09 | [POME (Palm Oil Mill Effluent)](../topics/pome.md) |
 | [UN shipping agreement a victory for multilateralism but a failure for the climate](un-shipping-agreement-a-victory-for-multilateralism-but-a-failure-for-the-climat.md) | 2025-04-11 | [IMO shipping fuel standard (Net-Zero Framework)](../topics/imo-shipping-fuel-standard.md) |
@@ -74,7 +90,9 @@ Every T&E publication cited anywhere in this wiki. Open a source page for a link
 | [Transport decarbonisation is a lever for industrial competitiveness but the EU budget fails to capitalise on it](transport-decarbonisation-is-a-lever-for-industrial-competitiveness-but-the-eu-b.md) | 2025-07-16 | [EV battery and raw materials supply chains](../topics/ev-battery-and-raw-materials.md) |
 | [Countries obliged to include aviation contrails in climate plans under Paris Agreement, new legal advice shows](countries-obliged-to-include-aviation-contrails-in-climate-plans-under-paris-agr.md) | 2025-08-28 | [Aviation](../topics/aviation-decarbonisation.md) |
 | [Climate: states must take contrails into account to comply with the Paris Agreement, new legal analysis finds](climat-les-etats-doivent-prendre-en-compte-les-tra-n-es-de-condensation-pour-res.md) | 2025-08-28 | [Aviation](../topics/aviation-decarbonisation.md) |
+| [Volvo leading the way on green chassis by focusing on cleaner steel](volvo-leading-the-way-on-green-chassis-by-focusing-on-cleaner-steel.md) | 2025-09-04 | [EV battery and raw materials supply chains](../topics/ev-battery-and-raw-materials.md) |
 | [Which carmakers are leading the way on green steel?](which-carmakers-are-leading-the-way-on-green-steel.md) | 2025-09-04 | [EV battery and raw materials supply chains](../topics/ev-battery-and-raw-materials.md) |
+| [German car industry lags on green steel – Volvo leads the pack](deutsche-autoindustrie-hat-nachholbedarf-bei-gr-nem-stahl-volvo-an-der-spitze.md) | 2025-09-04 | [EV battery and raw materials supply chains](../topics/ev-battery-and-raw-materials.md) |
 | [EV progress report: Which EU carmakers are on track for 2025-27 targets?](ev-progress-report-which-eu-carmakers-are-on-track-for-2025-27-targets.md) | 2025-09-08 | [Car and van CO2 standards](../topics/car-and-van-co2-standards.md) |
 | [Unlocking e-fuels for aviation and shipping and clean transport infrastructure](unlocking-e-fuels-for-aviation-and-shipping-and-clean-transport-infrastructure.md) | 2025-09-09 | [E-fuels financing and infrastructure](../topics/e-fuels-financing.md) |
 | [Driving Change: Creating the EU's Ambitious 2040 Climate Commitment](driving-change-creating-the-eu-s-ambitious-2040-climate-commitment.md) | 2025-09-09 | [EU 2040 climate target](../topics/eu-2040-climate-target.md) |
@@ -82,6 +100,7 @@ Every T&E publication cited anywhere in this wiki. Open a source page for a link
 | [Blue threat: will the EU's hydrogen policy stay green?](blue-threat-will-the-eu-s-hydrogen-policy-stay-green.md) | 2025-09-23 | [Hydrogen policy: blue vs. green](../topics/hydrogen-policy.md) |
 | [E-fuels as the key to Germany's competitiveness and industrial leadership](e-fuels-als-schl-ssel-f-r-deutschlands-wettbewerbsf-higkeit-und-industrielle-f-h.md) | 2025-09-24 | [E-fuels financing and infrastructure](../topics/e-fuels-financing.md) |
 | [Youth, consumer and environmental NGOs call on the EU to improve rail ticket booking](youth-consumer-and-environmental-ngos-call-on-the-eu-to-improve-rail-ticket-book.md) | 2025-09-29 | [Rail](../topics/rail.md) |
+| [Bend or break time for Europe's 2035 car CO2 rules](bend-or-break-time-for-europe-s-2035-car-co2-rules.md) | 2025-10-01 | [Car and van CO2 standards](../topics/car-and-van-co2-standards.md) |
 | [Aviation taxation: for T&E, the Fnam's arguments lack credibility](fiscalit-de-l-a-rien-pour-t-e-l-argumentaire-de-la-fnam-manque-de-cr-dibilit.md) | 2025-10-02 | [Aviation](../topics/aviation-decarbonisation.md) |
 | [Carbon leakage in the aviation sector: Is it a problem and if so what can be done to address it?](carbon-leakage-in-the-aviation-sector-is-it-a-problem-and-if-so-what-can-be-done.md) | 2025-10-06 | [Aviation](../topics/aviation-decarbonisation.md) |
 | [Leaked car industry paper: carmakers' EU demands would cut EV sales in half](leaked-car-industry-paper-carmakers-eu-demands-would-cut-ev-sales-in-half.md) | 2025-10-08 | [Car and van CO2 standards](../topics/car-and-van-co2-standards.md) |
