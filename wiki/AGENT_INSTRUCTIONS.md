@@ -185,12 +185,25 @@ underserved, rather than defaulting to whichever topic page already exists being
 resistance. Update this list as gaps get filled or new ones are noticed.
 
 **Zero-emission trucks currently under-splits its section on purpose.** T&E's own site divides
-Trucks into three subtopics (CO2 standards / false solutions / enabling conditions), but this
-wiki's `zero-emission-trucking.md` covers all three in one page — correct for now, per the
-"don't split until there's enough content" pattern above, given the current source volume. If truck
-sources keep arriving, split along T&E's own three lines rather than letting one page grow
-indefinitely; that will also require adding `section: "Trucks"` to each resulting page (already the
-section this page uses today).
+Trucks into three subtopics (CO2 standards / false solutions / enabling conditions).
+`zero-emission-trucking.md` already organizes its `##` subsections along those same three lines
+(as of 2025-11-21) but keeps them on one page — correct for now, per the "don't split until there's
+enough content" pattern above, given the current source volume. If truck sources keep arriving,
+promote each `##` subsection to its own page along the same three lines rather than letting one
+page grow indefinitely; each resulting page keeps `section: "Trucks"` (already the section this
+page uses today).
+
+This same "reorganize `##` subsections into T&E's own named subtopics, even before there's enough
+content to split into separate pages" pattern was applied across the wiki on 2025-11-21 — see
+`aviation-decarbonisation.md` (Airplane pollution / Aviation taxes / Airports / Sustainable
+aviation fuels), `car-and-van-co2-standards.md` (Vans / EV market / E-fuels),
+`electric-vehicles.md` (Car taxation / Fleets), `eu-2040-climate-target.md` (adds an `## ETS2`
+subsection matching Climate Instruments' one named subpage), and
+`ev-battery-and-raw-materials.md` (Aluminium in cars / Battery recycling and the End-of-life
+Vehicles Regulation / Critical raw materials and industrial policy — the last of these three
+doesn't correspond to a named Green Steel subtopic and is filed there as the closest match, not a
+1:1 mapping). Apply the same discipline to new subsections: name them after the matching T&E
+subtopic when one exists, rather than an ad-hoc description of the specific source.
 
 Body: immediately below the `# Title` heading (before any hatnote), add a one-line freshness marker
 mirroring the frontmatter's `last_updated`:

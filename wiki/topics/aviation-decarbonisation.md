@@ -15,33 +15,27 @@ last_updated: 2025-11-13
 
 *Updated: 2025-11-13*
 
+Sections below follow T&E's own "Planes" subtopics where this wiki has matching content. Two of
+T&E's real Planes subtopics — **Contrails and non-CO2 emissions** and **Elite/high-emission flying**
+(corporate travel) — have no dedicated wiki coverage yet; the only mention of contrails so far is
+one sentence in [EU 2040 climate target § Transport is the outlier sector](eu-2040-climate-target.md#transport-is-the-outlier-sector).
+
+**Contents:** [Airplane pollution](#airplane-pollution) · [Aviation taxes](#aviation-taxes) · [Airports](#airports) · [Sustainable aviation fuels](#sustainable-aviation-fuels)
+
+## Airplane pollution
+
 [Aviation industry plans for growth 'irreconcilable' with Europe's climate goals](../sources/aviation-industry-plans-for-growth-irreconcilable-with-europe-s-climate-goals.md)
 ("Down to Earth", January 2025) argues that projected traffic growth will overwhelm any
 efficiency or Sustainable Aviation Fuel (SAF) gains: under an industry "High Growth" scenario, EU
 aviation fuel burn rises 59% by 2050 versus 2019, and even a 42% SAF mandate leaves emissions
 almost flat (falling less than 3% by 2049 versus 2019). T&E frames this against the aviation
 sector's carbon budget for 1.5°C, which it estimates could be exhausted as early as 2026 (2033 for
-1.7°C, 2043 for 2.0°C).
-
-This report connects directly to T&E's broader biofuels-scarcity argument (see
-[Biofuels](biofuels.md)): it projects
-that by 2050, four out of every five litres of SAF could come from unsustainable feedstock,
-putting up to 385 MtCO2 of claimed biofuel savings (2025-2050) at risk. As an alternative,
-e-kerosene is described as scalable but extremely electricity-intensive — meeting a 35% e-kerosene
-mandate would require 585 TWh of renewable electricity by 2050, more than Germany's entire 2023
-electricity demand (506 TWh) — see [E-fuels financing and infrastructure](e-fuels-financing.md)
-for T&E's view on what it will actually take to build that e-kerosene supply.
-
-Even the European Commission's own 2040 modelling, which assumes 60% lower traffic growth than
-industry projections, still shows a 46% emissions increase by 2040 versus the 1990 baseline
-against a target of -90%; unchecked industry growth could add a further 960 MtCO2 versus that
-Commission scenario. T&E's policy response is to curb airport expansion, remove fossil fuel
-subsidies for aviation, and promote rail as a substitute for short-haul flights, rather than
+1.7°C, 2043 for 2.0°C). Even the European Commission's own 2040 modelling, which assumes 60% lower
+traffic growth than industry projections, still shows a 46% emissions increase by 2040 versus the
+1990 baseline against a target of -90%; unchecked industry growth could add a further 960 MtCO2
+versus that Commission scenario. T&E's policy response is to curb airport expansion, remove fossil
+fuel subsidies for aviation, and promote rail as a substitute for short-haul flights, rather than
 relying on efficiency and SAF alone.
-
-**Contents:** [EU ETS scope and carbon leakage](#eu-ets-scope-and-carbon-leakage) · [CORSIA offsetting vs. EU ETS](#corsia-offsetting-vs-eu-ets) · [Aircraft manufacturer innovation stall](#aircraft-manufacturer-innovation-stall) · [Airline cost lobbying vs. the data](#airline-cost-lobbying-vs-the-data) · [Debunking the economic case for airport expansion](#debunking-the-economic-case-for-airport-expansion) · [Aviation taxation: fairness and scope questions](#aviation-taxation-fairness-and-scope-questions)
-
-## EU ETS scope and carbon leakage
 
 [Carbon leakage in the aviation sector](../sources/carbon-leakage-in-the-aviation-sector-is-it-a-problem-and-if-so-what-can-be-done.md)
 (CE Delft study for T&E, October 2025) backs T&E's push to extend the EU ETS to all flights
@@ -56,8 +50,6 @@ ETS's full scope. The study also assesses five possible countermeasures against 
 approaches used in other sectors, e.g. shipping's EU ETS) as worth further legal vetting rather
 than a reason to abandon scope extension.
 
-## CORSIA offsetting vs. EU ETS
-
 [European aviation set to spend billions on offsetting schemes](../sources/european-aviation-set-to-spend-billions-on-offsetting-schemes.md)
 (T&E and Carbon Market Watch, September 2025, ahead of the 42nd ICAO Assembly) makes T&E's case
 that the EU's own carbon-pricing route (extending the ETS) is a far better mechanism than the
@@ -69,10 +61,8 @@ inflated deforestation baseline, illustrating a broader low-integrity-offset con
 estimates CORSIA compliance will cost European aviation €7-43bn over 2024-2035 depending on
 credit-market conditions, versus extending the EU ETS to all departing flights from 2027, which
 Carbon Market Watch estimates could raise an extra €147bn by 2040 — money T&E argues should
-instead fund real decarbonisation (see
-[E-fuels financing and infrastructure](e-fuels-financing.md)).
-
-## Aircraft manufacturer innovation stall
+instead fund real decarbonisation (see [Sustainable aviation fuels](#sustainable-aviation-fuels)
+below).
 
 [La faible innovation dans l'aérien risque de ralentir la décarbonation de l'aviation](../sources/la-faible-innovation-dans-l-a-rien-risque-de-ralentir-la-d-carbonation-de-l-avia.md)
 ("The aviation industry and the stall in aircraft innovation", briefing, June 2025) shifts the
@@ -98,7 +88,7 @@ electric aircraft (not just biofuels) in EU clean-aviation rules, exempt zero-em
 from airport charges and give them priority slots (including on publicly funded routes), and
 accelerate certification of new designs.
 
-## Airline cost lobbying vs. the data
+## Aviation taxes
 
 [Airlines blame taxes, fees and charges: The data says otherwise](../sources/airlines-blame-taxes-fees-and-charges-the-data-says-otherwise.md)
 (TU Chemnitz study for T&E, October 2025) directly counters the airline industry's recurring
@@ -121,12 +111,21 @@ not location costs. A later French briefing,
 [La fiscalité de l'aérien et les divers coûts par aéroport ont un faible impact sur le niveau de trafic](../sources/la-fiscalit-de-l-a-rien-et-les-divers-co-ts-par-a-roport-ont-un-faible-impact-su.md)
 (November 2025), extends the same conclusion to French airports specifically.
 
-## Debunking the economic case for airport expansion
+Beyond the demand-effect debate above, T&E has also weighed in on narrower aviation fiscal
+questions: a French legal analysis,
+[Fiscalité : les résidents d'Outre-mer peuvent être exonérés de taxe sur les billets d'avion](../sources/fiscalit-les-r-sidents-d-outre-mer-peuvent-tre-exon-r-s-de-taxe-sur-les-billets-.md)
+(October 2025), finds that residents of France's overseas territories may be legally exempt from
+the aviation ticket tax given their lack of alternative transport options; and
+[European long-distance passenger transport - VAT gap analysis](../sources/european-long-distance-passenger-transport-vat-gap-analysis.md)
+(T&E's response to the European Commission's VAT consultation, November 2025) flags VAT-treatment
+gaps between air travel and other long-distance passenger modes.
+
+## Airports
 
 [Economics of air transport in Europe](../sources/economics-of-air-transport-in-europe.md)
-(report, November 2025) challenges a second industry argument — that passenger/traffic growth
-itself drives economic growth, and is therefore a reason to expand airport capacity. The
-accompanying press releases
+(report, November 2025) challenges the industry argument that passenger/traffic growth itself
+drives economic growth, and is therefore a reason to expand airport capacity. The accompanying
+press releases
 ([New analysis debunks the assumption that air passenger growth drives economic growth](../sources/new-analysis-debunks-the-assumption-that-air-passenger-growth-drives-economic-gr.md);
 German: [Neue Analyse: Mehr Flugverkehr führt meist nicht zu Wirtschaftswachstum](../sources/neue-analyse-mehr-flugverkehr-f-hrt-meist-nicht-zu-wirtschaftswachstum.md))
 cite Frankfurt airport's continued expansion despite regional "market saturation" as a concrete
@@ -138,13 +137,13 @@ expansions specifically, concluding they are incompatible with the aviation sect
 commitments, and reiterating that passenger growth is not the reliable economic driver the airport
 lobby claims.
 
-## Aviation taxation: fairness and scope questions
+## Sustainable aviation fuels
 
-Beyond the demand-effect debate above, T&E has also weighed in on narrower aviation fiscal
-questions: a French legal analysis,
-[Fiscalité : les résidents d'Outre-mer peuvent être exonérés de taxe sur les billets d'avion](../sources/fiscalit-les-r-sidents-d-outre-mer-peuvent-tre-exon-r-s-de-taxe-sur-les-billets-.md)
-(October 2025), finds that residents of France's overseas territories may be legally exempt from
-the aviation ticket tax given their lack of alternative transport options; and
-[European long-distance passenger transport - VAT gap analysis](../sources/european-long-distance-passenger-transport-vat-gap-analysis.md)
-(T&E's response to the European Commission's VAT consultation, November 2025) flags VAT-treatment
-gaps between air travel and other long-distance passenger modes.
+*Main article: [Biofuels § Sustainability limits of advanced and waste biofuels](biofuels.md#sustainability-limits-of-advanced-and-waste-biofuels)
+and [E-fuels financing and infrastructure](e-fuels-financing.md).* T&E's SAF/e-kerosene work is
+substantial enough to warrant its own pages rather than duplicating them here: in short, biofuel-
+derived SAF faces a scarce, increasingly fraud-prone feedstock supply, while e-kerosene is scalable
+but extremely electricity-intensive — meeting a 35% e-kerosene mandate would require 585 TWh of
+renewable electricity by 2050, more than Germany's entire 2023 electricity demand (506 TWh). See
+those two pages for T&E's full case on feedstock scarcity, fraud risk, and the financing gap this
+wiki tracks separately from the traffic-growth argument above.

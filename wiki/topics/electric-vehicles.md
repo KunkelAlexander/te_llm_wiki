@@ -14,16 +14,17 @@ last_updated: 2025-11-18
 
 *Updated: 2025-11-18*
 
-*See also: [Car and van CO2 standards](car-and-van-co2-standards.md)* for T&E's watchdog work on
-the EU's fleet-wide CO2 targets and industry attempts to weaken them — this page instead covers
-policy mechanisms aimed at accelerating EV adoption directly, such as national purchase
-incentives. *Main article: [EV battery and raw materials supply chains](ev-battery-and-raw-materials.md)*
-for T&E's work on the upstream materials, industrial policy and circularity questions behind the
-EV transition.
+This page covers T&E's "Car taxation" and "Fleets" subtopics — policy mechanisms aimed at
+accelerating EV adoption directly, distinct from the fleet-wide CO2 targets themselves. *See also:*
+[Car and van CO2 standards § EV market](car-and-van-co2-standards.md#ev-market) for T&E's watchdog
+work on those CO2 targets and industry attempts to weaken them. *Main article:
+[EV battery and raw materials supply chains](ev-battery-and-raw-materials.md)* (Green Steel) for the
+upstream materials, industrial policy and circularity questions behind the EV transition — not
+covered on this page.
 
-**Contents:** [Éco-score: life-cycle environmental scoring in France](#co-score-life-cycle-environmental-scoring-in-france) · [Finance sector alignment on EV leasing](#finance-sector-alignment-on-ev-leasing)
+**Contents:** [Car taxation](#car-taxation) · [Fleets](#fleets)
 
-## Éco-score: life-cycle environmental scoring in France
+## Car taxation
 
 France's éco-score (Environmental Score) is a life-cycle GHG scoring system for EVs, introduced by
 decree in October 2023, that conditions the "bonus écologique" purchase subsidy on a minimum score
@@ -51,7 +52,7 @@ methodology, so if T&E's simplified EU-wide scoring proposal can't be characteri
 full-life-cycle, the safer route is a legislative amendment to Article 7a rather than the
 Commission stretching its delegated powers to adopt a simplified version unilaterally.
 
-## Finance sector alignment on EV leasing
+## Fleets
 
 [Leasing automobile : le Crédit Agricole réhausse son ambition en faveur de l'électrique](../sources/leasing-automobile-le-cr-dit-agricole-r-hausse-son-ambition-en-faveur-de-l-lectr.md)
 (press release, November 2025) welcomes Crédit Agricole's strengthened commitments to electrify its

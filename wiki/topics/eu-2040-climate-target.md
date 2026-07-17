@@ -20,7 +20,11 @@ last_updated: 2025-11-13
 target, the framework that will shape the next decade of EU sectoral policy — including the
 vehicle CO2 standards and carbon-pricing dossiers covered elsewhere in this wiki.
 
-**Contents:** [Headline ask and guardrails on credits/removals](#headline-ask-and-guardrails-on-creditsremovals) · [Transport is the outlier sector](#transport-is-the-outlier-sector) · [Economic framing](#economic-framing) · [October-November 2025: the target gets watered down](#october-november-2025-the-target-gets-watered-down)
+T&E's real "Climate Instruments" topic covers the Paris Agreement, the EU ETS and the Effort
+Sharing Regulation in-page, with only ETS2 (the 2027 carbon-pricing extension to buildings and
+road transport fuels) as its own named subpage — see [ETS2](#ets2) below.
+
+**Contents:** [Headline ask and guardrails on credits/removals](#headline-ask-and-guardrails-on-creditsremovals) · [Transport is the outlier sector](#transport-is-the-outlier-sector) · [Economic framing](#economic-framing) · [ETS2](#ets2) · [October-November 2025: the target gets watered down](#october-november-2025-the-target-gets-watered-down)
 
 ## Headline ask and guardrails on credits/removals
 
@@ -43,7 +47,7 @@ Fit for 55 policies are on track to deliver as written — a gap driven largely 
 shipping, whose emissions are projected to keep rising (+13% versus 1990) even as road transport
 emissions roughly halve. T&E's recommendation is to hold the line on measures already covered
 elsewhere in this wiki — the 2035 combustion-engine phase-out for cars (see
-[Car and van CO2 standards](car-and-van-co2-standards.md)), ETS2, and truck CO2
+[Car and van CO2 standards](car-and-van-co2-standards.md)), [ETS2](#ets2), and truck CO2
 targets (see [Zero-emission trucks](zero-emission-trucking.md)) — and to bring aviation's
 non-CO2 warming effects (contrails) into EU climate law for the first time, since EU ETS aviation
 coverage currently captures only 64 MtCO2 of aviation's emissions, leaving roughly 70% of aviation
@@ -54,13 +58,19 @@ CO2 outside the scheme (see [Aviation](aviation-decarbonisation.md)).
 T&E frames stronger climate policy as already economically net-positive for the EU: it cites 2023
 avoided fossil-fuel import costs of roughly €59bn against roughly €110bn of renewables
 investment, and separately estimates EU oil savings of 150-200 million tonnes of oil equivalent
-per year, worth $75-100bn/year. It also notes ETS2 (covering buildings and road transport fuels)
-is projected to raise around €300bn in revenue from 2026-2032 at a carbon price of €55/tCO2, with
-road transport accounting for 58% of ETS2 emissions.
+per year, worth $75-100bn/year.
+
+## ETS2
+
+ETS2 (the EU's planned 2027 extension of carbon pricing to buildings and road transport fuels) is
+projected to raise around €300bn in revenue from 2026-2032 at a carbon price of €55/tCO2, with road
+transport accounting for 58% of ETS2 emissions.
 [ETS2 reform will limit price spikes and make redistribution easier, says T&E](../sources/ets2-reform-will-limit-price-spikes-and-make-redistribution-easier-says-t-e.md)
 (October 2025) welcomed a reform of the ETS2 mechanism intended to dampen carbon-price spikes, but
 argued it is now down to national governments to properly use the redistributed revenue to support
-low- and middle-income households through the transition away from fossil fuels.
+low- and middle-income households through the transition away from fossil fuels. This connects to
+[Fossil fuel windfall taxation](fossil-fuel-taxation.md), where T&E makes the same
+household-energy-cost-exposure argument from the tax-revenue side.
 
 ## October-November 2025: the target gets watered down
 
