@@ -15,4 +15,6 @@ doc_ids: [164c4862-33d3-577a-9aa4-7de4d33c7e42]
 
 [Read the original publication](https://www.transportenvironment.org/articles/airbus-hydrogen-plane-crash-time-for-a-reality-check)
 
-*(No abstract available for this publication.)*
+*(No abstract was published for this document; summary below written from the source text.)*
+
+An op-ed by T&E's Executive Director on Airbus quietly delaying its hydrogen aircraft programme, arguing this confirms that without binding regulation a near-monopoly manufacturer will not sustain a programme less profitable than its existing aircraft line, despite an estimated €1.5bn in French public money backing it.

@@ -15,4 +15,6 @@ doc_ids: [226a08b2-f8e4-5690-9712-e30a771a8dfd]
 
 [Read the original publication](https://www.transportenvironment.org/articles/trumps-attack-on-un-shipping-deal-is-a-harbinger-of-whats-to-come-heres-how-countries-can-still-get-climate-action-done)
 
-*(No abstract available for this publication.)*
+*(No abstract was published for this document; summary below written from the source text.)*
+
+An op-ed on the US government's pressure campaign at the IMO, which led member states to postpone by a year a shipping emissions deal they had already agreed in principle six months earlier — read by T&E as a warning sign for how difficult it will now be to secure ambitious international climate deals against US opposition.

@@ -108,6 +108,31 @@ page rather than being recognized as a duplicate of the old one. If that starts 
 practice, extend `_cluster_duplicates` in `1_build_wiki_subset.py` to also compare against
 `status=included` rows in `PROCESSED.csv`, not just the current batch.
 
+### Language and missing abstracts (manual post-processing step)
+
+This wiki is English-only, but the underlying corpus includes French and German office
+publications, and not every publication has a machine-readable abstract. `1_build_wiki_subset.py`
+cannot fix either of these itself (translation and summarization need judgment, not a fixed
+script), so after running it — as part of step 2 of the update workflow below — check every new
+source page for two things and hand-fix in place:
+
+- **Non-English title/quote**: translate the frontmatter `title`, the `# Title` heading and the
+  blockquote to English — `sources/index.md` (a public page) and every topic-page citation link
+  render straight from the frontmatter `title`/link text, so leaving it in French/German defeats
+  the point for any reader not fluent in that language. Immediately under the heading, add an
+  italicized `*Original title (French/German): "...""* line with the untranslated title, so the
+  page still reads as a citation of that specific document and a reader following `article_url`
+  back to the original isn't surprised by a mismatched title. Translate the blockquote quote
+  itself too (it's paraphrasing the source for an English reader, not reproducing a quotable
+  original-language string, so translating it doesn't lose anything).
+- **No abstract available**: instead of leaving the "(No abstract available...)" placeholder,
+  read the fulltext in `output/metadata_with_fulltext.parquet` (matched by the page's `id`) and
+  write a one- or two-sentence factual summary yourself, in the same third-person voice as a real
+  T&E abstract. Mark it clearly as editorial, not a quote from the publication, e.g.:
+  `*(No abstract was published for this document; summary below written from the source text.)*`
+  followed by the summary as a plain paragraph (not a blockquote, to avoid implying it's a T&E
+  quote).
+
 ### Processed-article log (`sources/PROCESSED.csv`)
 
 Every article this script has ever decided on — included or dropped as a duplicate — is logged
@@ -281,7 +306,9 @@ When new source pages appear (after re-running the extraction script over more d
    whether a given source is already covered anywhere, which flags sources nobody has processed
    yet (empty "cited by").
 2. For each new/unprocessed source, read it and identify which existing topics it touches
-   and whether it introduces a new topic worth a page.
+   and whether it introduces a new topic worth a page. Also fix it up per "Language and missing
+   abstracts" above if it's non-English or has no abstract — do this before citing it from a topic
+   page, so the topic page's prose is drawing on an English source.
 3. Update matching topic pages: add a dated entry if it changes/extends an estimate or position;
    otherwise add a citation if it simply corroborates an existing point. Don't duplicate content
    that's already well covered — a second citation for an unchanged point is enough.

@@ -33,7 +33,7 @@ emissions alone (e.g. France's malus CO2), it accounts for emissions from manufa
 transport to market — significant because up to 60% of an EV's total emissions can occur before
 it's ever driven, mostly from battery production.
 
-[Quel avenir fiscal pour le score environnemental (éco-score) ?](../sources/quel-avenir-fiscal-pour-le-score-environnemental-co-score.md)
+[What fiscal future for the environmental score (éco-score)?](../sources/quel-avenir-fiscal-pour-le-score-environnemental-co-score.md)
 (a legal memorandum by Baldon Avocats for T&E, dated November 2024 and published January 2025)
 lays out T&E's proposal to replace the single threshold with a **tiered** score — multiple bands
 giving the cleanest EVs the largest subsidies — and to make that tiered score a central metric for
@@ -54,7 +54,7 @@ Commission stretching its delegated powers to adopt a simplified version unilate
 
 ## Fleets
 
-[Leasing automobile : le Crédit Agricole réhausse son ambition en faveur de l'électrique](../sources/leasing-automobile-le-cr-dit-agricole-r-hausse-son-ambition-en-faveur-de-l-lectr.md)
+[Car leasing: Crédit Agricole raises its ambition on electric vehicles](../sources/leasing-automobile-le-cr-dit-agricole-r-hausse-son-ambition-en-faveur-de-l-lectr.md)
 (press release, November 2025) welcomes Crédit Agricole's strengthened commitments to electrify its
 car-financing and leasing activities — coming, T&E notes, against a backdrop of industry pushback
 against climate targets elsewhere in the car sector (see

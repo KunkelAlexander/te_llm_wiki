@@ -62,8 +62,9 @@ Carbon Market Watch estimates could raise an extra €147bn by 2040 — money T&
 instead fund real decarbonisation (see [Sustainable aviation fuels](#sustainable-aviation-fuels)
 below).
 
-[La faible innovation dans l'aérien risque de ralentir la décarbonation de l'aviation](../sources/la-faible-innovation-dans-l-a-rien-risque-de-ralentir-la-d-carbonation-de-l-avia.md)
-(also published in English as [The aviation industry and the stall in aircraft innovation](../sources/the-aviation-industry-and-the-stall-in-aircraft-innovation.md), briefing, June 2025) shifts the
+[Weak innovation in aviation risks slowing the sector's decarbonisation](../sources/la-faible-innovation-dans-l-a-rien-risque-de-ralentir-la-d-carbonation-de-l-avia.md)
+(French briefing, June 2025; also published in English as
+[The aviation industry and the stall in aircraft innovation](../sources/the-aviation-industry-and-the-stall-in-aircraft-innovation.md)) shifts the
 argument from traffic growth and fuel to aircraft technology itself: Airbus and Boeing's most
 innovative aircraft projects are delayed or paused, most "new" models are re-engined versions of
 existing airframes, and neither manufacturer has a genuinely new aircraft planned for the next
@@ -88,7 +89,7 @@ accelerate certification of new designs.
 
 [Airline emissions soar to pre-COVID levels as Europe fails to price their pollution](../sources/airline-emissions-soar-to-pre-covid-levels-as-europe-fails-to-price-their-pollut.md)
 (T&E report, April 2025; French release:
-[L'aviation européenne émet presque autant de CO2 qu'avant le Covid](../sources/l-aviation-europ-enne-met-presque-autant-de-co2-qu-avant-le-covid.md))
+[European aviation emits almost as much CO2 as before Covid](../sources/l-aviation-europ-enne-met-presque-autant-de-co2-qu-avant-le-covid.md))
 confirms the 2024 rebound the traffic-growth argument above anticipated: 8.4 million flights
 departed European airports, emitting 187.6 MtCO2 (+8% on 2023), with intra-EEA flights already
 exceeding their 2019 levels and extra-European flights catching up fast. Ryanair remained the
@@ -117,14 +118,14 @@ demand trends than taxes and fees.
 The accompanying press releases in Brussels
 ([New study: Aviation taxes, charges and fees have limited impact on passenger numbers](../sources/new-study-aviation-taxes-charges-and-fees-have-limited-impact-on-passenger-numbe.md))
 and Germany
-([Neue Studie: Standortkosten beeinflussen Passagierzahlen nur begrenzt](../sources/neue-studie-standortkosten-beeinflussen-passagierzahlen-nur-begrenzt.md))
+([New study: Location costs have only a limited effect on passenger numbers](../sources/neue-studie-standortkosten-beeinflussen-passagierzahlen-nur-begrenzt.md))
 reiterate the same finding: aviation demand is driven mainly by travel trends and airline strategy,
 not location costs. A later French briefing,
-[La fiscalité de l'aérien et les divers coûts par aéroport ont un faible impact sur le niveau de trafic](../sources/la-fiscalit-de-l-a-rien-et-les-divers-co-ts-par-a-roport-ont-un-faible-impact-su.md)
+[Aviation taxation and various per-airport costs have limited impact on traffic levels](../sources/la-fiscalit-de-l-a-rien-et-les-divers-co-ts-par-a-roport-ont-un-faible-impact-su.md)
 (November 2025), extends the same conclusion to French airports specifically.
 
 A parallel skirmish plays out in the French budget process:
-[Fiscalité de l'aérien : pour T&E, l'argumentaire de la Fnam manque de crédibilité](../sources/fiscalit-de-l-a-rien-pour-t-e-l-argumentaire-de-la-fnam-manque-de-cr-dibilit.md)
+[Aviation taxation: for T&E, the Fnam's arguments lack credibility](../sources/fiscalit-de-l-a-rien-pour-t-e-l-argumentaire-de-la-fnam-manque-de-cr-dibilit.md)
 (T&E France, October 2025) rebuts the French airline lobby Fnam's push — echoed uncritically by
 the budget's rapporteur général — for a "significant, even selective" cut to aviation taxation.
 T&E argues French aviation remains under-taxed overall (no kerosene tax, no VAT on many flights, a
@@ -137,7 +138,7 @@ year-on-year over June-July 2025 even as Heathrow's fell.
 
 Beyond the demand-effect debate above, T&E has also weighed in on narrower aviation fiscal
 questions: a French legal analysis,
-[Fiscalité : les résidents d'Outre-mer peuvent être exonérés de taxe sur les billets d'avion](../sources/fiscalit-les-r-sidents-d-outre-mer-peuvent-tre-exon-r-s-de-taxe-sur-les-billets-.md)
+[Taxation: overseas-territory residents could be exempt from the airline ticket tax](../sources/fiscalit-les-r-sidents-d-outre-mer-peuvent-tre-exon-r-s-de-taxe-sur-les-billets-.md)
 (October 2025), finds that residents of France's overseas territories may be legally exempt from
 the aviation ticket tax given their lack of alternative transport options; and
 [European long-distance passenger transport - VAT gap analysis](../sources/european-long-distance-passenger-transport-vat-gap-analysis.md)
@@ -151,11 +152,11 @@ gaps between air travel and other long-distance passenger modes.
 drives economic growth, and is therefore a reason to expand airport capacity. The accompanying
 press releases
 ([New analysis debunks the assumption that air passenger growth drives economic growth](../sources/new-analysis-debunks-the-assumption-that-air-passenger-growth-drives-economic-gr.md);
-German: [Neue Analyse: Mehr Flugverkehr führt meist nicht zu Wirtschaftswachstum](../sources/neue-analyse-mehr-flugverkehr-f-hrt-meist-nicht-zu-wirtschaftswachstum.md))
+German: [New analysis: More air traffic mostly does not lead to economic growth](../sources/neue-analyse-mehr-flugverkehr-f-hrt-meist-nicht-zu-wirtschaftswachstum.md))
 cite Frankfurt airport's continued expansion despite regional "market saturation" as a concrete
 case where additional flight capacity brings no — or even negative — economic-growth effect.
 
-[Les projets d'extension des aéroports français incompatibles avec les objectifs climat du secteur aérien](../sources/les-projets-d-extension-des-a-roports-fran-ais-incompatibles-avec-les-objectifs-.md)
+[French airport expansion projects incompatible with the aviation sector's own climate goals](../sources/les-projets-d-extension-des-a-roports-fran-ais-incompatibles-avec-les-objectifs-.md)
 (briefing with Carbone 4, November 2025) applies the same argument to planned French airport
 expansions specifically, concluding they are incompatible with the aviation sector's own climate
 commitments, and reiterating that passenger growth is not the reliable economic driver the airport
@@ -176,7 +177,7 @@ wiki tracks separately from the traffic-growth argument above.
 
 [Countries obliged to include aviation contrails in climate plans under Paris Agreement, new legal advice shows](../sources/countries-obliged-to-include-aviation-contrails-in-climate-plans-under-paris-agr.md)
 (T&E and Opportunity Green legal advice, August 2025; French release:
-[Climat : les Etats doivent prendre en compte les traînées de condensation pour respecter l'Accord de Paris](../sources/climat-les-etats-doivent-prendre-en-compte-les-tra-n-es-de-condensation-pour-res.md))
+[Climate: states must account for contrails to comply with the Paris Agreement](../sources/climat-les-etats-doivent-prendre-en-compte-les-tra-n-es-de-condensation-pour-res.md))
 is T&E's first substantial push specifically on aviation's non-CO2 effects — contrails, NOx, water
 vapour and soot — whose combined warming impact T&E puts at least equal to that of aviation's CO2.
 Updating a 2021 opinion covering aviation and shipping generally, the new legal advice concludes
@@ -190,7 +191,7 @@ without follow-up legislation, is not the same as addressing the impact (see als
 
 ## Elite/high-emission flying
 
-[Voyages d'affaires : les émissions des grandes entreprises mondiales ont reculé d'un tiers entre 2019 et 2023](../sources/voyages-d-affaires-les-missions-des-grandes-entreprises-mondiales-ont-recul-d-un.md)
+[Business travel: emissions from major global companies fell by a third between 2019 and 2023](../sources/voyages-d-affaires-les-missions-des-grandes-entreprises-mondiales-ont-recul-d-un.md)
 (T&E France press release on the Travel Smart campaign's corporate ranking, April 2025) is T&E's
 main data point on corporate/elite flying: business-travel emissions across 239 ranked
 multinationals were down 34% on 2019 in 2023, but the gain is fragile and uneven — 44% of the 326

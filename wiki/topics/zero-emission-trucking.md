@@ -62,7 +62,7 @@ electrification rather than complementing it.
 ## Enabling conditions
 
 The German long-haul decarbonisation study
-([Die Dekarbonisierung des Lkw-Fernverkehrs in Deutschland](../sources/die-dekarbonisierung-des-lkw-fernverkehrs-in-deutschland.md),
+([Decarbonising long-haul trucking in Germany](../sources/die-dekarbonisierung-des-lkw-fernverkehrs-in-deutschland.md),
 2021) compared battery-electric (BEV), overhead-catenary BEV, hydrogen fuel-cell (FCEV), and
 e-fuel ICE trucks. Direct electrification needs the equivalent of only 46% of Germany's 2020 net
 renewable electricity generation by 2050 to fully electrify long-haul trucking, versus 75% for a
@@ -95,10 +95,10 @@ product's price) — used to argue the shipper-procurement lever is nearly free 
 unlocking demand that TCO alone hasn't yet delivered (TNO's 2022 finding that electric trucks
 already undercut diesel on TCO by 2035 notwithstanding).
 
-[Poids lourds électriques : comment transformer l'essai](../sources/poids-lourds-lectriques-comment-transformer-l-essai.md)
+[Electric heavy-duty trucks: how to turn the trial into a success](../sources/poids-lourds-lectriques-comment-transformer-l-essai.md)
 (French briefing, October 2025) extends the same demand-side lever to the national level, setting
 out proposals to support demand for zero-emission trucks in France specifically. And
-[Camions électriques longue distance : la révolution est en marche dans le transport routier](../sources/camions-lectriques-longue-distance-la-r-volution-est-en-marche-dans-le-transport.md)
+[Long-distance electric trucks: the revolution is underway in road transport](../sources/camions-lectriques-longue-distance-la-r-volution-est-en-marche-dans-le-transport.md)
 (French briefing, November 2025) argues the enabling conditions have already arrived in practice:
 it presents concrete cases of hauliers already running electric trucks on long-distance routes as
 day-to-day operational reality, not a pilot.

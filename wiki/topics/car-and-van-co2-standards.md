@@ -75,7 +75,7 @@ By November 2025, the EU's plan to make small EVs more affordable had become par
 market-share story:
 [Europe's affordable car project needs to put the Va Va Voom into small EVs](../sources/europe-s-affordable-car-project-needs-to-put-the-va-va-voom-into-small-evs.md)
 (op-ed) and its French-language companion piece
-[L'Europe doit favoriser les voitures électriques abordables](../sources/l-europe-doit-favoriser-les-voitures-lectriques-abordables-mais-sans-revenir-sur.md)
+[Europe must support affordable electric cars](../sources/l-europe-doit-favoriser-les-voitures-lectriques-abordables-mais-sans-revenir-sur.md)
 argue that the EU's "small affordable cars initiative" could benefit both consumers and the
 domestic car industry — but only if it avoids becoming a backdoor to weaken safety standards or the
 emissions gains already secured under the CO2 regulation.

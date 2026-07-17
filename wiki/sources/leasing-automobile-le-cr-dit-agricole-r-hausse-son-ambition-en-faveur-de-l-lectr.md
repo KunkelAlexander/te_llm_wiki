@@ -1,6 +1,6 @@
 ---
 id: 3dc4f0e2-1359-556e-adac-a5e98d9f48e2
-title: "Leasing automobile : le Crédit Agricole réhausse son ambition en faveur de l'électrique"
+title: "Car leasing: Crédit Agricole raises its ambition on electric vehicles"
 date: 2025-11-18T12:23:00
 office: France
 publication_type: Press release
@@ -9,10 +9,12 @@ pdf_url: https://www.transportenvironment.org/te-france/articles/leasing-automob
 doc_ids: [3dc4f0e2-1359-556e-adac-a5e98d9f48e2]
 ---
 
-# Leasing automobile : le Crédit Agricole réhausse son ambition en faveur de l'électrique
+# Car leasing: Crédit Agricole raises its ambition on electric vehicles
+
+*Original title (French): "Leasing automobile : le Crédit Agricole réhausse son ambition en faveur de l'électrique"*
 
 *Press release · France · 2025-11-18*
 
 [Read the original publication](https://www.transportenvironment.org/te-france/articles/leasing-automobile-le-credit-agricole-rehausse-son-ambition-en-faveur-de-lelectrique)
 
-> À contre-courant des remises en cause actuelles des objectifs climatiques dans le secteur automobile, le Crédit Agricole annonce de nouveaux engagements pour l'électrification de ses activités de financement automobile. Transport & Environment (T&E) et Reclaim Finance saluent un signal fort et appellent le reste du secteur bancaire à s'aligner.
+> Bucking the current trend of walking back climate targets in the car industry, Crédit Agricole announces new commitments to electrify its car-financing business. Transport & Environment (T&E) and Reclaim Finance welcome a strong signal and call on the rest of the banking sector to follow suit.
