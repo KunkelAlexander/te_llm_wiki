@@ -8,12 +8,12 @@ summary: >
   transport — the only sector to have grown emissions since 1990 — to a much steeper cut than
   current policies deliver.
 first_seen: 2021-12-15
-last_updated: 2025-11-13
+last_updated: 2026-07-17
 ---
 
 # EU 2040 climate target
 
-*Updated: 2025-11-13*
+*Updated: 2026-07-17*
 
 [Driving Change: Creating the EU's Ambitious 2040 Climate Commitment](../sources/driving-change-creating-the-eu-s-ambitious-2040-climate-commitment.md)
 (September 2025, T&E consultation response) sets out T&E's position on the EU's 2040 climate
@@ -28,7 +28,25 @@ road transport fuels) as its own named subpage — see [ETS2](#ets2) below. -->
 
 ## Headline ask and guardrails on credits/removals
 
-The first warning sign came months before T&E's own September consultation response:
+T&E's own position predates the Commission's eventual proposal by well over a year.
+[Setting 2040 climate ambition](../sources/setting-2040-climate-ambition.md)
+(June 2023, T&E's response to the Commission's public consultation) first set out the target range
+T&E would keep arguing for through 2025: its "Road to Zero" transport modelling found the Fit for
+55 package as written would deliver only a 30% transport-emissions cut by 2040 versus 1990, against
+roughly 70% T&E judged achievable, and it used this gap to argue for an economy-wide target of at
+least 90% (rather than the 100% it considered technically possible but too disruptive to model in
+detail), including non-CO2 aviation effects and a firm separation between real emissions cuts and
+carbon removals — guardrails that carried through unchanged into T&E's later submissions below.
+When the Commission finally published its communication,
+[EU sets historic target to reduce emissions by 2040 but transport sector puts target at risk](../sources/eu-sets-historic-target-to-reduce-emissions-by-2040-but-transport-sector-puts-ta.md)
+(February 2024) welcomed the headline 90% figure as historic but criticised the Commission's own
+modelling for still projecting 46 million tonnes of oil equivalent of "unabated" oil and gas use in
+2050 — enough to power 900,000 transatlantic flights — with no accompanying fossil-fuel phase-out
+plan, and for leaving international shipping and long-haul aviation emissions largely outside the
+target's scope (see [Aviation](aviation-decarbonisation.md)).
+
+The first warning sign ahead of the Commission's *legislative* proposal came months before T&E's
+own September 2025 consultation response:
 [EU plans to boost green aviation and shipping fuels, but sends worrying signal on 2040 climate goal](../sources/eu-plans-to-boost-green-aviation-and-shipping-fuels-but-sends-worrying-signal-on.md)
 (press release, February 2025; French release:
 [Réaction de T&E au Pacte pour une industrie propre et à la proposition dite "Omnibus"](../sources/r-action-de-t-e-au-pacte-pour-une-industrie-propre-et-la-proposition-dite-omnibu.md))

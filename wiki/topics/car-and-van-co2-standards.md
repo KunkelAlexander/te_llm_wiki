@@ -8,12 +8,12 @@ summary: >
   weak compliance loopholes and industry lobbying (e.g. counting biofuels/e-fuels as
   zero-emission) that undercut the 2035 target on paper without changing its headline percentage.
 first_seen: 2021-05-10
-last_updated: 2025-11-21
+last_updated: 2026-07-17
 ---
 
 # Car and van CO2 standards
 
-*Updated: 2025-11-21*
+*Updated: 2026-07-17*
 
 Cars and vans are regulated together under the same EU law, Regulation 2019/631 ("CO2 emission
 performance standards for new passenger cars and for new light commercial vehicles"), so T&E's
@@ -87,6 +87,27 @@ more important to keep the EV market's trajectory, and the transport sector's ov
 on track.
 
 ## E-fuels
+
+T&E's case against e-fuels for cars predates the 2024-25 sources below by several years.
+[Magic green fuels: Why synthetic fuels in cars will not solve Europe's pollution problems](../sources/magic-green-fuels-why-synthetic-fuels-in-cars-will-not-solve-europe-s-pollution-.md)
+(2021) commissioned lab tests (IFPEN) on e-petrol's air-pollutant emissions in real cars, finding
+synthetic fuel does not solve the air-pollution problem it is sometimes marketed as fixing. A
+refining-industry-data analysis the following year,
+[A drop of e-fuel in an ocean of oil](../sources/a-drop-of-e-fuel-in-an-ocean-of-oil.md) (2022),
+found there will never be enough synthetic fuel production to meaningfully decarbonise Europe's
+existing combustion-engine car fleet, undercutting the "keep running old cars on e-fuel" argument
+directly. The cost case sharpened in 2023 as Germany pushed to keep e-fuels eligible under the car
+CO2 law: [Over €200 to fill up a car – the cost of Germany's bid to keep combustion engines](../sources/over-200-to-fill-up-a-car-the-cost-of-germany-s-bid-to-keep-combustion-engines.md)
+(press release; French version:
+[E-fuels: a full tank of petrol around 50% more expensive if Germany gets its way](../sources/e-fuels-un-plein-d-essence-environ-50-plus-cher-si-l-allemagne-obtient-gain-de-c.md))
+found Chancellor Scholz's e-fuels push would cost drivers more at the pump while worsening both CO2
+and air-pollutant emissions versus fossil petrol — the same cost gap the 2024 "dead end" briefing
+below would later quantify at the household level. Germany's push succeeded regardless: its 2021
+coalition agreement
+([Germany confirms end of combustion engine era – but doesn't say how](../sources/germany-confirms-end-of-combustion-engine-era-but-doesn-t-say-how.md))
+backed the EU's 2035 zero-emission target in principle while explicitly carving out an allowance
+for e-fuel-powered internal combustion engines outside the CO2 standards — the ambiguity T&E warned
+would later be exploited in the fights the sources above and below document.
 
 [Fuels for cars: a dead end for industry, consumers and the environment](../sources/fuels-for-cars-a-dead-end-for-industry-consumers-and-the-environment.md)
 (briefing, November 2024) set out T&E's baseline case against allowing any liquid fuel — synthetic

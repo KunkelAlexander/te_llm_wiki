@@ -7,12 +7,12 @@ summary: >
   trucking; LNG is a false solution; EU truck CO2 targets have repeatedly undershot both available
   tech and industry's own trajectory.
 first_seen: 2021-04-06
-last_updated: 2025-11-17
+last_updated: 2026-07-17
 ---
 
 # Zero-emission trucks
 
-*Updated: 2025-11-17*
+*Updated: 2026-07-17*
 
 T&E's consistent position since 2021 is that **direct electrification (battery-electric, with
 overhead-catenary electric road systems as a complementary option) is the dominant realistic
@@ -60,6 +60,21 @@ also modelled that even with subsidies of up to 6x the fossil gas retail price, 
 only cover 4-28% of expected 2050 road freight energy demand across the six largest EU countries
 — used to argue that LNG/biomethane investment is a stranded-asset risk that displaces
 electrification rather than complementing it.
+
+T&E made the same "false solution" case against e-fuels specifically ahead of the December 2022
+truck CO2 standards review.
+[Running a truck on e-diesel costs 47% more than its battery-electric counterpart](../sources/running-a-truck-on-e-diesel-costs-47-more-than-its-battery-electric-counterpart.md)
+found a 2035 diesel truck running on pure e-diesel would cost 47% more to buy and fuel than an
+equivalent battery-electric truck (BET), while still emitting 41% more greenhouse gases over its
+lifetime even under a 100%-renewable-electricity best case for e-diesel production. Green hydrogen
+is also too scarce to spare for trucks: T&E estimated the oil industry's own e-fuel supply
+projections could cover only 6% of EU trucks' 2035 energy demand, whereas that same e-fuel volume
+could instead meet 13% of aviation's demand or 6% of shipping's — sectors with no realistic
+battery-electric alternative, unlike trucks (see [E-fuels financing and infrastructure](e-fuels-financing.md)
+for the aviation/shipping side of that allocation argument). T&E's conclusion: a fuel-crediting
+system in the truck CO2 standards would be inefficient, unenforceable — truckmakers cannot verify
+what fuel a truck actually runs on — and would only delay the battery-electric transition by
+creating investment uncertainty.
 
 ## Enabling conditions
 

@@ -6,13 +6,13 @@ summary: >
   T&E's position on biofuels across 2024-2025: sustainable feedstock is far scarcer than policy
   assumes, several "advanced/waste" categories look increasingly fraudulent, and land-based
   biofuels can be a net climate negative once indirect land-use change is counted.
-first_seen: 2024-07-01
-last_updated: 2025-11-05
+first_seen: 2021-04-19
+last_updated: 2026-07-17
 ---
 
 # Biofuels
 
-*Updated: 2025-11-05*
+*Updated: 2026-07-17*
 
 Across 2024-2025, T&E's biofuels work builds a consistent, hardening case: sustainable biofuel
 feedstocks are far scarcer than policy targets assume, "advanced" or "waste" labels are
@@ -58,6 +58,47 @@ relies entirely on paper-based supply-chain audits rather than physical testing 
 certifier, ISCC, had over 1,275 valid UCO certificates at the time, all under a "mass-balance"
 system that doesn't require physically segregating certified and uncertified oil, leaving the
 entire scheme vulnerable to the same kind of paper-only fraud POME illustrates.
+
+This UCO fraud case built over several years.
+[Europe's surging demand for used cooking oil could fuel deforestation](../sources/europe-s-surging-demand-for-used-cooking-oil-could-fuel-deforestation.md)
+(CE Delft study for T&E, 2021) first warned that the EU's green fuels law was pushing UCO demand
+toward a projected doubling by 2030, a volume domestic collection cannot supply, forcing growing
+reliance on dubious imports. By late 2023,
+[Europe's massive dependence on used cooking oil imports raises fears of fraud](../sources/la-gigantesque-d-pendance-de-l-europe-aux-importations-d-huile-de-cuisson-usag-e.md)
+(France) found that dependence had already become acute as airlines increasingly promoted UCO-based
+fuels, and [Used cooking oil: from miracle fuel to fear of fraud](../sources/l-huile-de-cuisson-usag-e-du-carburant-miracle-la-crainte-de-la-fraude.md)
+(France, 2024) — the companion briefing to the UCO report above — flagged suspiciously high export
+volumes from Malaysia specifically as a red flag for virgin-palm-oil mislabeling. An earlier T&E
+study of the underlying trade flows,
+[UCO (Unknown Cooking Oil): High hopes on limited and suspicious materials](../sources/uco-unknown-cooking-oil-high-hopes-on-limited-and-suspicious-materials.md)
+(mid-2024), had already flagged Europe's growing reliance on Asian UCO imports as economically
+fragile as well as fraud-prone, ahead of the certification-specific findings above.
+
+A parallel fraud risk runs through animal fats.
+[Pigs do fly: the rise of animal fats in European transport](../sources/pigs-do-fly-the-rise-of-animal-fats-in-european-transport.md)
+(report, May 2023; press release:
+['Pigs do fly': Growing use of animal fats in cars and planes increasingly unsustainable](../sources/pigs-do-fly-growing-use-of-animal-fats-in-cars-and-planes-increasingly-unsustain.md))
+found animal fats face the same scarcity and fraud risk as other "waste" feedstocks — illustrated
+starkly by the finding that flying from Paris to New York on animal-fat-based fuel would require
+the fat of 8,800 dead pigs.
+
+Palm-oil derivatives specifically became a flashpoint in the ReFuelEU Aviation biofuel-definition
+fight: [Airline and green NGO urge MEPs to exclude palm oil by-products from European aviation](../sources/airline-and-green-ngo-urge-meps-to-exclude-palm-oil-by-products-from-european-av.md)
+(2022) warned that fuels linked to deforestation and food-price rises risked flooding the European
+aviation market if palm-oil by-products weren't excluded from the mandate's eligible-feedstock
+list — see [Sustainable aviation fuels § The ReFuelEU Aviation mandate](sustainable-aviation-fuels.md#the-refueleu-aviation-mandate)
+for how that vote played out.
+
+T&E has also investigated specific companies' biofuels feedstock sourcing.
+[From Farm to Fuel: inside Eni's African biofuels gamble](../sources/from-farm-to-fuel-inside-eni-s-african-biofuels-gamble.md)
+(2024) found the Italian oil major's plan to develop new agricultural biofuel feedstock production
+across six African countries — part of the Meloni government's "Mattei Plan" energy-diplomacy
+push — falling well short of its promised drought-resistant "miracle crop" yields in Kenya and the
+Republic of Congo (press release: [Uncovered: Italian oil giant's African biofuels gamble falls short](../sources/uncovered-italian-oil-giant-s-african-biofuels-gamble-falls-short.md)).
+Separately, [Oil companies invest 8 times more in biofuels than in hydrogen](../sources/les-groupes-p-troliers-investissent-8-fois-plus-dans-les-biocarburants-que-dans-.md)
+(France, 2023) found European oil refiners were channelling investment overwhelmingly toward the
+less sustainable biofuels route rather than green hydrogen — a pattern T&E frames as refiners
+favouring the cheaper, more fraud-prone option over the harder but more genuinely sustainable one.
 
 ## Shipping and the IMO Global Fuel Standard
 

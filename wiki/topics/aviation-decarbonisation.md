@@ -8,17 +8,17 @@ summary: >
   demand-side measures (curb airport expansion, promote rail, extend EU ETS) rather than tech
   alone, disputes industry claims that taxes/charges are what's suppressing demand, and pushes
   for non-CO2/contrail regulation and corporate/elite-flying accountability.
-first_seen: 2025-01-13
-last_updated: 2025-11-13
+first_seen: 2020-02-03
+last_updated: 2026-07-17
 ---
 
 # Aviation
 
-*Updated: 2025-11-13*
+*Updated: 2026-07-17*
 
 <!-- Sections below follow T&E's own "Planes" subtopics. -->
 
-**Contents:** [Airplane pollution](#airplane-pollution) · [Aviation taxes](#aviation-taxes) · [Airports](#airports) · [Sustainable aviation fuels](#sustainable-aviation-fuels) · [Contrails and non-CO2 emissions](#contrails-and-non-co2-emissions) · [Elite/high-emission flying](#elitehigh-emission-flying)
+**Contents:** [Airplane pollution](#airplane-pollution) · [Aviation taxes](#aviation-taxes) · [Airports](#airports) · [Sustainable aviation fuels](#sustainable-aviation-fuels) · [Airplane air pollution and health](#airplane-air-pollution-and-health) · [Contrails and non-CO2 emissions](#contrails-and-non-co2-emissions) · [Elite/high-emission flying](#elitehigh-emission-flying)
 
 ## Airplane pollution
 
@@ -37,7 +37,16 @@ report's own policy asks: end airport-expansion-driven traffic growth, remove fo
 by fully pricing and taxing departing flights, direct the resulting revenue toward scaling e-kerosene
 specifically rather than SAF in general, and unlock rail's potential to compete with planes by
 improving cross-border ticketing and TEN-T implementation (see [Rail](rail.md)) — demand-side
-measures T&E argues are necessary rather than relying on efficiency and SAF alone.
+measures T&E argues are necessary rather than relying on efficiency and SAF alone. This traffic-
+growth-versus-climate-pledge tension is one T&E identified years earlier:
+[Aviation's climate pledges contradicted by huge growth forecasts](../sources/aviation-s-climate-pledges-contradicted-by-huge-growth-forecasts.md)
+(2021) first asked whether the sector's 2050 carbon-neutrality pledge was compatible with its own
+growth forecasts, and T&E's 2022
+["Roadmap to climate neutral aviation"](../sources/why-flying-less-offers-the-best-path-to-sustainable-aviation.md)
+concluded that reducing flying itself — not just efficiency and fuel-switching — was the fastest
+available lever while technical solutions scale up, a position T&E revisited as pandemic-era
+travel reductions faded ([How long will flying less remain the best way to reduce aviation's climate impact?](../sources/how-long-will-flying-less-remain-the-best-way-to-reduce-aviation-s-climate-impac.md),
+2022).
 
 [Carbon leakage in the aviation sector](../sources/carbon-leakage-in-the-aviation-sector-is-it-a-problem-and-if-so-what-can-be-done.md)
 (CE Delft study for T&E, October 2025) backs T&E's push to extend the EU ETS to all flights
@@ -50,7 +59,104 @@ context, it notes CORSIA (the industry-favoured global alternative) only prices 
 85%-of-2019 baseline, i.e. only 15% of emissions are actually priced under CORSIA versus the EU
 ETS's full scope. The study also assesses five possible countermeasures against leakage (mirroring
 approaches used in other sectors, e.g. shipping's EU ETS) as worth further legal vetting rather
-than a reason to abandon scope extension.
+than a reason to abandon scope extension. This builds on T&E's own earlier
+[Assessment of carbon leakage potential for European aviation](../sources/assessment-of-carbon-leakage-potential-for-european-aviation.md)
+(2022), a study of direct flights stopping over at non-EU airports that first raised the leakage
+question the 2025 CE Delft study was commissioned to settle in more depth.
+
+T&E's push to extend carbon pricing to aviation goes back over a decade further still.
+[The Billion Euro Aviation Bonanza](../sources/the-billion-euro-aviation-bonanza-aviation-s-participation-in-the-eu-ets.md)
+(2013) argued that windfall profits airlines stood to gain from a proposed freeze on international
+flights' EU ETS obligations should go to the UN's Green Climate Fund rather than the airlines
+themselves, while
+[Allocating aviation CO2 emissions](../sources/allocating-aviation-co2-emissions-the-airspace-based-approach-and-its-alternativ.md)
+(2013) took T&E's case directly to ICAO's own High Level Group, rebutting a proposal to allocate
+international aviation emissions by "airspace" rather than by departing flight or carrier
+nationality. T&E also pushed for enforcement, not just design:
+[an open letter to the German government](../sources/open-letter-to-the-german-government-to-provide-public-proof-of-german-enforceme.md)
+(2014) demanded public proof that Germany was actually enforcing the EU ETS against non-compliant
+carriers, and
+[a letter to the Commission ahead of the 2013 ICAO Assembly](../sources/letter-to-the-commission-on-icao-assembly.md)
+pressed the same argument that would recur throughout the following decade: a UN-level scheme is no
+substitute for the EU's own carbon pricing. When ICAO began drafting CORSIA's implementing rules,
+[T&E's response to ICAO's draft CORSIA rules](../sources/aviation-carbon-offsetting-scheme-icao-circulates-draft-rules.md)
+(2018) raised the same concern years before CORSIA actually launched.
+
+T&E's push to extend carbon pricing to aviation is not new: it dates back to the sector's original
+entry into the EU ETS. Early scoping work —
+[Revision of the EU ETS for aviation](../sources/revision-of-the-eu-ets-for-aviation.md),
+[Making the aviation ETS fit for purpose](../sources/making-the-aviation-ets-fit-for-purpose.md),
+[The costs of EU ETS and Corsia for European aviation](../sources/the-costs-of-eu-ets-and-corsia-for-european-aviation.md)
+and [T&E's response to the EU ETS inception impact assessment](../sources/response-to-the-emissions-trading-system-ets-inception-impact-assessment.md)
+(all 2020) — argued the EU scheme needed strengthening rather than deferring to ICAO's rival
+CORSIA offsetting scheme, whose flaws T&E detailed in
+[The EU's assessment of the Corsia airline CO2 deal](../sources/the-eu-s-assessment-of-the-corsia-airline-co2-deal.md)
+(2021) and [Understanding the indirect land use change analysis for Corsia](../sources/understanding-the-indirect-land-use-change-analysis-for-corsia.md)
+(2020). Through 2022, T&E successfully pushed for the ETS to be extended rather than replaced by
+CORSIA: EU governments approved the extension
+([EU governments approve extension of polluter pays principle](../sources/eu-governments-approve-extension-of-polluter-pays-principle.md);
+[EU set for major expansion of carbon market](../sources/eu-set-for-major-expansion-of-carbon-market.md)),
+with T&E-commissioned modelling showing a fuller scope extension could cut aviation emissions by up
+to 53% more than the plan on the table
+([More ambitious European carbon market could slash aviation emissions by an extra 53%](../sources/more-ambitious-european-carbon-market-could-slash-aviation-emissions-by-an-extra.md)),
+and four low-cost airlines publicly backing the case for closing carbon-leakage loopholes
+([Airlines call for an end to loopholes in carbon market and back European climate measures](../sources/airlines-call-for-an-end-to-loopholes-in-carbon-market-and-back-european-climate.md)).
+T&E nonetheless judged the final December 2022 deal a disappointment for leaving long-haul flights
+unpriced
+([EU aviation deal will see another lost decade in tackling emissions](../sources/eu-aviation-deal-will-see-another-lost-decade-in-tackling-emissions.md)),
+just as it had judged ICAO's rival CORSIA goal empty and its offsetting scheme too cheap to matter
+([UN body ICAO hails empty goal and cheap offsetting scheme to 'green' aviation](../sources/un-body-icao-hails-empty-goal-and-cheap-offsetting-scheme-to-green-aviation.md);
+[Would airlines benefit from evading EU climate measures?](../sources/would-airlines-benefit-from-evading-eu-climate-measures.md)
+found they would not) — the same pattern of incremental, loophole-prone EU deals against a weaker
+global backstop that recurs in the 2025 sources above.
+[The true climate effect of German air and sea transport](../sources/der-wahre-klimaeffekt-des-deutschen-luft-und-seeverkehrs.md)
+(Germany, March 2022) made the same extra-EEA-scope argument at national level: Germany's own
+Climate Protection Act only counts domestic flights and shipping routes — 8% of German aviation and
+shipping's true emissions — so international (extra-EEA) flights and voyages, already a fifth of
+Germany's transport emissions, would push the sector 25% over its legal emissions budget once
+properly counted; the report's fix mirrors the EU-level ask above, with revenue from extending the
+ETS to those flights directed toward RFNBOs (see [Sustainable aviation fuels](#sustainable-aviation-fuels)
+below).
+
+Looking back on 2022 as a whole,
+[Aviation's ivory tower may be starting to fall](../sources/aviation-s-ivory-tower-may-be-starting-to-fall.md)
+(op-ed, December 2022) argued the year had cracked, if not toppled, aviation's decades-long
+immunity from climate regulation: private-jet scrutiny following celebrity flight-tracking
+controversies (see [Elite/high-emission flying](#elitehigh-emission-flying) below), France's first
+short-haul flight ban, the ReFuelEU green-fuels mandate clearing Parliament, and the start of
+non-CO2 monitoring all landed the same year — even as the op-ed conceded the December 2022 ETS deal
+above left long-haul flights, 60% of EU aviation emissions, still unpriced.
+
+The EU's proposed sustainable-finance taxonomy became a parallel greenwashing fight in 2023:
+[EU investment rules will greenwash 90% of Airbus' polluting planes](../sources/eu-investment-rules-will-greenwash-90-of-airbus-polluting-planes.md)
+and the accompanying op-ed
+[EU taxonomy for aviation: Will Von der Leyen rubber stamp the biggest act of aviation greenwashing in decades?](../sources/eu-taxonomy-for-aviation-will-von-der-leyen-rubber-stamp-the-biggest-act-of-avia.md)
+warned the Commission was about to label the vast majority of Airbus' current, fossil-fuelled
+aircraft fleet as a sustainable investment.
+
+T&E's airline-specific net-zero-claims critique likewise predates 2025. It began with airline
+bailout scrutiny during Covid —
+[Airline beggars can't be choosers](../sources/airline-beggars-can-t-be-choosers.md) (2020) and
+[One year of airline bailouts: what have we learned?](../sources/one-year-of-airline-bailouts-what-have-we-learned.md)
+(2021) found Lufthansa, British Airways and Air France, Europe's biggest airline polluters
+pre-Covid, were also the biggest recipients of largely unconditional public bailouts
+([Lufthansa, BA, Air France were Europe's most polluting airlines pre-Covid](../sources/lufthansa-ba-air-france-were-europe-s-most-polluting-airlines-pre-covid.md);
+[Biggest airline polluters received the biggest bailouts, new data shows](../sources/biggest-airline-polluters-received-the-biggest-bailouts-new-data-shows.md))
+— and continued into a running critique of airline net-zero pledges as over-reliant on unproven
+future technology and offsets rather than binding near-term measures
+([Aviation industry's net zero plan over-reliant on future technologies](../sources/aviation-industry-s-net-zero-plan-over-reliant-on-future-technologies.md);
+[Why airline net zero commitments aren't green at all](../sources/why-airline-net-zero-commitments-aren-t-green-at-all.md)).
+By 2022, T&E's target shifted to legacy carriers actively lobbying against the EU's own climate
+laws while making net-zero claims —
+[Europe's largest airlines claim net zero future whilst lobbying to weaken EU's climate laws](../sources/europe-s-largest-airlines-claim-net-zero-future-whilst-lobbying-to-weaken-eu-s-c.md)
+found Air France, Lufthansa, Iberia and Aer Lingus working to let up to 72% of EU aviation
+emissions off the hook. The same greenwashing pattern showed up at the individual-airline level:
+[Easyjet's new domestic routes fly in the face of environmental spin](../sources/easyjet-s-new-domestic-routes-fly-in-the-face-of-environmental-spin.md)
+(2021) contrasted the carrier's launch of 12 new domestic routes — in a market where France and
+Spain were moving to ban short-haul flights with a rail alternative — against its own claims to be
+"committed to reducing carbon emissions". And by 2024,
+[Low cost airlines pollute more than ever, latest emissions data shows](../sources/low-cost-airlines-pollute-more-than-ever-latest-emissions-data-shows.md)
+found more than three-quarters of European aviation emissions still carried no carbon price at all.
 
 [European aviation set to spend billions on offsetting schemes](../sources/european-aviation-set-to-spend-billions-on-offsetting-schemes.md)
 (T&E and Carbon Market Watch, September 2025, ahead of the 42nd ICAO Assembly) makes T&E's case
@@ -89,7 +195,17 @@ near-monopoly manufacturer will not sustain a program less profitable than its e
 line. T&E's response is to push for regulation over reliance on manufacturer promises: reward
 electric aircraft (not just biofuels) in EU clean-aviation rules, exempt zero-emission aircraft
 from airport charges and give them priority slots (including on publicly funded routes), and
-accelerate certification of new designs.
+accelerate certification of new designs. T&E's scepticism that Airbus would hit its self-imposed
+2035 hydrogen deadline predates the delay by four years:
+[Can Airbus deliver guilt-free flying?](../sources/can-airbus-deliver-guilt-free-flying.md)
+(April 2021), reacting to Airbus's original hydrogen-aircraft concepts, judged that no sensible
+manufacturer would make the investment needed for a speculative aircraft with no clear market —
+correctly anticipating the 2025 delay — while still finding hydrogen technically achievable at a
+14-33% operating-cost premium over kerosene. T&E's own view of hydrogen aircraft economics had
+itself shifted in the meantime, though: an earlier, more optimistic 2023 T&E-commissioned study,
+[Operating a hydrogen aircraft could be less costly than a conventional aircraft by 2035](../sources/exploiter-un-avion-hydrog-ne-pourrait-tre-moins-co-teux-qu-un-avion-traditionnel.md),
+had found hydrogen aircraft could be economically competitive by 2035 given the right policies and
+incentives — the more optimistic data point Airbus' 2025 quiet delay would later overtake.
 
 [Airline emissions soar to pre-COVID levels as Europe fails to price their pollution](../sources/airline-emissions-soar-to-pre-covid-levels-as-europe-fails-to-price-their-pollut.md)
 (T&E report, April 2025; French release:
@@ -104,6 +220,10 @@ flights — a third of aviation emissions — so airlines paid around €3bn in 
 T&E frames the scheduled 2026 ETS review as the opportunity to close that gap, which would more
 than double ETS revenue from the sector. See [Contrails and non-CO2 emissions](#contrails-and-non-co2-emissions)
 below for the report's non-CO2 findings.
+[New analysis: German government ignores rising aviation emissions](../sources/neue-analyse-bundesregierung-ignoriert-steigende-luftverkehr-emissionen.md)
+(Germany, March 2025) corroborates the rebound at national level: almost a million flights departed
+German airports in 2024 — 113 per hour — with sector emissions up 4% on 2023, yet barely captured
+by Germany's own Climate Protection Act.
 
 Ahead of Germany's 2025 federal election,
 [Agenda klimaneutraler Luftverkehr](../sources/agenda-klimaneutraler-luftverkehr.md)
@@ -116,6 +236,36 @@ shift short/medium-haul trips elsewhere wherever possible, since climate-neutral
 scarce and costly even under an ambitious ramp-up.
 
 ## Aviation taxes
+
+T&E's "aviation is undertaxed" argument goes back to the sector's tax-free status itself.
+[Does aviation pay its way?](../sources/does-aviation-pay-its-way.md)
+(2013) found European governments were missing out on almost €40bn a year by not applying fuel tax
+and VAT to aviation the way they do to road transport, building on
+[T&E's earlier response to the EU's VAT consultation](../sources/t-e-response-to-the-vat-consultation.md)
+(2011). The same undertaxation argument recurred in the UK specifically:
+[T&E's response to the UK's Aviation Tax Consultation](../sources/next-steps-for-the-uk-s-air-passenger-duty.md)
+(2021) argued UK VAT and fuel duty exemptions for flights amounted to a de facto £7bn/year subsidy,
+and that reforming Air Passenger Duty alone — the only tax the sector actually pays — was no
+substitute for taxing kerosene and applying VAT to tickets, as most other transport modes already
+face.
+
+T&E's push to end aviation's fuel-tax exemption predates the 2025 demand-effect studies below.
+[Decades of inaction on flying's climate impact are being replaced by action](../sources/decades-of-inaction-on-flying-s-climate-impact-are-being-replaced-by-action-but-.md)
+(2021) welcomed the Fit for 55 package's proposal to finally end the exemption as a first step, while
+flagging its main loophole: the reform would only apply to intra-European fuel sales, exempting 63%
+of the total.
+[EU axes airlines' fuel tax exemption in drive for greener fuels](../sources/eu-axes-airlines-fuel-tax-exemption-in-drive-for-greener-fuels.md)
+(2021) reported the Fit for 55 package's proposal to finally end jet fuel's decades-long tax
+exemption, albeit only for flights within Europe (exempting 60% of fuel sales), and
+[Tax exemptions for aviation: German government forewent four billion euros in 2022](../sources/steuerausnahmen-f-r-den-luftverkehr-bundesregierung-hat-sich-2022-vier-milliarde.md)
+(Germany, 2023) put a national figure on the resulting revenue gap: €4bn foregone by the German
+government in 2022 alone from aviation tax exemptions. T&E returned to the exemption fight in 2024
+alongside rail and clean-industry allies:
+[Rail and clean industry players join forces with NGOs to call for the introduction of a fuel tax for planes and ships](../sources/rail-and-clean-industry-players-join-forces-with-ngos-to-call-for-the-introducti.md)
+(letter to EU finance ministers and the incoming Climate Commissioner, October 2024) opposed a
+proposed extension of the Energy Taxation Directive's jet/marine fuel tax exemption to 2049, citing
+a €10.7bn tax gap from untaxed jet fuel on flights departing Europe in 2022 alone and warning the
+exemption undermines rail's ability to compete with flying on price.
 
 [Airlines blame taxes, fees and charges: The data says otherwise](../sources/airlines-blame-taxes-fees-and-charges-the-data-says-otherwise.md)
 (TU Chemnitz study for T&E, October 2025) directly counters the airline industry's recurring
@@ -178,14 +328,13 @@ lobby claims.
 
 ## Sustainable aviation fuels
 
-*Main article: [Biofuels § Sustainability limits of advanced and waste biofuels](biofuels.md#sustainability-limits-of-advanced-and-waste-biofuels)
-and [E-fuels financing and infrastructure](e-fuels-financing.md).* T&E's SAF/e-kerosene work is
-substantial enough to warrant its own pages rather than duplicating them here: in short, biofuel-
-derived SAF faces a scarce, increasingly fraud-prone feedstock supply, while e-kerosene is scalable
-but extremely electricity-intensive — meeting a 35% e-kerosene mandate would require 585 TWh of
-renewable electricity by 2050, more than Germany's entire 2023 electricity demand (506 TWh). See
-those two pages for T&E's full case on feedstock scarcity, fraud risk, and the financing gap this
-wiki tracks separately from the traffic-growth argument above.
+*Main article: [Sustainable aviation fuels](sustainable-aviation-fuels.md)* — the decade-long fight
+over the EU's ReFuelEU Aviation mandate, e-kerosene, and direct air capture. *See also:*
+[Biofuels § Sustainability limits of advanced and waste biofuels](biofuels.md#sustainability-limits-of-advanced-and-waste-biofuels)
+for the feedstock-scarcity case against biofuel-derived SAF, and
+[E-fuels financing and infrastructure](e-fuels-financing.md) for why financing, not sustainability
+alone, is what's holding e-kerosene back — meeting a 35% e-kerosene mandate would require 585 TWh of
+renewable electricity by 2050, more than Germany's entire 2023 electricity demand (506 TWh).
 
 [Seulement 10 compagnies aériennes, dont Air France-KLM, investissent sérieusement dans les carburants alternatifs](../sources/seulement-10-compagnies-a-riennes-dont-air-france-klm-investissent-s-rieusement-.md)
 (T&E France airline ranking, December 2024) puts a number on how unevenly that transition is
@@ -196,7 +345,56 @@ under-investing in the fuel switch themselves, rather than on airlines alone (se
 [Elite/high-emission flying](#elitehigh-emission-flying) below for the parallel corporate-travel
 ranking).
 
+## Airplane air pollution and health
+
+Beyond its climate impact, jet engine exhaust is also a local air-quality and health problem, driven
+by the same aromatic and sulphur content in conventional jet fuel that causes contrails (see
+[Contrails and non-CO2 emissions](#contrails-and-non-co2-emissions) below).
+[Health Impacts of Aviation UFP Emissions in Europe](../sources/les-particules-ultrafines-des-avions-font-peser-un-risque-sur-la-sant-de-11-mill.md)
+(CE Delft study for T&E, May 2024; French release covering the health risk to 11 million French
+people) provides the first estimate of this impact specifically for Europe: aviation particulate
+matter causes an estimated 14,000-21,200 premature deaths globally each year, and around the 32
+major European airports studied, ultrafine particles from aircraft may be contributing to nearly
+280,000 cases of high blood pressure, 330,000 cases of diabetes and 18,000 additional cases of
+dementia — crude first-order estimates the report says should be confirmed by dedicated
+epidemiological studies.
+[The easy fix to air pollution linked to planes](../sources/the-easy-fix-to-air-pollution-linked-to-planes.md)
+(2023) sets out T&E's proposed remedy: hydrotreating jet fuel to cut its aromatic content (already
+a routine refining process for road diesel) could roughly halve particle emissions while adding
+under 1% to ticket prices, and ReFuelEU's new fuel-quality monitoring, reporting and verification
+(MRV) requirement should become the baseline for a binding EU mandate to do so.
+[Will the aviation sector replicate Big Oil's playbook?](../sources/will-the-aviation-sector-replicate-big-oil-s-playbook.md)
+(2023) frames industry's slow response to this evidence — decades-old science, still barely
+mentioned in sustainability reporting — as following the same denial-deflection-delay pattern as
+fossil fuel companies on climate change, and notes SAF also helps here since it burns with fewer
+particulate emissions than fossil kerosene (see [Sustainable aviation fuels](#sustainable-aviation-fuels)
+above).
+
+Consumer-facing emissions information has become a parallel front on the same non-CO2/air-quality
+gap.
+[T&E's response to the EU's Flight Emissions Label consultation](../sources/t-e-response-to-the-public-consultation-on-the-flight-emissions-label.md)
+(October 2024) welcomed the Commission's proposed label as a transparency opportunity but flagged
+that its method for apportioning emissions to belly cargo would hide 4 Mt of CO2 (4% of passenger
+emissions) from consumers, that non-CO2 effects are once again left out, and that passengers should
+be told more about a flight's SAF use than just its life-cycle emissions.
+[T&E's earlier response to the UK Civil Aviation Authority's consumer environmental information call for evidence](../sources/consultation-response-to-the-caa-s-call-for-evidence-on-consumer-environmental-i.md)
+(2023) made the same core asks for the UK: show environmental information as prominently as price,
+include non-CO2 impacts, compare a flight's impact to rail/car alternatives where one exists, and
+avoid a misleading "traffic light" rating that implies any flight can be genuinely green.
+
 ## Contrails and non-CO2 emissions
+
+T&E's push on non-CO2 effects specifically began during the Fit for 55 negotiations, two years
+before the letter below.
+[Mitigating aviation's non-CO2 effects in the EU's Fit for 55 package](../sources/mitigating-aviation-s-non-co2-effects-in-the-eu-s-fit-for-55-package.md)
+(2022) first argued the package needed to address contrails, NOx, water vapour and soot alongside
+CO2, and [FAQ: Non-CO2 mitigation measures in ReFuelEU and EU ETS](../sources/faq-non-co2-mitigation-measures-in-refueleu-and-eu-ets.md)
+(2022) explained why monitoring, reporting and verification (MRV) was the necessary first step
+toward eventually regulating them. T&E's French office put a concrete cost figure on acting: a 2024
+study, [Aviation: reducing the climate impact of contrails would cost less than 4 euros per flight](../sources/aviation-r-duire-l-impact-climatique-des-tra-n-es-de-condensation-co-terait-moin.md),
+found that slightly rerouting a small share of flights could halve contrails' climate impact by
+2040 for at most €4 per passenger on a transatlantic flight — a low-cost mitigation option that
+strengthens the case for the legal-obligation argument made the following year.
 
 [Aviation: International scientists warn of warming impact of contrails and risks of delaying action](../sources/aviation-international-scientists-warn-of-warming-impact-of-contrails-and-risks-.md)
 (letter, November 2024, at the close of COP29) is the earliest source in this wiki on contrails: a
@@ -217,8 +415,40 @@ COP30 in Brazil. It also notes the EU's own non-CO2 monitoring system, launched 
 covers only intra-EEA flights and only expands to all flights in 2027 — and that monitoring alone,
 without follow-up legislation, is not the same as addressing the impact (see also
 [Airplane pollution](#airplane-pollution) above for the same report's CO2-pricing findings).
+[Plane to see](../sources/plane-to-see.md) (op-ed, 2024) argued the airline lobby IATA was
+repeating the same delay tactics on contrail *monitoring* specifically that the industry had used on
+the underlying science for 25 years — opposing even the fitting of humidity sensors as "ruinously
+expensive" — despite the fact that avoiding the small share of flights responsible for 80% of
+contrail warming costs less than 1% in extra fuel burn.
 
 ## Elite/high-emission flying
+
+T&E's push to cut corporate/business travel specifically as a near-term lever predates the Travel
+Smart ranking below.
+[T&E's revised 2050 roadmap for decarbonising European aviation](../sources/comment-d-carboner-l-aviation-en-europe-d-ici-2050.md)
+(2022) argued that binding measures alone would not be enough without also tackling business
+travel: cutting corporate flying to 50% of pre-Covid levels across Europe could save 32.6 MtCO2 by
+2030 — equivalent to taking 16 million cars off the road — a demand-side lever T&E judged available
+immediately, unlike fuel-switching and aircraft technology, which need until 2030 to reach scale.
+
+The 2025 corporate-travel ranking below caps off several years of T&E work on elite and corporate
+flying. It began with private jets specifically:
+[Rising use of private jets sends CO2 emissions soaring](../sources/rising-use-of-private-jets-sends-co2-emissions-soaring.md)
+and [Private jets: can the super-rich supercharge zero-emission aviation?](../sources/private-jets-can-the-super-rich-supercharge-zero-emission-aviation.md)
+(both 2021) found private-jet CO2 in Europe rose 31% between 2005 and 2019 — faster than
+commercial aviation — while just 1% of people cause half of global aviation emissions, and
+[A football star's Marie Antoinette moment and an uprising against private jets](../sources/a-football-star-s-marie-antoinette-moment-and-an-uprising-against-private-jets.md)
+(2022) tracked the public backlash that followed celebrity flight-tracking revelations. On the
+corporate side, T&E's Travel Smart campaign polling found business travellers expected to fly less
+even after pandemic restrictions eased
+([Only a third of business flyers expect to return to normal](../sources/only-a-third-of-business-flyers-expect-to-return-to-normal.md), 2021)
+and that employees themselves expected executives to set flying-reduction targets
+([Majority of employees expect top executives to set corporate flying reduction targets](../sources/majority-of-employees-expect-top-executives-to-set-corporate-flying-reduction-ta.md), 2022) —
+even as [85% of global companies don't have credible plans to reduce corporate flying emissions](../sources/85-of-global-companies-don-t-have-credible-plans-to-reduce-corporate-flying-emis.md)
+(2023) found most large companies still lacked one, a gap
+[Euro 2024: teams could cut their emissions by 60% by avoiding flying](../sources/euro-2024-les-quipes-peuvent-r-duire-leurs-missions-de-60-en-vitant-de-prendre-l.md)
+(France, 2024) illustrated with a concrete example: national football teams missing an easy chance
+to set one.
 
 [Business travel: emissions from major global companies fell by a third between 2019 and 2023](../sources/voyages-d-affaires-les-missions-des-grandes-entreprises-mondiales-ont-recul-d-un.md)
 (T&E France press release on the Travel Smart campaign's corporate ranking, April 2025) is T&E's
