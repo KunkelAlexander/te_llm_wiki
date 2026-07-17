@@ -36,6 +36,8 @@ Commission scenario. T&E's policy response is to curb airport expansion, remove 
 subsidies for aviation, and promote rail as a substitute for short-haul flights, rather than
 relying on efficiency and SAF alone.
 
+**Contents:** [EU ETS scope and carbon leakage](#eu-ets-scope-and-carbon-leakage) · [CORSIA offsetting vs. EU ETS](#corsia-offsetting-vs-eu-ets) · [Aircraft manufacturer innovation stall](#aircraft-manufacturer-innovation-stall) · [Airline cost lobbying vs. the data](#airline-cost-lobbying-vs-the-data)
+
 ## EU ETS scope and carbon leakage
 
 [Carbon leakage in the aviation sector](../sources/carbon-leakage-in-the-aviation-sector-is-it-a-problem-and-if-so-what-can-be-done.md)

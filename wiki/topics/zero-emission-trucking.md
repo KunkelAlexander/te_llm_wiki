@@ -17,6 +17,8 @@ pathway to decarbonise heavy trucking**, that hydrogen and e-fuels are far less 
 detours, and that EU CO2 standards for trucks have been too weak to drive the transition on
 their own.
 
+**Contents:** [Why direct electrification wins on efficiency and cost](#why-direct-electrification-wins-on-efficiency-and-cost) · [LNG as a false solution](#lng-as-a-false-solution) · [CO2 standards: weak targets, then a push for much stronger ones](#co2-standards-weak-targets-then-a-push-for-much-stronger-ones) · [Shippers, not just truckmakers, as a lever](#shippers-not-just-truckmakers-as-a-lever)
+
 ## Why direct electrification wins on efficiency and cost
 
 The German long-haul decarbonisation study

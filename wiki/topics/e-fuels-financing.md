@@ -18,6 +18,8 @@ shipping): the technology and project pipeline exist, but financing — specific
 mechanism to guarantee revenue for first-of-a-kind plants — is the binding constraint, and closing
 that gap should be a priority use of EU carbon-pricing revenue.
 
+**Contents:** [An early financing mechanism: the Hydrogen Clearing House](#an-early-financing-mechanism-the-hydrogen-clearing-house) · [The case for e-fuels over the alternatives](#the-case-for-e-fuels-over-the-alternatives) · [E-kerosene specifically: Europe's lead is not secure](#e-kerosene-specifically-europes-lead-is-not-secure) · [Related dossiers](#related-dossiers)
+
 ## An early financing mechanism: the Hydrogen Clearing House
 
 [A European Hydrogen Clearing House for green maritime and aviation e-fuels](../sources/a-european-hydrogen-clearing-house-for-green-maritime-and-aviation-e-fuels.md)

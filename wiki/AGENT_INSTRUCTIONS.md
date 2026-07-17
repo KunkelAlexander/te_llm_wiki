@@ -139,8 +139,22 @@ from a hub's subsection (e.g. POME split out of Biofuels), and `type: policy` fo
 on a specific regulation/dossier. There is no `person` type — see "Do not create pages for people"
 above.
 
-Body: prose organized so it reads as a living summary, not a changelog dump. When an estimate or
-position has evolved, say so explicitly and in date order, e.g.:
+Body: prose organized so it reads as a living summary, not a changelog dump. Whenever a page has
+**two or more `##` subsections**, add a one-line table of contents immediately before the first
+`##` heading (after any intro paragraph/hatnote), so a reader or agent can tell what the page
+covers without scrolling through it:
+
+```
+**Contents:** [Section one](#section-one) · [Section two](#section-two) · [Section three](#section-three)
+```
+
+Anchor links are the heading text lowercased, with characters other than letters/numbers/spaces/
+hyphens stripped and spaces turned into hyphens (kramdown's default heading-id behavior — the same
+scheme GitHub uses). When you add, rename, reorder, or remove a `##` subsection, update this
+contents line in the same edit — it goes stale otherwise. A page with only one `##` subsection (or
+none) doesn't need one.
+
+When an estimate or position has evolved, say so explicitly and in date order, e.g.:
 
 > T&E's 2021 [LNG trucks: a dead-end bridge](sources/lng-trucks-a-dead-end-bridge.md) report
 > found real-world LNG truck emissions were no better than diesel on a well-to-wheel basis. By
@@ -194,7 +208,9 @@ When new source pages appear (after re-running the extraction script over more d
    it a `summary` in its frontmatter (see above). If a subsection of an existing hub page has
    grown large enough to stand alone (recurs across several sources with its own figures and
    arguments), split it into a `concept` page and leave a hatnote behind, per the pattern above.
-5. Update `last_updated` in the frontmatter of any topic page you touched.
+5. Update `last_updated` in the frontmatter of any topic page you touched, and refresh its
+   `## `-heading contents line (see "Topic pages" above) if you added, renamed, or removed a
+   subsection.
 6. Run `python 2_refresh_wiki_index.py` from the repo root to regenerate both index.md files from
    the citations/frontmatter you just wrote. Never hand-edit `topics/index.md` or
    `sources/index.md` — they're overwritten on every run.

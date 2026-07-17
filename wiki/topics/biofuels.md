@@ -16,6 +16,8 @@ feedstocks are far scarcer than policy targets assume, "advanced" or "waste" lab
 increasingly unreliable, and land-based biofuels can be worse for the climate than the fossil
 fuels they replace once indirect land-use change (ILUC) is counted.
 
+**Contents:** [Sustainability limits of advanced and waste biofuels](#sustainability-limits-of-advanced-and-waste-biofuels) · [Fraud and mislabeling](#fraud-and-mislabeling) · [Shipping and the IMO Global Fuel Standard](#shipping-and-the-imo-global-fuel-standard) · [Global outlook to 2030](#global-outlook-to-2030)
+
 ## Sustainability limits of advanced and waste biofuels
 
 [How sustainable are advanced and waste biofuels?](../sources/how-sustainable-are-advanced-and-waste-biofuels.md)

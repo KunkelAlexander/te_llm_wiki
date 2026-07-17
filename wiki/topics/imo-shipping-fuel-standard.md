@@ -17,6 +17,8 @@ for the biofuel-feedstock-safeguard argument this policy fight connects to, and
 [E-fuels financing and infrastructure](e-fuels-financing.md) for how T&E wants shipping ETS
 revenue used to fund e-fuels specifically.
 
+**Contents:** [The opening warning and the London agreement (February-April 2025)](#the-opening-warning-and-the-london-agreement-february-april-2025) · [A historic but weak first step (April-July 2025)](#a-historic-but-weak-first-step-april-july-2025) · [The October 2025 political fight](#the-october-2025-political-fight)
+
 ## The opening warning and the London agreement (February-April 2025)
 
 T&E's campaign on the IMO framework began with the Cerulogy study behind

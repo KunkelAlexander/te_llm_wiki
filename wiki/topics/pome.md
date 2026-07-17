@@ -22,6 +22,8 @@ supply. The same-day press release,
 frames the finding for a general audience: oil majors' HVO "renewable diesel" is the main product
 affected, since POME may have made up roughly a quarter of all EU HVO consumed in 2023.
 
+**Contents:** [The core finding](#the-core-finding) · [Scale of the substitution](#scale-of-the-substitution) · [T&E's recommendation](#tes-recommendation) · [The same finding, cited again for shipping fuels](#the-same-finding-cited-again-for-shipping-fuels)
+
 ## The core finding
 
 Reported 2023 EU+UK POME biofuel use (~2 Mt) exceeds even the most generous estimate of global

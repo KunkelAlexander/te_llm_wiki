@@ -17,6 +17,8 @@ last_updated: 2025-09-09
 target, the framework that will shape the next decade of EU sectoral policy — including the
 vehicle CO2 standards and carbon-pricing dossiers covered elsewhere in this wiki.
 
+**Contents:** [Headline ask and guardrails on credits/removals](#headline-ask-and-guardrails-on-creditsremovals) · [Transport is the outlier sector](#transport-is-the-outlier-sector) · [Economic framing](#economic-framing)
+
 ## Headline ask and guardrails on credits/removals
 
 T&E calls for a target of at least 90% net greenhouse gas reduction by 2040 versus 1990, with

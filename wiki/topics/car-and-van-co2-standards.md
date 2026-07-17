@@ -20,6 +20,8 @@ truck regulation, which shows the same "flexibilities blunt real ambition" patte
 [Electric vehicles](electric-vehicles.md) for EV-adoption policy mechanisms (e.g. national
 purchase subsidies) outside this CO2-standards framework.
 
+**Contents:** [Vans: an early, smaller-scale version of the same story](#vans-an-early-smaller-scale-version-of-the-same-story) · [Cars: carmakers are on track for now](#cars-carmakers-are-on-track-for-now) · [Cars: the industry's 2025-26 review demands](#cars-the-industrys-2025-26-review-demands)
+
 ## Vans: an early, smaller-scale version of the same story
 
 [How regulation is failing to electrify Europe's van market](../sources/how-regulation-is-failing-to-electrify-europe-s-van-market.md)
