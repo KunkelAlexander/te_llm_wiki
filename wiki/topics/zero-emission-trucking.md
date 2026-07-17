@@ -1,6 +1,7 @@
 ---
 title: "Zero-emission trucks"
 type: topic
+section: "Trucks"
 summary: >
   Direct electrification (BEV/overhead-catenary) is the dominant realistic path to decarbonise
   trucking; LNG is a false solution; EU truck CO2 targets have repeatedly undershot both available

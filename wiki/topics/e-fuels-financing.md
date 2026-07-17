@@ -1,6 +1,7 @@
 ---
 title: "E-fuels financing and infrastructure"
 type: topic
+section: "Energy & Fuels"
 summary: >
   T&E's case that e-fuels (green hydrogen derivatives) are the only aviation/shipping fuel
   meeting sustainability, scalability and sovereignty criteria, but that a financing gap —

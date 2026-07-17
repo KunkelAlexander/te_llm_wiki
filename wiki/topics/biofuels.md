@@ -1,6 +1,7 @@
 ---
 title: "Biofuels"
 type: topic
+section: "Energy & Fuels"
 summary: >
   T&E's position on biofuels across 2024-2025: sustainable feedstock is far scarcer than policy
   assumes, several "advanced/waste" categories look increasingly fraudulent, and land-based

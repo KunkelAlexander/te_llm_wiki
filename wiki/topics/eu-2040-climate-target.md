@@ -1,6 +1,7 @@
 ---
 title: "EU 2040 climate target"
 type: policy
+section: "Climate Instruments"
 summary: >
   T&E's position on the EU's 2040 climate target negotiations: back a genuine ≥90% net GHG cut
   vs. 1990, tightly limit international carbon credits and engineered removals, and hold

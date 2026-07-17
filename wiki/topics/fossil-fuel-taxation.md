@@ -1,6 +1,7 @@
 ---
 title: "Fossil fuel windfall taxation"
 type: topic
+section: "Sustainable Finance"
 summary: >
   T&E-commissioned PwC analysis arguing fossil fuel majors reaped windfall profits from the
   2022 energy crisis that should be taxed and redistributed to citizens.

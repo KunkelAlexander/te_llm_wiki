@@ -1,6 +1,7 @@
 ---
 title: "Hydrogen policy: blue vs. green"
 type: topic
+section: "Energy & Fuels"
 summary: >
   T&E's push to keep EU hydrogen rules climate-honest as fossil (blue) hydrogen enters the
   market alongside green (renewable) hydrogen, warning that current lifecycle-accounting
@@ -13,8 +14,8 @@ last_updated: 2025-09-23
 
 *Updated: 2025-09-23*
 
-*See also: [Norway's oil and gas expansion vs. EU energy transition](norway-oil-and-gas.md)*, which
-covers the same blue-vs-green cost comparison from the gas-supply side.
+*See also: [Oil and gas § Norway's Arctic expansion](oil-and-gas.md#norways-arctic-expansion-2024)*,
+which covers the same blue-vs-green cost comparison from the gas-supply side.
 
 [Blue threat: will the EU's hydrogen policy stay green?](../sources/blue-threat-will-the-eu-s-hydrogen-policy-stay-green.md)
 (September 2025) is T&E's assessment of the EU's Low-Carbon Fuels Delegated Act (adopted July

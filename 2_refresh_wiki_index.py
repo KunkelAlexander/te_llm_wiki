@@ -56,6 +56,27 @@ def parse_frontmatter(text: str) -> dict:
 
 _GENERATED_INDEX_FILES = {"index.md", "DEDUP_INDEX.md"}
 
+# Mirrors transportenvironment.org's own top-nav order, so the public topics/index.md groups
+# subjects the same way a colleague already expects from the live site rather than an invented
+# taxonomy. Sections with no wiki topic page yet (Vans, Buses, Rail, Batteries, Air Quality, Clean
+# Cities as of this writing) are simply skipped below, not printed as empty headings — this list
+# is deliberately longer than what the wiki currently covers so newly-sectioned topic pages sort
+# correctly without reordering this list. A topic page missing a `section` field, or using one not
+# listed here, falls into "Other", which sorts last — treat that as a prompt to either add the
+# field or (if it's a genuinely new T&E top-level topic) add it to this list.
+SECTION_ORDER = [
+    "Cars & Vans", "Trucks", "Vans", "Buses", "Planes", "Ships", "Rail", "Batteries",
+    "Energy & Fuels", "Sustainable Finance", "Air Quality", "Climate Instruments",
+    "Green Steel", "Clean Cities",
+]
+
+
+def _section_sort_key(section):
+    try:
+        return (0, SECTION_ORDER.index(section))
+    except ValueError:
+        return (1, section)
+
 
 def _load(dir_path):
     entries = {}
@@ -79,24 +100,34 @@ def refresh():
         for s_filename in cites:
             cited_by[s_filename].append(t_filename)
 
-    # — topics/index.md (public: name, type, one-line summary, link — nothing else) —
+    # — topics/index.md (public: grouped by Section — mirrors transportenvironment.org's own
+    # top-nav topics, per wiki/AGENT_INSTRUCTIONS.md, rather than one flat list) —
     topics_path = os.path.join(WIKI_TOPICS_DIR, "index.md")
     ordered_topics = sorted(
         topics.items(), key=lambda kv: kv[1]["frontmatter"].get("first_seen", "")
     )
+    sections = defaultdict(list)
+    for filename, t in ordered_topics:
+        sections[t["frontmatter"].get("section", "Other")].append((filename, t))
     with open(topics_path, "w", encoding="utf-8") as f:
         f.write("---\ntitle: Topics\n---\n\n# Topics\n\n")
-        f.write("Everything T&E works on that this wiki covers, one page per subject. Each page "
-                "tracks how T&E's position or estimates on that subject have evolved over time, "
-                "with every claim linked back to the publication it's drawn from.\n\n")
-        f.write("| Topic | Summary |\n")
-        f.write("|---|---|\n")
-        for filename, t in ordered_topics:
-            fm = t["frontmatter"]
-            title = fm.get("title", filename)
-            summary = fm.get("summary", "")
-            f.write(f"| [{title}]({filename}) | {summary} |\n")
-    print(f"Wrote {topics_path}  ({len(topics)} topics)")
+        f.write("Everything T&E works on that this wiki covers, one page per subject, grouped to "
+                "match [transportenvironment.org](https://www.transportenvironment.org)'s own "
+                "top-level topics — so \"where would this live on the real site\" and \"where "
+                "does it live in this wiki\" are the same question. Each page tracks how T&E's "
+                "position or estimates on that subject have evolved over time, with every claim "
+                "linked back to the publication it's drawn from.\n\n")
+        for section in sorted(sections, key=_section_sort_key):
+            f.write(f"## {section}\n\n")
+            f.write("| Topic | Summary |\n")
+            f.write("|---|---|\n")
+            for filename, t in sections[section]:
+                fm = t["frontmatter"]
+                title = fm.get("title", filename)
+                summary = fm.get("summary", "")
+                f.write(f"| [{title}]({filename}) | {summary} |\n")
+            f.write("\n")
+    print(f"Wrote {topics_path}  ({len(topics)} topics, {len(sections)} sections)")
 
     # — topics/DEDUP_INDEX.md (maintainer-only, excluded from the Jekyll build) —
     dedup_path = os.path.join(WIKI_TOPICS_DIR, "DEDUP_INDEX.md")
@@ -107,8 +138,8 @@ def refresh():
                 "covers and which sources it cites, so you know which pages might need updating "
                 "rather than duplicating. This page is excluded from the built site (see "
                 "`_config.yml`) — it's a maintenance tool, not a reader-facing page.\n\n")
-        f.write("| Topic | Type | Summary | Sources cited | First seen | Last updated |\n")
-        f.write("|---|---|---|---|---|---|\n")
+        f.write("| Topic | Section | Type | Summary | Sources cited | First seen | Last updated |\n")
+        f.write("|---|---|---|---|---|---|---|\n")
         for filename, t in ordered_topics:
             fm = t["frontmatter"]
             title = fm.get("title", filename)
@@ -118,7 +149,8 @@ def refresh():
                 for c in t["cites"]
             )
             f.write(
-                f"| [{title}]({filename}) | {fm.get('type', '')} | {summary} | {cite_links} "
+                f"| [{title}]({filename}) | {fm.get('section', '')} | {fm.get('type', '')} "
+                f"| {summary} | {cite_links} "
                 f"| {fm.get('first_seen', '')} | {fm.get('last_updated', '')} |\n"
             )
     print(f"Wrote {dedup_path}  ({len(topics)} topics)")

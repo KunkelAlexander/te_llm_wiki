@@ -1,6 +1,7 @@
 ---
 title: "Electric vehicles"
 type: topic
+section: "Cars & Vans"
 summary: >
   T&E's work on EV adoption mechanisms beyond the EU fleet CO2 targets themselves — national
   purchase-subsidy design (e.g. France's life-cycle "éco-score") and other policy levers meant to

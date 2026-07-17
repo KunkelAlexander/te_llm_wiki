@@ -1,6 +1,7 @@
 ---
 title: "EV battery and raw materials supply chains"
 type: concept
+section: "Green Steel"
 summary: >
   T&E's push to make Europe's shift to EVs resilient and clean upstream, not just at the
   tailpipe: a critical raw materials strategy that goes beyond reshuffling, EU industrial policy

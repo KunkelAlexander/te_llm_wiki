@@ -1,6 +1,7 @@
 ---
 title: "POME (Palm Oil Mill Effluent)"
 type: concept
+section: "Energy & Fuels"
 summary: >
   T&E's fraud finding: reported EU/UK POME "waste" biofuel volumes exceed plausible global
   production, suggesting POME is functioning as a disguised route for restricted palm oil.

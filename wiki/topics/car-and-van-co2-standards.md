@@ -1,6 +1,7 @@
 ---
 title: "Car and van CO2 standards"
 type: policy
+section: "Cars & Vans"
 summary: >
   T&E's watchdog role on the EU's passenger-car and van CO2 law (Regulation 2019/631): both
   segments share the same regulation and the same "flexibilities blunt real ambition" pattern —

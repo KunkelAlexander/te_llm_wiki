@@ -1,17 +1,25 @@
 ---
-title: "Norway's oil and gas expansion vs. EU energy transition"
+title: "Oil and gas"
 type: topic
+section: "Energy & Fuels"
 summary: >
-  EU gas/oil demand is in structural long-term decline under every plausible scenario, making new
-  Norwegian Arctic oil/gas supply unnecessary and a stranded-asset risk; blue hydrogen won't be
+  T&E's case that EU oil/gas demand is in structural long-term decline under every plausible
+  scenario, making new fossil supply (Norwegian Arctic drilling so far; the durable topic covers
+  any future oil/gas-supply story) unnecessary and a stranded-asset risk; blue hydrogen won't be
   cost-competitive with green hydrogen.
 first_seen: 2024-02-21
 last_updated: 2024-02-21
 ---
 
-# Norway's oil and gas expansion vs. EU energy transition
+# Oil and gas
 
 *Updated: 2024-02-21*
+
+This page tracks T&E's work on EU oil and gas supply and demand generally — currently a single
+case study (Norway's Arctic expansion), but scoped as the durable home for any future oil/gas-supply
+story rather than reopened per country.
+
+## Norway's Arctic expansion (2024)
 
 [On Thin Ice: Norway's Fossil Ambitions and the EU's Green Energy Future](../sources/on-thin-ice-norway-s-fossil-ambitions-and-the-eu-s-green-energy-future.md)
 (2024), co-published with Oil Change International, Zero Carbon Analytics, WWF Norway and

@@ -1,6 +1,7 @@
 ---
 title: "IMO shipping fuel standard (Net-Zero Framework)"
 type: policy
+section: "Ships"
 summary: >
   T&E's advocacy around the IMO's Net-Zero Framework for shipping in 2025: welcoming it as a
   historic but too-weak first step, arguing the EU's own ETS/FuelEU Maritime must stay in force
