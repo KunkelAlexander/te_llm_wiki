@@ -75,6 +75,13 @@ offtake deal for 7,500 tonnes/year over 10 years from IAG). T&E puts the investm
 have a combined €130-150bn of 2025-2027 capital budgets across Shell, bp and TotalEnergies — have
 so far committed minimal capital to e-SAF specifically.
 
+Industry itself is pushing the same funding mechanism T&E proposes:
+[Open letter: E-SAF tender funded by national governments to unlock the first projects in Europe](../sources/open-letter-e-saf-tender-funded-by-national-governments-to-unlock-the-first-proj.md)
+(June 2025) has 40+ companies across the SAF value chain, coordinated via Project SkyPower, call on
+EU national governments to jointly fund a pilot double-sided-auction e-SAF tender — corroborating
+from the supply side that a Revenue Certainty Mechanism-style auction, not just subsidy, is what
+first-of-a-kind e-SAF plants need to reach FID.
+
 ## Related dossiers
 
 This financing argument underpins T&E's positions in

@@ -23,7 +23,7 @@ Everything T&E works on that this wiki covers, one page per subject, grouped to 
 
 | Topic | Summary |
 |---|---|
-| [Aviation](aviation-decarbonisation.md) | Projected traffic growth will overwhelm efficiency and SAF gains, leaving aviation emissions nearly flat; SAF/e-kerosene scale-up faces its own feedstock/electricity limits; T&E wants demand-side measures (curb airport expansion, promote rail, extend EU ETS) rather than tech alone, and disputes industry claims that taxes/charges are what's suppressing demand. |
+| [Aviation](aviation-decarbonisation.md) | Projected traffic growth will overwhelm efficiency and SAF gains, leaving aviation emissions nearly flat; SAF/e-kerosene scale-up faces its own feedstock/electricity limits; T&E wants demand-side measures (curb airport expansion, promote rail, extend EU ETS) rather than tech alone, disputes industry claims that taxes/charges are what's suppressing demand, and pushes for non-CO2/contrail regulation and corporate/elite-flying accountability. |
 
 ## Ships
 

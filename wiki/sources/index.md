@@ -2,7 +2,7 @@
 title: Sources
 ---
 
-# Sources (70)
+# Sources (91)
 
 Every T&E publication cited anywhere in this wiki. Open a source page for a link to the original publication.
 
@@ -23,22 +23,43 @@ Every T&E publication cited anywhere in this wiki. Open a source page for a link
 | [UN shipping body's green fuels law could worsen the sector's climate impact - study](un-shipping-body-s-green-fuels-law-could-worsen-the-sector-s-climate-impact-stud.md) | 2025-02-17 | [Biofuels](../topics/biofuels.md) |
 | [IMO: Fuelling deforestation](imo-fuelling-deforestation.md) | 2025-02-17 | [Biofuels](../topics/biofuels.md) |
 | [Airbus' hydrogen plane crash - time for a reality check](airbus-hydrogen-plane-crash-time-for-a-reality-check.md) | 2025-02-21 | [Aviation](../topics/aviation-decarbonisation.md) |
+| [People do not simply want to get from A to B](people-do-not-simply-want-to-get-from-a-to-b.md) | 2025-03-31 | *(none yet)* |
+| [Voyages d'affaires : les émissions des grandes entreprises mondiales ont reculé d'un tiers entre 2019 et 2023](voyages-d-affaires-les-missions-des-grandes-entreprises-mondiales-ont-recul-d-un.md) | 2025-04-01 | [Aviation](../topics/aviation-decarbonisation.md) |
 | [Why international shipping needs a global carbon levy AND a global fuel standard](why-international-shipping-needs-a-global-carbon-levy-and-a-global-fuel-standard.md) | 2025-04-08 | [IMO shipping fuel standard (Net-Zero Framework)](../topics/imo-shipping-fuel-standard.md) |
 | [Palm oil in disguise?](palm-oil-in-disguise.md) | 2025-04-09 | [POME (Palm Oil Mill Effluent)](../topics/pome.md) |
 | ['Renewable diesel' sold by oil majors most likely contains fraudulent palm oil - study](renewable-diesel-sold-by-oil-majors-most-likely-contains-fraudulent-palm-oil-stu.md) | 2025-04-09 | [POME (Palm Oil Mill Effluent)](../topics/pome.md) |
 | [UN shipping agreement a victory for multilateralism but a failure for the climate](un-shipping-agreement-a-victory-for-multilateralism-but-a-failure-for-the-climat.md) | 2025-04-11 | [IMO shipping fuel standard (Net-Zero Framework)](../topics/imo-shipping-fuel-standard.md) |
+| [L'aviation européenne émet presque autant de CO2 qu'avant le Covid](l-aviation-europ-enne-met-presque-autant-de-co2-qu-avant-le-covid.md) | 2025-04-28 | [Aviation](../topics/aviation-decarbonisation.md) |
+| [Airline emissions soar to pre-COVID levels as Europe fails to price their pollution](airline-emissions-soar-to-pre-covid-levels-as-europe-fails-to-price-their-pollut.md) | 2025-04-28 | [Aviation](../topics/aviation-decarbonisation.md) |
+| [How to defuse the EU's carbon tax time bomb](how-to-defuse-the-eu-s-carbon-tax-time-bomb.md) | 2025-04-30 | *(none yet)* |
+| [How to close the AFIF funding gap in 2026/2027](how-to-close-the-afif-funding-gap-in-2026-2027.md) | 2025-05-27 | *(none yet)* |
+| [ETS2 - a €300bn opportunity to help transition European citizens away from fossil fuels and imported oil](ets2-a-300bn-opportunity-to-help-transition-european-citizens-away-from-fossil-f.md) | 2025-06-03 | *(none yet)* |
 | [Unlocking e-SAF's potential for the EU competitiveness and energy independence](unlocking-e-saf-s-potential-for-the-eu-competitiveness-and-energy-independence.md) | 2025-06-06 | [Biofuels](../topics/biofuels.md), [E-fuels financing and infrastructure](../topics/e-fuels-financing.md) |
+| [Ocean protection means including shipping in countries' Paris climate targets](ocean-protection-means-including-shipping-in-countries-paris-climate-targets.md) | 2025-06-09 | *(none yet)* |
 | [La faible innovation dans l'aérien risque de ralentir la décarbonation de l'aviation](la-faible-innovation-dans-l-a-rien-risque-de-ralentir-la-d-carbonation-de-l-avia.md) | 2025-06-11 | [Aviation](../topics/aviation-decarbonisation.md) |
 | [Spotlight on e-SAF](spotlight-on-e-saf.md) | 2025-06-16 | [E-fuels financing and infrastructure](../topics/e-fuels-financing.md) |
+| [The aviation industry and the stall in aircraft innovation](the-aviation-industry-and-the-stall-in-aircraft-innovation.md) | 2025-06-18 | [Aviation](../topics/aviation-decarbonisation.md) |
+| [Open letter: E-SAF tender funded by national governments to unlock the first projects in Europe](open-letter-e-saf-tender-funded-by-national-governments-to-unlock-the-first-proj.md) | 2025-06-23 | [E-fuels financing and infrastructure](../topics/e-fuels-financing.md) |
 | [Which fuels should the EU back for shipping?](which-fuels-should-the-eu-back-for-shipping.md) | 2025-06-23 | [Biofuels](../topics/biofuels.md), [POME (Palm Oil Mill Effluent)](../topics/pome.md) |
+| [The State of the EU's Rail Infrastructure](the-state-of-the-eu-s-rail-infrastructure.md) | 2025-06-24 | *(none yet)* |
+| [EU rules out production aid in blow to battery and cleantech industry](eu-rules-out-production-aid-in-blow-to-battery-and-cleantech-industry.md) | 2025-06-25 | *(none yet)* |
+| [EU's reliance on carbon credits risks making a 'paper tiger' of Europe's climate efforts](eu-s-reliance-on-carbon-credits-risks-making-a-paper-tiger-of-europe-s-climate-e.md) | 2025-07-02 | *(none yet)* |
+| [Climat : L'objectif 2040 de l'UE sérieusement affaibli par le recours aux crédits carbone](climat-l-objectif-2040-de-l-ue-s-rieusement-affaibli-par-le-recours-aux-cr-dits-.md) | 2025-07-02 | *(none yet)* |
 | [Shipping is flying the flag for multilateral climate action: why aren't we celebrating yet?](shipping-is-flying-the-flag-for-multilateral-climate-action-why-aren-t-we-celebr.md) | 2025-07-04 | [IMO shipping fuel standard (Net-Zero Framework)](../topics/imo-shipping-fuel-standard.md) |
 | [Buying electric](buying-electric.md) | 2025-07-14 | [Zero-emission trucks](../topics/zero-emission-trucking.md) |
 | [Towards 2040: a strengthened ETS to support the transition of the shipping sector](towards-2040-a-strengthened-ets-to-support-the-transition-of-the-shipping-sector.md) | 2025-07-14 | [IMO shipping fuel standard (Net-Zero Framework)](../topics/imo-shipping-fuel-standard.md) |
+| [Transport decarbonisation is a lever for industrial competitiveness but the EU budget fails to capitalise on it](transport-decarbonisation-is-a-lever-for-industrial-competitiveness-but-the-eu-b.md) | 2025-07-16 | *(none yet)* |
+| [Countries obliged to include aviation contrails in climate plans under Paris Agreement, new legal advice shows](countries-obliged-to-include-aviation-contrails-in-climate-plans-under-paris-agr.md) | 2025-08-28 | [Aviation](../topics/aviation-decarbonisation.md) |
+| [Climat : les Etats doivent prendre en compte les traînées de condensation pour respecter l'Accord de Paris, selon une nouvelle analyse juridique](climat-les-etats-doivent-prendre-en-compte-les-tra-n-es-de-condensation-pour-res.md) | 2025-08-28 | [Aviation](../topics/aviation-decarbonisation.md) |
+| [Which carmakers are leading the way on green steel?](which-carmakers-are-leading-the-way-on-green-steel.md) | 2025-09-04 | *(none yet)* |
 | [EV progress report: Which EU carmakers are on track for 2025-27 targets?](ev-progress-report-which-eu-carmakers-are-on-track-for-2025-27-targets.md) | 2025-09-08 | [Car and van CO2 standards](../topics/car-and-van-co2-standards.md) |
 | [Unlocking e-fuels for aviation and shipping and clean transport infrastructure](unlocking-e-fuels-for-aviation-and-shipping-and-clean-transport-infrastructure.md) | 2025-09-09 | [E-fuels financing and infrastructure](../topics/e-fuels-financing.md) |
 | [Driving Change: Creating the EU's Ambitious 2040 Climate Commitment](driving-change-creating-the-eu-s-ambitious-2040-climate-commitment.md) | 2025-09-09 | [EU 2040 climate target](../topics/eu-2040-climate-target.md) |
 | [European aviation set to spend billions on offsetting schemes](european-aviation-set-to-spend-billions-on-offsetting-schemes.md) | 2025-09-22 | [Aviation](../topics/aviation-decarbonisation.md) |
 | [Blue threat: will the EU's hydrogen policy stay green?](blue-threat-will-the-eu-s-hydrogen-policy-stay-green.md) | 2025-09-23 | [Hydrogen policy: blue vs. green](../topics/hydrogen-policy.md) |
+| [E-Fuels als Schlüssel für Deutschlands Wettbewerbsfähigkeit und industrielle Führungsrolle](e-fuels-als-schl-ssel-f-r-deutschlands-wettbewerbsf-higkeit-und-industrielle-f-h.md) | 2025-09-24 | *(none yet)* |
+| [Youth, consumer and environmental NGOs call on the EU to improve rail ticket booking](youth-consumer-and-environmental-ngos-call-on-the-eu-to-improve-rail-ticket-book.md) | 2025-09-29 | *(none yet)* |
+| [Fiscalité de l'aérien : pour T&E, l'argumentaire de la Fnam manque de crédibilité](fiscalit-de-l-a-rien-pour-t-e-l-argumentaire-de-la-fnam-manque-de-cr-dibilit.md) | 2025-10-02 | [Aviation](../topics/aviation-decarbonisation.md) |
 | [Carbon leakage in the aviation sector: Is it a problem and if so what can be done to address it?](carbon-leakage-in-the-aviation-sector-is-it-a-problem-and-if-so-what-can-be-done.md) | 2025-10-06 | [Aviation](../topics/aviation-decarbonisation.md) |
 | [Leaked car industry paper: carmakers' EU demands would cut EV sales in half](leaked-car-industry-paper-carmakers-eu-demands-would-cut-ev-sales-in-half.md) | 2025-10-08 | [Car and van CO2 standards](../topics/car-and-van-co2-standards.md) |
 | [CrOP30: Why burning food for land-hungry biofuels is fuelling the climate crisis](crop30-why-burning-food-for-land-hungry-biofuels-is-fuelling-the-climate-crisis.md) | 2025-10-09 | [Biofuels](../topics/biofuels.md) |

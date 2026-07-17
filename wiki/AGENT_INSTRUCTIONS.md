@@ -174,9 +174,10 @@ rather than guessing. Two patterns to copy directly from how T&E structures its 
   Green Steel but is cross-linked from Cars & Vans.
 
 **Gap list** — sections/subtopics T&E treats as first-class on the real site with no wiki coverage
-yet, as of 2025-11-21: whole sections **Rail, Batteries, Air Quality, Clean Cities**; within
-**Planes**, T&E's own subtopics Contrails/non-CO2, Airports, Elite/corporate flying and airplane
-air pollution; within **Ships**, LNG, cruise ships, shipping air pollution, the e-fuels tracker,
+yet, as of 2026-07-17: whole sections **Rail, Batteries, Air Quality, Clean Cities**; within
+**Planes**, airplane air pollution specifically (Contrails/non-CO2 and Elite/corporate flying were
+filled in on 2026-07-17, see `aviation-decarbonisation.md`); within **Ships**, LNG, cruise ships,
+shipping air pollution, the e-fuels tracker,
 shipping MRV/emissions data, and shipping-aviation emissions allocation (only the IMO Net-Zero
 Framework is covered so far); within **Cars & Vans**, charging infrastructure, fleets, and
 lifecycle/"are electric cars cleaner" comparisons. When a new source doesn't obviously belong to an

@@ -6,7 +6,8 @@ summary: >
   Projected traffic growth will overwhelm efficiency and SAF gains, leaving aviation emissions
   nearly flat; SAF/e-kerosene scale-up faces its own feedstock/electricity limits; T&E wants
   demand-side measures (curb airport expansion, promote rail, extend EU ETS) rather than tech
-  alone, and disputes industry claims that taxes/charges are what's suppressing demand.
+  alone, disputes industry claims that taxes/charges are what's suppressing demand, and pushes
+  for non-CO2/contrail regulation and corporate/elite-flying accountability.
 first_seen: 2025-01-13
 last_updated: 2025-11-13
 ---
@@ -15,12 +16,9 @@ last_updated: 2025-11-13
 
 *Updated: 2025-11-13*
 
-Sections below follow T&E's own "Planes" subtopics where this wiki has matching content. Two of
-T&E's real Planes subtopics — **Contrails and non-CO2 emissions** and **Elite/high-emission flying**
-(corporate travel) — have no dedicated wiki coverage yet; the only mention of contrails so far is
-one sentence in [EU 2040 climate target § Transport is the outlier sector](eu-2040-climate-target.md#transport-is-the-outlier-sector).
+Sections below follow T&E's own "Planes" subtopics.
 
-**Contents:** [Airplane pollution](#airplane-pollution) · [Aviation taxes](#aviation-taxes) · [Airports](#airports) · [Sustainable aviation fuels](#sustainable-aviation-fuels)
+**Contents:** [Airplane pollution](#airplane-pollution) · [Aviation taxes](#aviation-taxes) · [Airports](#airports) · [Sustainable aviation fuels](#sustainable-aviation-fuels) · [Contrails and non-CO2 emissions](#contrails-and-non-co2-emissions) · [Elite/high-emission flying](#elitehigh-emission-flying)
 
 ## Airplane pollution
 
@@ -65,7 +63,7 @@ instead fund real decarbonisation (see [Sustainable aviation fuels](#sustainable
 below).
 
 [La faible innovation dans l'aérien risque de ralentir la décarbonation de l'aviation](../sources/la-faible-innovation-dans-l-a-rien-risque-de-ralentir-la-d-carbonation-de-l-avia.md)
-("The aviation industry and the stall in aircraft innovation", briefing, June 2025) shifts the
+(also published in English as [The aviation industry and the stall in aircraft innovation](../sources/the-aviation-industry-and-the-stall-in-aircraft-innovation.md), briefing, June 2025) shifts the
 argument from traffic growth and fuel to aircraft technology itself: Airbus and Boeing's most
 innovative aircraft projects are delayed or paused, most "new" models are re-engined versions of
 existing airframes, and neither manufacturer has a genuinely new aircraft planned for the next
@@ -87,6 +85,20 @@ line. T&E's response is to push for regulation over reliance on manufacturer pro
 electric aircraft (not just biofuels) in EU clean-aviation rules, exempt zero-emission aircraft
 from airport charges and give them priority slots (including on publicly funded routes), and
 accelerate certification of new designs.
+
+[Airline emissions soar to pre-COVID levels as Europe fails to price their pollution](../sources/airline-emissions-soar-to-pre-covid-levels-as-europe-fails-to-price-their-pollut.md)
+(T&E report, April 2025; French release:
+[L'aviation européenne émet presque autant de CO2 qu'avant le Covid](../sources/l-aviation-europ-enne-met-presque-autant-de-co2-qu-avant-le-covid.md))
+confirms the 2024 rebound the traffic-growth argument above anticipated: 8.4 million flights
+departed European airports, emitting 187.6 MtCO2 (+8% on 2023), with intra-EEA flights already
+exceeding their 2019 levels and extra-European flights catching up fast. Ryanair remained the
+largest single emitter (16.2 MtCO2, +9% on 2023, +34% above 2019); the ten most polluting airlines
+together accounted for 40% of sector emissions. The EU ETS currently prices only intra-EEA
+flights — a third of aviation emissions — so airlines paid around €3bn in 2024 while a further
+€7.5bn of costs went unpriced thanks to exempt extra-EEA flights and remaining free allowances;
+T&E frames the scheduled 2026 ETS review as the opportunity to close that gap, which would more
+than double ETS revenue from the sector. See [Contrails and non-CO2 emissions](#contrails-and-non-co2-emissions)
+below for the report's non-CO2 findings.
 
 ## Aviation taxes
 
@@ -110,6 +122,18 @@ reiterate the same finding: aviation demand is driven mainly by travel trends an
 not location costs. A later French briefing,
 [La fiscalité de l'aérien et les divers coûts par aéroport ont un faible impact sur le niveau de trafic](../sources/la-fiscalit-de-l-a-rien-et-les-divers-co-ts-par-a-roport-ont-un-faible-impact-su.md)
 (November 2025), extends the same conclusion to French airports specifically.
+
+A parallel skirmish plays out in the French budget process:
+[Fiscalité de l'aérien : pour T&E, l'argumentaire de la Fnam manque de crédibilité](../sources/fiscalit-de-l-a-rien-pour-t-e-l-argumentaire-de-la-fnam-manque-de-cr-dibilit.md)
+(T&E France, October 2025) rebuts the French airline lobby Fnam's push — echoed uncritically by
+the budget's rapporteur général — for a "significant, even selective" cut to aviation taxation.
+T&E argues French aviation remains under-taxed overall (no kerosene tax, no VAT on many flights, a
+fiscal-exemption gap of over €5bn/year even after the 2025 ticket-tax rise, which itself raises
+only €850m/year), and that Fnam's comparison data is cherry-picked — it compares only long-haul
+economy and business fares (together 12% of French passengers) while omitting the UK, whose air
+passenger duty is higher across the same categories. T&E also disputes Fnam's claim that the 2025
+tax rise dented Paris tourism, noting Paris-area airport passenger numbers were actually up 4%
+year-on-year over June-July 2025 even as Heathrow's fell.
 
 Beyond the demand-effect debate above, T&E has also weighed in on narrower aviation fiscal
 questions: a French legal analysis,
@@ -147,3 +171,36 @@ but extremely electricity-intensive — meeting a 35% e-kerosene mandate would r
 renewable electricity by 2050, more than Germany's entire 2023 electricity demand (506 TWh). See
 those two pages for T&E's full case on feedstock scarcity, fraud risk, and the financing gap this
 wiki tracks separately from the traffic-growth argument above.
+
+## Contrails and non-CO2 emissions
+
+[Countries obliged to include aviation contrails in climate plans under Paris Agreement, new legal advice shows](../sources/countries-obliged-to-include-aviation-contrails-in-climate-plans-under-paris-agr.md)
+(T&E and Opportunity Green legal advice, August 2025; French release:
+[Climat : les Etats doivent prendre en compte les traînées de condensation pour respecter l'Accord de Paris](../sources/climat-les-etats-doivent-prendre-en-compte-les-tra-n-es-de-condensation-pour-res.md))
+is T&E's first substantial push specifically on aviation's non-CO2 effects — contrails, NOx, water
+vapour and soot — whose combined warming impact T&E puts at least equal to that of aviation's CO2.
+Updating a 2021 opinion covering aviation and shipping generally, the new legal advice concludes
+Paris Agreement Parties are legally obliged to include international aviation's non-CO2 effects in
+their Nationally Determined Contributions (NDCs), even though the EU is currently the only Party
+that does so; T&E and Opportunity Green use this finding to press governments to act before
+COP30 in Brazil. It also notes the EU's own non-CO2 monitoring system, launched in 2025, initially
+covers only intra-EEA flights and only expands to all flights in 2027 — and that monitoring alone,
+without follow-up legislation, is not the same as addressing the impact (see also
+[Airplane pollution](#airplane-pollution) above for the same report's CO2-pricing findings).
+
+## Elite/high-emission flying
+
+[Voyages d'affaires : les émissions des grandes entreprises mondiales ont reculé d'un tiers entre 2019 et 2023](../sources/voyages-d-affaires-les-missions-des-grandes-entreprises-mondiales-ont-recul-d-un.md)
+(T&E France press release on the Travel Smart campaign's corporate ranking, April 2025) is T&E's
+main data point on corporate/elite flying: business-travel emissions across 239 ranked
+multinationals were down 34% on 2019 in 2023, but the gain is fragile and uneven — 44% of the 326
+companies assessed still have no dedicated business-travel emissions target, and while strong
+performers like Crédit Agricole (-44%, helped by a train-first travel policy), Dassault Systèmes
+(-60%) and Capgemini (-45%) cut emissions, LVMH (+63%) and Valeo (+71%) saw theirs rise over the
+same period. Companies with a specific business-travel reduction target achieved a 48% average cut
+versus 41% for those with only an all-travel target and 35% for those with a broader all-emissions
+target, which T&E uses to argue specific, dedicated targets outperform vaguer ones. Separately, the
+ranking flags 25 high-flying global companies with no reduction target at all (including Google,
+Apple and Bouygues), whose flights emit a combined 6.9 MtCO2/year — equivalent to 48,000
+Paris-New York return flights — and notes at least 19 of these companies or their CEOs own or
+charter private jets.
