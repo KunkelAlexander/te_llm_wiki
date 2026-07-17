@@ -6,17 +6,21 @@ summary: >
   purchase-subsidy design (e.g. France's life-cycle "éco-score") and other policy levers meant to
   accelerate and green the EV transition.
 first_seen: 2025-01-27
-last_updated: 2025-01-27
+last_updated: 2025-11-18
 ---
 
 # Electric vehicles
 
-*Updated: 2025-01-27*
+*Updated: 2025-11-18*
 
 *See also: [Car and van CO2 standards](car-and-van-co2-standards.md)* for T&E's watchdog work on
 the EU's fleet-wide CO2 targets and industry attempts to weaken them — this page instead covers
 policy mechanisms aimed at accelerating EV adoption directly, such as national purchase
-incentives.
+incentives. *Main article: [EV battery and raw materials supply chains](ev-battery-and-raw-materials.md)*
+for T&E's work on the upstream materials, industrial policy and circularity questions behind the
+EV transition.
+
+**Contents:** [Éco-score: life-cycle environmental scoring in France](#co-score-life-cycle-environmental-scoring-in-france) · [Finance sector alignment on EV leasing](#finance-sector-alignment-on-ev-leasing)
 
 ## Éco-score: life-cycle environmental scoring in France
 
@@ -45,3 +49,12 @@ delegated mandate under Regulation 2019/631 is limited to a genuine "full life-c
 methodology, so if T&E's simplified EU-wide scoring proposal can't be characterised as truly
 full-life-cycle, the safer route is a legislative amendment to Article 7a rather than the
 Commission stretching its delegated powers to adopt a simplified version unilaterally.
+
+## Finance sector alignment on EV leasing
+
+[Leasing automobile : le Crédit Agricole réhausse son ambition en faveur de l'électrique](../sources/leasing-automobile-le-cr-dit-agricole-r-hausse-son-ambition-en-faveur-de-l-lectr.md)
+(press release, November 2025) welcomes Crédit Agricole's strengthened commitments to electrify its
+car-financing and leasing activities — coming, T&E notes, against a backdrop of industry pushback
+against climate targets elsewhere in the car sector (see
+[Car and van CO2 standards](car-and-van-co2-standards.md)). T&E and Reclaim Finance frame this as a
+strong signal and call on the rest of the banking sector to align similarly.

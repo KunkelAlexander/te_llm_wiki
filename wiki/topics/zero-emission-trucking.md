@@ -6,12 +6,12 @@ summary: >
   trucking; LNG is a false solution; EU truck CO2 targets have repeatedly undershot both available
   tech and industry's own trajectory.
 first_seen: 2021-04-06
-last_updated: 2025-07-14
+last_updated: 2025-11-17
 ---
 
 # Zero-emission trucks
 
-*Updated: 2025-07-14*
+*Updated: 2025-11-17*
 
 T&E's consistent position since 2021 is that **direct electrification (battery-electric, with
 overhead-catenary electric road systems as a complementary option) is the dominant realistic
@@ -19,7 +19,7 @@ pathway to decarbonise heavy trucking**, that hydrogen and e-fuels are far less 
 detours, and that EU CO2 standards for trucks have been too weak to drive the transition on
 their own.
 
-**Contents:** [Why direct electrification wins on efficiency and cost](#why-direct-electrification-wins-on-efficiency-and-cost) · [LNG as a false solution](#lng-as-a-false-solution) · [CO2 standards: weak targets, then a push for much stronger ones](#co2-standards-weak-targets-then-a-push-for-much-stronger-ones) · [Shippers, not just truckmakers, as a lever](#shippers-not-just-truckmakers-as-a-lever)
+**Contents:** [Why direct electrification wins on efficiency and cost](#why-direct-electrification-wins-on-efficiency-and-cost) · [LNG as a false solution](#lng-as-a-false-solution) · [CO2 standards: weak targets, then a push for much stronger ones](#co2-standards-weak-targets-then-a-push-for-much-stronger-ones) · [Shippers, not just truckmakers, as a lever](#shippers-not-just-truckmakers-as-a-lever) · [2025: industry pushback meets real-world momentum](#2025-industry-pushback-meets-real-world-momentum)
 
 ## Why direct electrification wins on efficiency and cost
 
@@ -89,3 +89,19 @@ maximum end-consumer price impact at just 1.1% by 2039 (transport being roughly 
 product's price) — used to argue the shipper-procurement lever is nearly free at the checkout while
 unlocking demand that TCO alone hasn't yet delivered (TNO's 2022 finding that electric trucks
 already undercut diesel on TCO by 2035 notwithstanding).
+
+## 2025: industry pushback meets real-world momentum
+
+[Poids lourds électriques : comment transformer l'essai](../sources/poids-lourds-lectriques-comment-transformer-l-essai.md)
+(French briefing, October 2025) sets out proposals to support demand for zero-emission trucks in
+France specifically, extending the shipper/demand-side lever above to the national level.
+
+Weeks later, [Truckmakers lobby European Commission to weaken their emissions targets and cut zero emission truck sales](../sources/truckmakers-lobby-european-commission-to-weaken-their-emissions-targets-and-cut-.md)
+(30 October 2025) reports that Scania, MAN, Volvo Trucks, Daimler, IVECO and Ford wrote to EU
+Commissioners asking to delay Europe's transition to zero-emission trucks — the same manufacturers
+whose own overachievement of past CO2 targets T&E had documented above.
+
+Against that pushback, [Camions électriques longue distance : la révolution est en marche dans le transport routier](../sources/camions-lectriques-longue-distance-la-r-volution-est-en-marche-dans-le-transport.md)
+(French briefing, November 2025) argues the transition is no longer a future project: it presents
+concrete cases of hauliers already running electric trucks on long-distance routes as day-to-day
+operational reality, not a pilot.

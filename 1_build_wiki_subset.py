@@ -52,7 +52,10 @@ except Exception:
     pass
 
 from config import (
+    CROSS_LANGUAGE_MIN_COGNATE_LEN,
+    CROSS_LANGUAGE_STOPWORDS,
     DEFAULT_PUB_TYPE_SUBSTANTIVENESS,
+    GENERIC_ACRONYMS,
     PAGES_PARQUET_OUT,
     PUB_TYPE_SUBSTANTIVENESS,
     WIKI_ANNOUNCEMENT_TIER_MAX_RANK,
@@ -61,6 +64,8 @@ from config import (
     WIKI_PROCESSED_LOG,
     WIKI_SOURCES_DIR,
     WIKI_SUBSET_FILTER,
+    WIKI_TRANSLATION_DATE_WINDOW_DAYS,
+    WIKI_TRANSLATION_MIN_SHARED_TOKENS,
 )
 
 FRONTMATTER_TMPL = """---
@@ -186,6 +191,105 @@ def _title_similarity(a, b) -> float:
     return len(ta & tb) / len(ta | tb)
 
 
+_NUMBER_RE = re.compile(r"\d[\d.,]*\d|\d")
+_ACRONYM_RE = re.compile(r"\b[A-Z]{2,6}\d{0,2}\b")
+_COGNATE_WORD_RE = re.compile(r"[A-Za-zÀ-ÿ]+")
+
+
+def _distinctive_tokens(title) -> set:
+    """Language-agnostic duplicate signal for cross-office (cross-language) title matching:
+    numbers/figures, acronyms, and long cognate-looking words, each filtered against a small
+    blocklist of tokens too generic (EU, CO2, "European", "transport"...) to imply the same
+    underlying publication rather than just the same beat. See CROSS_LANGUAGE_STOPWORDS /
+    GENERIC_ACRONYMS in config.py for why: these are terms that recur across many *unrelated*
+    T&E titles regardless of language, so on their own they'd match unrelated articles rather
+    than genuine translations of one release."""
+    title = str(title)
+    tokens = set()
+    for m in _NUMBER_RE.finditer(title):
+        digits = re.sub(r"[^\d]", "", m.group())
+        if len(digits) >= 2:
+            tokens.add(digits)
+    for m in _ACRONYM_RE.finditer(title):
+        acronym = m.group().upper()
+        if acronym not in GENERIC_ACRONYMS:
+            tokens.add(acronym)
+    for m in _COGNATE_WORD_RE.finditer(title):
+        word = m.group().lower()
+        if len(word) >= CROSS_LANGUAGE_MIN_COGNATE_LEN and word not in CROSS_LANGUAGE_STOPWORDS:
+            tokens.add(word)
+    return tokens
+
+
+def _cluster_cross_language_duplicates(reps: pd.DataFrame):
+    """Second dedup pass, run after _cluster_duplicates: catches the same underlying release
+    published in multiple languages/offices (e.g. an EN press release plus its DE translation),
+    which the English-stemmed-word matching above cannot see since a French or German title
+    shares essentially no word tokens with its English original. Restricted to candidates from
+    *different* Office values, within a tighter date window than the general announcement/
+    substantive match (translations are near-simultaneous; unrelated same-office coverage of a
+    recurring theme can otherwise drift across many days and false-match on a shared generic
+    cognate). Unlike _cluster_duplicates this compares any tier pair, including same-tier (two
+    press releases in different languages are exactly the common case), since the cross-office
+    requirement is itself the false-positive guard here.
+
+    Each candidate is matched to its single best same-story companion, as in _cluster_duplicates —
+    but unlike that function, here a companion picked as a "winner" in one pair can still turn out
+    to be some other pair's loser (rank ties break on fulltext length rather than a fixed tier, so
+    the same title can win against a shorter same-tier companion and lose to a genuinely more
+    substantive one, e.g. a language's press release loses to that language's own report). Losers
+    are resolved to their ultimate surviving winner below rather than logged against a companion
+    that was itself dropped, which would otherwise leave a dangling duplicate_of reference."""
+    rows = reps.copy()
+    rows["_date"] = pd.to_datetime(rows["Publication Date"], errors="coerce")
+    rows["_rank"] = rows["Publication Type"].map(_pub_type_rank).fillna(DEFAULT_PUB_TYPE_SUBSTANTIVENESS)
+    rows = rows.sort_values("_date", kind="stable").reset_index(drop=True)
+    records = rows.to_dict("records")
+    n = len(records)
+
+    def fulltext_len(k):
+        return len(str(records[k].get("fulltext") or ""))
+
+    def loser_winner(i, j):
+        """Lower substantiveness rank is the loser; ties break on longer fulltext (fuller
+        extraction, same tie-break _select_representative uses for same-URL docs)."""
+        if records[i]["_rank"] != records[j]["_rank"]:
+            return (i, j) if records[i]["_rank"] < records[j]["_rank"] else (j, i)
+        return (i, j) if fulltext_len(i) < fulltext_len(j) else (j, i)
+
+    window = pd.Timedelta(days=WIKI_TRANSLATION_DATE_WINDOW_DAYS)
+    best_match = {}  # loser index -> (shared_token_count, winner index)
+    for i in range(n):
+        if pd.isna(records[i]["_date"]):
+            continue
+        for j in range(i + 1, n):
+            if pd.isna(records[j]["_date"]):
+                continue
+            if records[j]["_date"] - records[i]["_date"] > window:
+                break  # sorted by date: nothing further out will be in-window either
+            if records[i]["Office"] == records[j]["Office"]:
+                continue  # same-language matching is _cluster_duplicates' job, not this pass'
+            shared = _distinctive_tokens(records[i]["Title"]) & _distinctive_tokens(records[j]["Title"])
+            if len(shared) < WIKI_TRANSLATION_MIN_SHARED_TOKENS:
+                continue
+            loser, winner = loser_winner(i, j)
+            if loser not in best_match or len(shared) > best_match[loser][0]:
+                best_match[loser] = (len(shared), winner)
+
+    def resolve_winner(idx):
+        seen = set()
+        while idx in best_match and idx not in seen:
+            seen.add(idx)
+            idx = best_match[idx][1]
+        return idx
+
+    dropped_idx = set(best_match.keys())
+    kept_idx = [i for i in range(n) if i not in dropped_idx]
+    dropped = [(rows.iloc[loser], rows.iloc[resolve_winner(loser)]) for loser in best_match]
+
+    return rows.iloc[kept_idx], dropped
+
+
 def _cluster_duplicates(reps: pd.DataFrame):
     """Match each low-substantiveness candidate (press release/news/post) against its single
     best-matching substantive candidate (report/briefing/etc.) published nearby, and drop the
@@ -266,6 +370,8 @@ def build_subset(keyword: str = WIKI_SUBSET_FILTER, limit: int = None):
         reps = reps.head(limit)
 
     kept, dropped_dups = _cluster_duplicates(reps)
+    kept, dropped_translations = _cluster_cross_language_duplicates(kept)
+    dropped_dups = dropped_dups + dropped_translations
 
     os.makedirs(WIKI_SOURCES_DIR, exist_ok=True)
     written = []

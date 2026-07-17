@@ -29,5 +29,11 @@ production in 2022 alone. Downstream oil segment profits rose from €19.4bn to 
 and 2022 (+15%, ~5% margin), with wide company-level variation — e.g. TotalEnergies' Belgian
 operations reached a ~7% margin in 2022 versus under 1% for Edison in Italy.
 
+[Tax fossil fuel profits to reduce exposure to energy price spikes or end subsidies, says T&E](../sources/tax-fossil-fuel-profits-to-reduce-exposure-to-energy-price-spikes-or-end-subsidi.md)
+(press release, October 2025) restates the €180bn headline figure and connects it to T&E's live
+policy ask: use windfall taxation (or an end to fossil subsidies) to reduce EU households' exposure
+to future energy price spikes, linking this topic to the ETS2 reform debate — see
+[EU 2040 climate target](eu-2040-climate-target.md).
+
 This is currently a single-report topic in this wiki; expect it to connect to future T&E work on
 energy pricing and just-transition funding as more publications come in.

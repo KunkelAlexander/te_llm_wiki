@@ -2,7 +2,7 @@
 title: Sources
 ---
 
-# Sources (42)
+# Sources (70)
 
 Every T&E publication cited anywhere in this wiki. Open a source page for a link to the original publication.
 
@@ -45,8 +45,36 @@ Every T&E publication cited anywhere in this wiki. Open a source page for a link
 | [Green shipping fuel producers call on IMO to seize 'once-in-a-generation' opportunity](green-shipping-fuel-producers-call-on-imo-to-seize-once-in-a-generation-opportun.md) | 2025-10-13 | [IMO shipping fuel standard (Net-Zero Framework)](../topics/imo-shipping-fuel-standard.md) |
 | [US-led pressure on shipping deal an attack on EU sovereignty, says T&E](us-led-pressure-on-shipping-deal-an-attack-on-eu-sovereignty-says-t-e.md) | 2025-10-16 | [IMO shipping fuel standard (Net-Zero Framework)](../topics/imo-shipping-fuel-standard.md) |
 | [US intimidation leaves future of shipping uncertain but appetite for green future remains](us-intimidation-leaves-future-of-shipping-uncertain-but-appetite-for-green-futur.md) | 2025-10-17 | [IMO shipping fuel standard (Net-Zero Framework)](../topics/imo-shipping-fuel-standard.md) |
+| [ETS2 reform will limit price spikes and make redistribution easier, says T&E](ets2-reform-will-limit-price-spikes-and-make-redistribution-easier-says-t-e.md) | 2025-10-22 | [EU 2040 climate target](../topics/eu-2040-climate-target.md) |
+| [Fiscalité : les résidents d'Outre-mer peuvent être exonérés de taxe sur les billets d'avion, selon une nouvelle analyse juridique](fiscalit-les-r-sidents-d-outre-mer-peuvent-tre-exon-r-s-de-taxe-sur-les-billets-.md) | 2025-10-22 | [Aviation](../topics/aviation-decarbonisation.md) |
 | [Brazil's sustainable fuels pledge is dangerously ambitious and risks repeating mistakes of the past](brazil-s-sustainable-fuels-pledge-is-dangerously-ambitious-and-risks-repeating-m.md) | 2025-10-22 | [Biofuels](../topics/biofuels.md) |
+| [Poids lourds électriques : comment transformer l'essai](poids-lourds-lectriques-comment-transformer-l-essai.md) | 2025-10-23 | [Zero-emission trucks](../topics/zero-emission-trucking.md) |
 | [Airlines blame taxes, fees and charges: The data says otherwise](airlines-blame-taxes-fees-and-charges-the-data-says-otherwise.md) | 2025-10-29 | [Aviation](../topics/aviation-decarbonisation.md) |
+| [Neue Studie: Standortkosten beeinflussen Passagierzahlen nur begrenzt](neue-studie-standortkosten-beeinflussen-passagierzahlen-nur-begrenzt.md) | 2025-10-29 | [Aviation](../topics/aviation-decarbonisation.md) |
+| [New study: Aviation taxes, charges and fees have limited impact on passenger numbers](new-study-aviation-taxes-charges-and-fees-have-limited-impact-on-passenger-numbe.md) | 2025-10-29 | [Aviation](../topics/aviation-decarbonisation.md) |
 | [Excessive fossil fuel profits should be taxed and given back to citizens](excessive-fossil-fuel-profits-should-be-taxed-and-given-back-to-citizens.md) | 2025-10-30 | [Fossil fuel windfall taxation](../topics/fossil-fuel-taxation.md) |
+| [Tax fossil fuel profits to reduce exposure to energy price spikes or end subsidies, says T&E](tax-fossil-fuel-profits-to-reduce-exposure-to-energy-price-spikes-or-end-subsidi.md) | 2025-10-30 | [Fossil fuel windfall taxation](../topics/fossil-fuel-taxation.md) |
+| [Truckmakers lobby European Commission to weaken their emissions targets and cut zero emission truck sales](truckmakers-lobby-european-commission-to-weaken-their-emissions-targets-and-cut-.md) | 2025-10-30 | [Zero-emission trucks](../topics/zero-emission-trucking.md) |
+| [Trump's attack on UN shipping deal is a harbinger of what's to come. Here's how countries can still get climate action done](trump-s-attack-on-un-shipping-deal-is-a-harbinger-of-what-s-to-come-here-s-how-c.md) | 2025-10-31 | [IMO shipping fuel standard (Net-Zero Framework)](../topics/imo-shipping-fuel-standard.md) |
+| [La fiscalité de l'aérien et les divers coûts par aéroport ont un faible impact sur le niveau de trafic](la-fiscalit-de-l-a-rien-et-les-divers-co-ts-par-a-roport-ont-un-faible-impact-su.md) | 2025-11-04 | [Aviation](../topics/aviation-decarbonisation.md) |
 | [Scientists call on global leaders to limit crop biofuels ahead of COP30](scientists-call-on-global-leaders-to-limit-crop-biofuels-ahead-of-cop30.md) | 2025-11-05 | [Biofuels](../topics/biofuels.md) |
+| [Van makers want to slash the e-van market. Europe can boost it instead](van-makers-want-to-slash-the-e-van-market-europe-can-boost-it-instead.md) | 2025-11-05 | [Car and van CO2 standards](../topics/car-and-van-co2-standards.md) |
 | [EU transport plan sets out first steps to boost green fuel production for planes and ships](eu-transport-plan-sets-out-first-steps-to-boost-green-fuel-production-for-planes.md) | 2025-11-05 | [Biofuels](../topics/biofuels.md) |
+| [Weakening the EU 2040 target would fail to deliver clear signal to businesses and consumers](weakening-the-eu-2040-target-would-fail-to-deliver-clear-signal-to-businesses-an.md) | 2025-11-05 | [EU 2040 climate target](../topics/eu-2040-climate-target.md) |
+| [ReSourceEU risks becoming a rebranding project. Here's what it needs to become a game changer](resourceeu-risks-becoming-a-rebranding-project-here-s-what-it-needs-to-become-a-.md) | 2025-11-07 | [EV battery and raw materials supply chains](../topics/ev-battery-and-raw-materials.md) |
+| [From waste to value: Driving circularity in Europe](from-waste-to-value-driving-circularity-in-europe.md) | 2025-11-12 | [EV battery and raw materials supply chains](../topics/ev-battery-and-raw-materials.md) |
+| [Economics of air transport in Europe](economics-of-air-transport-in-europe.md) | 2025-11-13 | [Aviation](../topics/aviation-decarbonisation.md) |
+| [Les projets d'extension des aéroports français incompatibles avec les objectifs climat du secteur aérien](les-projets-d-extension-des-a-roports-fran-ais-incompatibles-avec-les-objectifs-.md) | 2025-11-13 | [Aviation](../topics/aviation-decarbonisation.md) |
+| [New analysis debunks the assumption that air passenger growth drives economic growth](new-analysis-debunks-the-assumption-that-air-passenger-growth-drives-economic-gr.md) | 2025-11-13 | [Aviation](../topics/aviation-decarbonisation.md) |
+| [Neue Analyse: Mehr Flugverkehr führt meist nicht zu Wirtschaftswachstum](neue-analyse-mehr-flugverkehr-f-hrt-meist-nicht-zu-wirtschaftswachstum.md) | 2025-11-13 | [Aviation](../topics/aviation-decarbonisation.md) |
+| [Europe's affordable car project needs to put the Va Va Voom into small EVs](europe-s-affordable-car-project-needs-to-put-the-va-va-voom-into-small-evs.md) | 2025-11-13 | [Car and van CO2 standards](../topics/car-and-van-co2-standards.md) |
+| [Ambitious Car CO2 standards more important than ever after lawmakers vote to weaken 2040 target](ambitious-car-co2-standards-more-important-than-ever-after-lawmakers-vote-to-wea.md) | 2025-11-13 | [Car and van CO2 standards](../topics/car-and-van-co2-standards.md), [EU 2040 climate target](../topics/eu-2040-climate-target.md) |
+| [Making the Industrial Accelerator Act deliver for EVs and batteries](making-the-industrial-accelerator-act-deliver-for-evs-and-batteries.md) | 2025-11-17 | [EV battery and raw materials supply chains](../topics/ev-battery-and-raw-materials.md) |
+| [Reducing the carbon footprint of aluminium in cars: why and how?](reducing-the-carbon-footprint-of-aluminium-in-cars-why-and-how.md) | 2025-11-17 | [EV battery and raw materials supply chains](../topics/ev-battery-and-raw-materials.md) |
+| [Camions électriques longue distance : la révolution est en marche dans le transport routier](camions-lectriques-longue-distance-la-r-volution-est-en-marche-dans-le-transport.md) | 2025-11-17 | [Zero-emission trucks](../topics/zero-emission-trucking.md) |
+| [Can't stop the market: why Europe should embrace LFP batteries (sustainably)](can-t-stop-the-market-why-europe-should-embrace-lfp-batteries-sustainably.md) | 2025-11-18 | [EV battery and raw materials supply chains](../topics/ev-battery-and-raw-materials.md) |
+| [Leasing automobile : le Crédit Agricole réhausse son ambition en faveur de l'électrique](leasing-automobile-le-cr-dit-agricole-r-hausse-son-ambition-en-faveur-de-l-lectr.md) | 2025-11-18 | [Electric vehicles](../topics/electric-vehicles.md) |
+| [If done right, EU Military Mobility can generate clear benefits for people and the climate](if-done-right-eu-military-mobility-can-generate-clear-benefits-for-people-and-th.md) | 2025-11-19 | *(none yet)* |
+| [Driving best practice in mining waste management](driving-best-practice-in-mining-waste-management.md) | 2025-11-20 | [EV battery and raw materials supply chains](../topics/ev-battery-and-raw-materials.md) |
+| [European long-distance passenger transport - VAT gap analysis](european-long-distance-passenger-transport-vat-gap-analysis.md) | 2025-11-20 | [Aviation](../topics/aviation-decarbonisation.md) |
+| [L'Europe doit favoriser les voitures électriques abordables - mais sans revenir sur ses objectifs en matière de sécurité et d'émissions](l-europe-doit-favoriser-les-voitures-lectriques-abordables-mais-sans-revenir-sur.md) | 2025-11-21 | [Car and van CO2 standards](../topics/car-and-van-co2-standards.md) |

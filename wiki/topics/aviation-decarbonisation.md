@@ -7,12 +7,12 @@ summary: >
   demand-side measures (curb airport expansion, promote rail, extend EU ETS) rather than tech
   alone, and disputes industry claims that taxes/charges are what's suppressing demand.
 first_seen: 2025-01-13
-last_updated: 2025-10-29
+last_updated: 2025-11-13
 ---
 
 # Aviation
 
-*Updated: 2025-10-29*
+*Updated: 2025-11-13*
 
 [Aviation industry plans for growth 'irreconcilable' with Europe's climate goals](../sources/aviation-industry-plans-for-growth-irreconcilable-with-europe-s-climate-goals.md)
 ("Down to Earth", January 2025) argues that projected traffic growth will overwhelm any
@@ -38,7 +38,7 @@ Commission scenario. T&E's policy response is to curb airport expansion, remove 
 subsidies for aviation, and promote rail as a substitute for short-haul flights, rather than
 relying on efficiency and SAF alone.
 
-**Contents:** [EU ETS scope and carbon leakage](#eu-ets-scope-and-carbon-leakage) · [CORSIA offsetting vs. EU ETS](#corsia-offsetting-vs-eu-ets) · [Aircraft manufacturer innovation stall](#aircraft-manufacturer-innovation-stall) · [Airline cost lobbying vs. the data](#airline-cost-lobbying-vs-the-data)
+**Contents:** [EU ETS scope and carbon leakage](#eu-ets-scope-and-carbon-leakage) · [CORSIA offsetting vs. EU ETS](#corsia-offsetting-vs-eu-ets) · [Aircraft manufacturer innovation stall](#aircraft-manufacturer-innovation-stall) · [Airline cost lobbying vs. the data](#airline-cost-lobbying-vs-the-data) · [Debunking the economic case for airport expansion](#debunking-the-economic-case-for-airport-expansion) · [Aviation taxation: fairness and scope questions](#aviation-taxation-fairness-and-scope-questions)
 
 ## EU ETS scope and carbon leakage
 
@@ -110,3 +110,40 @@ Airlines also only pass through less than 50% of individual cost increases to fa
 cost increases pass through more), and the study points to structural market issues instead —
 airline consolidation, capacity shifts, overcapacity/price competition — as better explanations of
 demand trends than taxes and fees.
+
+The accompanying press releases in Brussels
+([New study: Aviation taxes, charges and fees have limited impact on passenger numbers](../sources/new-study-aviation-taxes-charges-and-fees-have-limited-impact-on-passenger-numbe.md))
+and Germany
+([Neue Studie: Standortkosten beeinflussen Passagierzahlen nur begrenzt](../sources/neue-studie-standortkosten-beeinflussen-passagierzahlen-nur-begrenzt.md))
+reiterate the same finding: aviation demand is driven mainly by travel trends and airline strategy,
+not location costs. A later French briefing,
+[La fiscalité de l'aérien et les divers coûts par aéroport ont un faible impact sur le niveau de trafic](../sources/la-fiscalit-de-l-a-rien-et-les-divers-co-ts-par-a-roport-ont-un-faible-impact-su.md)
+(November 2025), extends the same conclusion to French airports specifically.
+
+## Debunking the economic case for airport expansion
+
+[Economics of air transport in Europe](../sources/economics-of-air-transport-in-europe.md)
+(report, November 2025) challenges a second industry argument — that passenger/traffic growth
+itself drives economic growth, and is therefore a reason to expand airport capacity. The
+accompanying press releases
+([New analysis debunks the assumption that air passenger growth drives economic growth](../sources/new-analysis-debunks-the-assumption-that-air-passenger-growth-drives-economic-gr.md);
+German: [Neue Analyse: Mehr Flugverkehr führt meist nicht zu Wirtschaftswachstum](../sources/neue-analyse-mehr-flugverkehr-f-hrt-meist-nicht-zu-wirtschaftswachstum.md))
+cite Frankfurt airport's continued expansion despite regional "market saturation" as a concrete
+case where additional flight capacity brings no — or even negative — economic-growth effect.
+
+[Les projets d'extension des aéroports français incompatibles avec les objectifs climat du secteur aérien](../sources/les-projets-d-extension-des-a-roports-fran-ais-incompatibles-avec-les-objectifs-.md)
+(briefing with Carbone 4, November 2025) applies the same argument to planned French airport
+expansions specifically, concluding they are incompatible with the aviation sector's own climate
+commitments, and reiterating that passenger growth is not the reliable economic driver the airport
+lobby claims.
+
+## Aviation taxation: fairness and scope questions
+
+Beyond the demand-effect debate above, T&E has also weighed in on narrower aviation fiscal
+questions: a French legal analysis,
+[Fiscalité : les résidents d'Outre-mer peuvent être exonérés de taxe sur les billets d'avion](../sources/fiscalit-les-r-sidents-d-outre-mer-peuvent-tre-exon-r-s-de-taxe-sur-les-billets-.md)
+(October 2025), finds that residents of France's overseas territories may be legally exempt from
+the aviation ticket tax given their lack of alternative transport options; and
+[European long-distance passenger transport - VAT gap analysis](../sources/european-long-distance-passenger-transport-vat-gap-analysis.md)
+(T&E's response to the European Commission's VAT consultation, November 2025) flags VAT-treatment
+gaps between air travel and other long-distance passenger modes.

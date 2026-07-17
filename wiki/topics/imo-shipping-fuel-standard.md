@@ -7,12 +7,12 @@ summary: >
   regardless of the outcome, opposing US-led pressure to weaken or delay it, and pushing for
   e-fuel incentives over biofuels/LNG.
 first_seen: 2025-02-17
-last_updated: 2025-10-17
+last_updated: 2025-10-31
 ---
 
 # IMO shipping fuel standard (Net-Zero Framework)
 
-*Updated: 2025-10-17*
+*Updated: 2025-10-31*
 
 *See also: [Biofuels § Shipping and the IMO Global Fuel Standard](biofuels.md#shipping-and-the-imo-global-fuel-standard)*
 for the biofuel-feedstock-safeguard argument this policy fight connects to, and
@@ -102,3 +102,9 @@ decarbonisation remained. T&E's position was that the extra time should be used 
 safeguards (e-fuel incentives, anti-deforestation biofuel safeguards) rather than retreat, and
 that the EU's own maritime laws (ETS, FuelEU Maritime) remain the only substantive
 shipping-emissions regulation in force regardless of the IMO's eventual outcome.
+
+[Trump's attack on UN shipping deal is a harbinger of what's to come. Here's how countries can still get climate action done](../sources/trump-s-attack-on-un-shipping-deal-is-a-harbinger-of-what-s-to-come-here-s-how-c.md)
+(op-ed, 31 October 2025) frames the US-led postponement as a preview of further attempts to derail
+multilateral climate action, and argues countries that want to keep progress alive should press
+ahead with their own regional measures (e.g. the EU's ETS and FuelEU Maritime, above) rather than
+wait for consensus at the IMO.

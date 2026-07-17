@@ -133,6 +133,41 @@ WIKI_ANNOUNCEMENT_TIER_MAX_RANK  = 2   # Press release / News / Post
 WIKI_DUP_TITLE_SIMILARITY        = 0.25  # min Jaccard overlap of stemmed title tokens
 WIKI_DUP_DATE_WINDOW_DAYS        = 10
 
+# — CROSS-LANGUAGE (TRANSLATION) DUPLICATES —
+# T&E's France/Germany/Brussels offices routinely publish the same underlying story in multiple
+# languages, often the same day (e.g. an EN press release, its DE translation, and sometimes an FR
+# briefing on the same study). The English-stopword title-token matching above cannot catch these:
+# a French and an English title share essentially no stemmed word tokens even when they announce
+# the exact same publication. Left unhandled, every language edition gets its own source page,
+# which is the main way this wiki's source count inflates faster than its actual publication count
+# as more office/language passes run over the corpus.
+#
+# Rather than attempt real translation, this matches on tokens that survive translation largely
+# unchanged: numbers/figures ("25", "900,000" — a shared unusual figure is a very strong signal),
+# acronyms (LFP, ETS2, ACEA), and long cognate words that happen to be spelled near-identically
+# across English/French/German (e.g. "aluminium", "hydrogen"). A blocklist of generic cognates
+# (CROSS_LANGUAGE_STOPWORDS/GENERIC_ACRONYMS below — "European", "transport", "EU", "CO2"...)
+# excludes words too generic to mean the same match is a duplicate rather than "both articles are
+# about EU transport policy". Because this signal is weaker per-token than English title
+# similarity, it only fires across a *different* Office (a same-office match still needs the
+# stricter same-language rule above) and within a tighter date window than the general
+# announcement/substantive match, since translations of one release are near-simultaneous while
+# unrelated same-office coverage of a recurring theme can drift across many days.
+WIKI_TRANSLATION_DATE_WINDOW_DAYS = 3
+WIKI_TRANSLATION_MIN_SHARED_TOKENS = 1  # numbers/acronyms/cognate words are each a strong signal alone
+CROSS_LANGUAGE_MIN_COGNATE_LEN = 6
+# Cognate-looking words too generic across EN/FR/DE to imply the same underlying publication.
+CROSS_LANGUAGE_STOPWORDS = frozenset("""
+    international national action information position communication industry industrie
+    transport climate climat european europa europe standard standards system systems analysis
+    analyse policy politique politik market marche markt report rapport bericht study etude
+    studie project projekt projet future zukunft avenir energy energie government gouvernement
+    regierung emission emissions vehicle vehicules fahrzeug fahrzeuge transition strategy
+    strategie program programme publication publications briefing
+""".split())
+# Acronyms too ubiquitous across T&E titles (in every office/language) to be a distinguishing signal.
+GENERIC_ACRONYMS = frozenset({"EU", "US", "UK", "UN", "CO2", "NGO", "GDP"})
+
 # — PUBLICATION TYPE NORMALISATION —
 pub_type_map = {
     # French
