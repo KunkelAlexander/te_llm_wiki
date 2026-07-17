@@ -1,5 +1,5 @@
 ---
-title: "Aviation growth vs. decarbonisation"
+title: "Aviation"
 type: topic
 summary: >
   Projected traffic growth will overwhelm efficiency and SAF gains, leaving aviation emissions
@@ -10,7 +10,7 @@ first_seen: 2025-01-13
 last_updated: 2025-10-29
 ---
 
-# Aviation growth vs. decarbonisation
+# Aviation
 
 [Aviation industry plans for growth 'irreconcilable' with Europe's climate goals](../sources/aviation-industry-plans-for-growth-irreconcilable-with-europe-s-climate-goals.md)
 ("Down to Earth", January 2025) argues that projected traffic growth will overwhelm any
@@ -66,6 +66,32 @@ credit-market conditions, versus extending the EU ETS to all departing flights f
 Carbon Market Watch estimates could raise an extra €147bn by 2040 — money T&E argues should
 instead fund real decarbonisation (see
 [E-fuels financing and infrastructure](e-fuels-financing.md)).
+
+## Aircraft manufacturer innovation stall
+
+[La faible innovation dans l'aérien risque de ralentir la décarbonation de l'aviation](../sources/la-faible-innovation-dans-l-a-rien-risque-de-ralentir-la-d-carbonation-de-l-avia.md)
+("The aviation industry and the stall in aircraft innovation", briefing, June 2025) shifts the
+argument from traffic growth and fuel to aircraft technology itself: Airbus and Boeing's most
+innovative aircraft projects are delayed or paused, most "new" models are re-engined versions of
+existing airframes, and neither manufacturer has a genuinely new aircraft planned for the next
+decade — evidence of a clear decline in innovation driven by weak market competition and the
+absence of policy pressure to innovate. T&E modelling finds European aviation could be up to 13%
+more efficient by 2050 under an achievable innovation scenario (17% in an ambitious one), saving
+enough electricity to power 27 million heat pumps. Its recommendations: extend the EU ETS to all
+flights departing Europe and tax jet fuel under the Energy Taxation Directive to close the price
+gap with cleaner technology, set binding aircraft CO2 standards, maintain/diversify EU R&D support
+for disruptive designs (including zero-emission aircraft), and favour the newest and
+zero-emission aircraft in airport and public-service-obligation route rules.
+
+[Airbus' hydrogen plane crash - time for a reality check](../sources/airbus-hydrogen-plane-crash-time-for-a-reality-check.md)
+(op-ed, February 2025) reacts to Airbus quietly delaying its hydrogen aircraft programme —
+originally slated to commercialise within ten years, backed by an estimated €1.5bn in French
+public money — as confirmation of the same underlying pattern: without binding regulation, a
+near-monopoly manufacturer will not sustain a program less profitable than its existing product
+line. T&E's response is to push for regulation over reliance on manufacturer promises: reward
+electric aircraft (not just biofuels) in EU clean-aviation rules, exempt zero-emission aircraft
+from airport charges and give them priority slots (including on publicly funded routes), and
+accelerate certification of new designs.
 
 ## Airline cost lobbying vs. the data
 

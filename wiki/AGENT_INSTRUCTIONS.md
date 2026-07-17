@@ -22,6 +22,18 @@ feedstock, technology, or regulation, e.g. "POME" — split it into its own page
 one-line pointer under the parent subsection (Wikipedia's "Main article: X" hatnote pattern). Link
 back the other way too, so the two pages form a hub-and-child pair.
 
+**Default to the hub, not the mechanism.** A single source about one specific fiscal mechanism,
+scoring system, or legal instrument (e.g. a memo on France's EV "éco-score" life-cycle scoring
+system) is a `##` subsection of the broad noun it belongs under ("Electric vehicles"), not its own
+page — even if that broad hub page doesn't exist yet and this is its first source. Before creating
+*any* new topic page, ask: would a general encyclopedia have a standalone article titled exactly
+this, or would this material live as a section of a broader article a reader would actually search
+for? If the answer is "a section of something broader," create or extend that broader hub page
+instead, even from a single source — do not create the narrow page and wait to fold it in later.
+Only give a sub-theme its own page once it independently passes the "split it into its own page"
+bar above (recurs across multiple sources, has grown substantial) — a single legal memo does not,
+on its own, meet that bar no matter how detailed it is.
+
 **Do not create pages for people.** Authors, analysts, and expert-group contributors are cited
 inline in prose or in a source page's frontmatter, never as their own wiki page — a wiki page per
 staff member does not scale and isn't what a reader searching a subject wiki wants. If it's

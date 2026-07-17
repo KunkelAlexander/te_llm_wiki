@@ -38,11 +38,11 @@ Fit for 55 policies are on track to deliver as written — a gap driven largely 
 shipping, whose emissions are projected to keep rising (+13% versus 1990) even as road transport
 emissions roughly halve. T&E's recommendation is to hold the line on measures already covered
 elsewhere in this wiki — the 2035 combustion-engine phase-out for cars (see
-[Car CO2 standards and industry lobbying](car-co2-standards-lobbying.md)), ETS2, and truck CO2
-targets (see [Zero-emission trucking](zero-emission-trucking.md)) — and to bring aviation's
+[Car and van CO2 standards](car-and-van-co2-standards.md)), ETS2, and truck CO2
+targets (see [Zero-emission trucks](zero-emission-trucking.md)) — and to bring aviation's
 non-CO2 warming effects (contrails) into EU climate law for the first time, since EU ETS aviation
 coverage currently captures only 64 MtCO2 of aviation's emissions, leaving roughly 70% of aviation
-CO2 outside the scheme (see [Aviation growth vs. decarbonisation](aviation-decarbonisation.md)).
+CO2 outside the scheme (see [Aviation](aviation-decarbonisation.md)).
 
 ## Economic framing
 

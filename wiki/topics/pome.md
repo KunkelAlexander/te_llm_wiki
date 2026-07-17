@@ -17,7 +17,10 @@ and therefore eligible for advanced-biofuel policy support that virgin palm oil 
 [Palm oil in disguise?](../sources/palm-oil-in-disguise.md) (published 2025-04-09) is T&E's
 finding that reported POME-based biofuel volumes are implausibly large relative to how much POME
 actually exists — evidence of fraud or mislabeling rather than a genuine new waste-feedstock
-supply.
+supply. The same-day press release,
+['Renewable diesel' sold by oil majors most likely contains fraudulent palm oil](../sources/renewable-diesel-sold-by-oil-majors-most-likely-contains-fraudulent-palm-oil-stu.md),
+frames the finding for a general audience: oil majors' HVO "renewable diesel" is the main product
+affected, since POME may have made up roughly a quarter of all EU HVO consumed in 2023.
 
 ## The core finding
 

@@ -28,6 +28,14 @@ overall covered only ~7% of EU transport energy demand. T&E recommended capping 
 biofuels target at a maximum of 3.5%, warning that including aviation and maritime in scope was
 expected to triple Part A (advanced) feedstock demand by 2030 versus 2022.
 
+[Unlocking e-SAF's potential for the EU competitiveness and energy independence](../sources/unlocking-e-saf-s-potential-for-the-eu-competitiveness-and-energy-independence.md)
+(June 2025) makes the same scarcity argument for aviation specifically: biofuel-derived SAF can be
+sustainable in narrow cases (e.g. locally produced used cooking oil) but isn't scalable, since
+Europe's domestic waste-oil supply is limited and rising import reliance — chiefly from Asia — has
+already raised fraud and weak-certification concerns; T&E argues e-SAF, not biofuels, should be the
+EU's long-term aviation decarbonisation bet (see
+[E-fuels financing and infrastructure](e-fuels-financing.md)).
+
 ## Fraud and mislabeling
 
 *Main page: [POME](pome.md).* T&E's clearest fraud finding concerns Palm Oil Mill Effluent
@@ -48,7 +56,16 @@ the same high-ILUC-risk logic to the shipping sector: without excluding high-ILU
 (palm, soy) from the IMO's proposed Global Fuel Standard, the policy could increase net global
 emissions rather than cut them, since existing waste-oil feedstocks (UCO, animal fats, vegetable
 oils) cannot scale to meet IMO decarbonisation demand — T&E argues novel fuels (e-fuels, advanced
-cellulosic biofuels) are needed instead of a feedstock free-for-all.
+cellulosic biofuels) are needed instead of a feedstock free-for-all. The companion Cerulogy study
+behind this report ([UN shipping body's green fuels law could worsen the sector's climate impact](../sources/un-shipping-body-s-green-fuels-law-could-worsen-the-sector-s-climate-impact-stud.md),
+same day) put numbers on the risk: nearly a third of global shipping fuel could be biofuels by
+2030 (up from under 1% today), 60% of it from palm and soy, adding an estimated 270 MtCO2e/year by
+2030 — worse than doing nothing — while diverting the equivalent of 300 million bottles of
+vegetable oil a day toward ship fuel and pushing up food-oil prices. Shipping companies themselves
+pushed back: [Shipping companies call for limits on biofuels in shipping](../sources/shipping-companies-call-for-limits-on-biofuels-in-shipping.md)
+(same day) reports Hapag-Lloyd and other operators joined NGOs in petitioning the IMO to exclude
+unsustainable crop biofuels from its list of qualifying green fuels, on the grounds that palm and
+soy would otherwise become the cheapest compliance route once waste-oil supply runs out.
 
 [Which fuels should the EU back for shipping?](../sources/which-fuels-should-the-eu-back-for-shipping.md)
 (June 2025) applies a "sustainable, scalable, sovereign" test to rank candidate shipping fuels,

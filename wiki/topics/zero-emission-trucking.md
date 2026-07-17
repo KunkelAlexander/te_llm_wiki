@@ -1,5 +1,5 @@
 ---
-title: "Zero-emission trucking and EU HDV CO2 standards"
+title: "Zero-emission trucks"
 type: topic
 summary: >
   Direct electrification (BEV/overhead-catenary) is the dominant realistic path to decarbonise
@@ -9,7 +9,7 @@ first_seen: 2021-04-06
 last_updated: 2025-07-14
 ---
 
-# Zero-emission trucking and EU HDV CO2 standards
+# Zero-emission trucks
 
 T&E's consistent position since 2021 is that **direct electrification (battery-electric, with
 overhead-catenary electric road systems as a complementary option) is the dominant realistic

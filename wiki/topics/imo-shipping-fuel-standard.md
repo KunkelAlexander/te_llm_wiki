@@ -6,7 +6,7 @@ summary: >
   historic but too-weak first step, arguing the EU's own ETS/FuelEU Maritime must stay in force
   regardless of the outcome, opposing US-led pressure to weaken or delay it, and pushing for
   e-fuel incentives over biofuels/LNG.
-first_seen: 2025-07-04
+first_seen: 2025-02-17
 last_updated: 2025-10-17
 ---
 
@@ -16,6 +16,28 @@ last_updated: 2025-10-17
 for the biofuel-feedstock-safeguard argument this policy fight connects to, and
 [E-fuels financing and infrastructure](e-fuels-financing.md) for how T&E wants shipping ETS
 revenue used to fund e-fuels specifically.
+
+## The opening warning and the London agreement (February-April 2025)
+
+T&E's campaign on the IMO framework began with the Cerulogy study behind
+[IMO: Fuelling deforestation](biofuels.md#shipping-and-the-imo-global-fuel-standard) (February
+2025): without excluding high-ILUC feedstocks, the draft rules could make nearly a third of global
+shipping fuel biofuels by 2030 (versus under 1% today, 60% of it palm and soy), adding an
+estimated 270 MtCO2e/year — worse than doing nothing — a warning that both NGOs and shipping
+operators echoed (see [Biofuels](biofuels.md) for the full figures and the industry pushback).
+[Why international shipping needs a global carbon levy AND a global fuel standard](../sources/why-international-shipping-needs-a-global-carbon-levy-and-a-global-fuel-standard.md)
+(op-ed, April 2025, ahead of the London talks) restated the same 270 MtCO2e figure while arguing
+the IMO needs *both* a carbon levy and a fuel standard — neither fossil fuels nor crop-based
+biofuels should count as "green," and green hydrogen fuels need dedicated financial support to
+compete.
+
+Negotiators then reached the draft agreement itself:
+[UN shipping agreement a victory for multilateralism but a failure for the climate](../sources/un-shipping-agreement-a-victory-for-multilateralism-but-a-failure-for-the-climat.md)
+(11 April 2025) reports the London deal as the first framework requiring ships to move away from
+fossil fuels, but criticises it for not excluding or capping any fuel type — meaning the cheapest
+compliance route is first-generation crop-based biofuels (palm, soy, rapeseed) — and for revenue
+from its economic incentives running out by 2032 without additional top-ups, undermining support
+for scalable zero/near-zero fuels.
 
 ## A historic but weak first step (April-July 2025)
 
