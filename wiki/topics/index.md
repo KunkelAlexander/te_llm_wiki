@@ -25,8 +25,8 @@ T&E's work, organized by subject. Each page tracks how T&E's position or estimat
 
 | Topic | Summary |
 |---|---|
-| [Sustainable aviation fuels](sustainable-aviation-fuels.md) | T&E's decade-long fight over the EU's ReFuelEU Aviation SAF mandate — pushing biofuels out of the definition of "green" jet fuel, securing a dedicated e-kerosene sub-mandate, and building the case that e-kerosene (not crop or waste biofuels) is aviation's only scalable decarbonisation fuel, backed by direct air capture to supply it with CO2. |
 | [Aviation](aviation-decarbonisation.md) | Projected traffic growth will overwhelm efficiency and SAF gains, leaving aviation emissions nearly flat; SAF/e-kerosene scale-up faces its own feedstock/electricity limits; T&E wants demand-side measures (curb airport expansion, promote rail, extend EU ETS) rather than tech alone, disputes industry claims that taxes/charges are what's suppressing demand, and pushes for non-CO2/contrail regulation and corporate/elite-flying accountability. |
+| [Sustainable aviation fuels](sustainable-aviation-fuels.md) | T&E's decade-long fight over the EU's ReFuelEU Aviation SAF mandate — pushing biofuels out of the definition of "green" jet fuel, securing a dedicated e-kerosene sub-mandate, and building the case that e-kerosene (not crop or waste biofuels) is aviation's only scalable decarbonisation fuel, backed by direct air capture to supply it with CO2. |
 
 ## Ships
 

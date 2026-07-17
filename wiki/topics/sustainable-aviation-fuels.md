@@ -54,24 +54,24 @@ its sustainability requirements for mandate design in
 [Making aviation fuel mandates sustainable](../sources/making-aviation-fuel-mandates-sustainable.md)
 (December 2020), and made the same case to the UK government the following year in
 [The UK's green jet fuel mandate needs robust sustainability criteria to set aviation on a net-zero flightpath](../sources/the-uk-s-green-jet-fuel-mandate-needs-robust-sustainability-criteria-to-set-avia.md).
+
+As the EU proposal took shape, a coalition of airlines, fuel suppliers and NGOs pushed back against
+Commission plans to limit the mandate's scope to intra-EEA flights only
+([NGOs and aviation sector call for long-haul emissions to be covered by EU's Sustainable Aviation Fuels mandate](../sources/ngos-and-aviation-sector-call-for-long-haul-emissions-to-be-covered-by-eu-s-sust.md),
+March 2021).
 [The five tests awaiting the EU's big 'Fit for 55' climate push](../sources/the-five-tests-awaiting-the-eu-s-big-fit-for-55-climate-push.md)
 (June 2021), published shortly before the Commission's proposal, set out T&E's headline ask for it:
 an ambitious e-fuel mandate for aviation and shipping specifically, with no role for biofuels —
 essentially the same "beyond biofuels" argument the mandate-design fight above would spend the next
-two years litigating.
-
-T&E made the same case directly to the UK, whose own green-fuels mandate ran on a parallel track to
-the EU's:
+two years litigating. T&E made the same case directly to the UK, whose own green-fuels mandate ran
+on a parallel track to the EU's:
 [T&E's response to the UK's "Jet Zero" net-zero-aviation consultation](../sources/jet-zero-our-strategy-for-net-zero-aviation-in-the-uk.md)
 (September 2021) welcomed the UK's proposed SAF mandate and non-CO2 monitoring but questioned why
 the UK, unlike the EU, was not also proposing a kerosene tax to close the price gap with fossil jet
 fuel, and pushed back on the consultation's framing that residual 2050 aviation emissions were
 inevitable rather than a policy choice.
 
-As the EU proposal took shape, a coalition of airlines, fuel suppliers and NGOs pushed back against
-Commission plans to limit the mandate's scope to intra-EEA flights only
-([NGOs and aviation sector call for long-haul emissions to be covered by EU's Sustainable Aviation Fuels mandate](../sources/ngos-and-aviation-sector-call-for-long-haul-emissions-to-be-covered-by-eu-s-sust.md),
-March 2021). The Commission's eventual Fit for 55 proposal mandated both advanced biofuels and
+The Commission's eventual Fit for 55 proposal mandated both advanced biofuels and
 e-kerosene together
 ([What the EU climate plan means for aviation fuel](../sources/what-the-eu-climate-plan-means-for-aviation-fuel.md),
 May 2022) — a compromise T&E's broader review of the whole Fit for 55 package,
@@ -204,6 +204,17 @@ scale to meet European e-kerosene demand. The following year,
 design to actively channel investment toward DAC specifically, and
 [Scaling up Direct Air Capture](../sources/scaling-up-direct-air-capture.md)
 (July 2022) set out in more detail why DAC is essential to aviation decarbonisation at scale.
+
+DAC-based e-kerosene is not the only greenhouse-gas-removal route available for aviation's residual
+emissions, and T&E has directly commissioned a comparison of the two.
+[E-fuels versus greenhouse gas removals in aviation](../sources/aviation-s-co2-use-it-or-bury-it.md)
+(Oeko-Institut study for T&E, 2021) weighed e-kerosene against the UK Climate Change Committee's
+preferred alternative — offsetting residual fossil-kerosene emissions via direct air capture with
+carbon storage (DACCS) — on total cost per tonne of CO2 avoided, including upstream emissions and
+environmental risk. The comparison is sensitive to assumptions about non-CO2 impacts and future
+kerosene prices, but the study's throughline supports the DAC-for-e-kerosene route above over
+DACCS-as-offset: producing e-kerosene at least puts the captured carbon to use displacing fossil jet
+fuel, whereas DACCS-based offsetting permanently buries it while fossil kerosene keeps being burned.
 
 ## Feedstock sustainability and mandate design
 

@@ -8,7 +8,7 @@ summary: >
   demand-side measures (curb airport expansion, promote rail, extend EU ETS) rather than tech
   alone, disputes industry claims that taxes/charges are what's suppressing demand, and pushes
   for non-CO2/contrail regulation and corporate/elite-flying accountability.
-first_seen: 2020-02-03
+first_seen: 2011-06-09
 last_updated: 2026-07-17
 ---
 
@@ -18,7 +18,7 @@ last_updated: 2026-07-17
 
 <!-- Sections below follow T&E's own "Planes" subtopics. -->
 
-**Contents:** [Airplane pollution](#airplane-pollution) · [Aviation taxes](#aviation-taxes) · [Airports](#airports) · [Sustainable aviation fuels](#sustainable-aviation-fuels) · [Airplane air pollution and health](#airplane-air-pollution-and-health) · [Contrails and non-CO2 emissions](#contrails-and-non-co2-emissions) · [Elite/high-emission flying](#elitehigh-emission-flying)
+**Contents:** [Airplane pollution](#airplane-pollution) · [Aviation taxes](#aviation-taxes) · [Airports](#airports) · [Sustainable aviation fuels](#sustainable-aviation-fuels) · [Air quality and health](#air-quality-and-health) · [Contrails and non-CO2 emissions](#contrails-and-non-co2-emissions) · [Elite/high-emission flying](#elitehigh-emission-flying)
 
 ## Airplane pollution
 
@@ -64,7 +64,8 @@ than a reason to abandon scope extension. This builds on T&E's own earlier
 (2022), a study of direct flights stopping over at non-EU airports that first raised the leakage
 question the 2025 CE Delft study was commissioned to settle in more depth.
 
-T&E's push to extend carbon pricing to aviation goes back over a decade further still.
+T&E's push to extend carbon pricing to aviation goes back over a decade further still, to the
+sector's original entry into the EU ETS.
 [The Billion Euro Aviation Bonanza](../sources/the-billion-euro-aviation-bonanza-aviation-s-participation-in-the-eu-ets.md)
 (2013) argued that windfall profits airlines stood to gain from a proposed freeze on international
 flights' EU ETS obligations should go to the UN's Green Climate Fund rather than the airlines
@@ -78,12 +79,12 @@ nationality. T&E also pushed for enforcement, not just design:
 carriers, and
 [a letter to the Commission ahead of the 2013 ICAO Assembly](../sources/letter-to-the-commission-on-icao-assembly.md)
 pressed the same argument that would recur throughout the following decade: a UN-level scheme is no
-substitute for the EU's own carbon pricing. When ICAO began drafting CORSIA's implementing rules,
-[T&E's response to ICAO's draft CORSIA rules](../sources/aviation-carbon-offsetting-scheme-icao-circulates-draft-rules.md)
-(2018) raised the same concern years before CORSIA actually launched.
+substitute for the EU's own carbon pricing. ICAO nonetheless spent the following years developing
+that UN-level scheme regardless, formally circulating its first full draft of CORSIA's implementing
+rules for member-state comment in
+[December 2017](../sources/aviation-carbon-offsetting-scheme-icao-circulates-draft-rules.md).
 
-T&E's push to extend carbon pricing to aviation is not new: it dates back to the sector's original
-entry into the EU ETS. Early scoping work —
+Early EU-level scoping work —
 [Revision of the EU ETS for aviation](../sources/revision-of-the-eu-ets-for-aviation.md),
 [Making the aviation ETS fit for purpose](../sources/making-the-aviation-ets-fit-for-purpose.md),
 [The costs of EU ETS and Corsia for European aviation](../sources/the-costs-of-eu-ets-and-corsia-for-european-aviation.md)
@@ -117,6 +118,19 @@ Germany's transport emissions, would push the sector 25% over its legal emission
 properly counted; the report's fix mirrors the EU-level ask above, with revenue from extending the
 ETS to those flights directed toward RFNBOs (see [Sustainable aviation fuels](#sustainable-aviation-fuels)
 below).
+
+[European aviation set to spend billions on offsetting schemes](../sources/european-aviation-set-to-spend-billions-on-offsetting-schemes.md)
+(T&E and Carbon Market Watch, September 2025, ahead of the 42nd ICAO Assembly) shows the same
+EU-ETS-vs-CORSIA argument still playing out over a decade later: the report argues CORSIA is
+captured by industry (a 14:1 industry-to-green-group ratio at ICAO meetings, held under NDAs) and
+only covers growth above 85% of 2019 emissions — leaving CORSIA offsetting just 26% of EU aviation
+CO2 by 2035. A case study of Guyana's ART TREES/HFLD forest credits found 84% of 2016-2020 credits
+came from an artificially inflated deforestation baseline, illustrating a broader
+low-integrity-offset concern. T&E estimates CORSIA compliance will cost European aviation €7-43bn
+over 2024-2035 depending on credit-market conditions, versus extending the EU ETS to all departing
+flights from 2027, which Carbon Market Watch estimates could raise an extra €147bn by 2040 — money
+T&E argues should instead fund real decarbonisation (see
+[Sustainable aviation fuels](#sustainable-aviation-fuels) below).
 
 Looking back on 2022 as a whole,
 [Aviation's ivory tower may be starting to fall](../sources/aviation-s-ivory-tower-may-be-starting-to-fall.md)
@@ -157,20 +171,6 @@ Spain were moving to ban short-haul flights with a rail alternative — against 
 "committed to reducing carbon emissions". And by 2024,
 [Low cost airlines pollute more than ever, latest emissions data shows](../sources/low-cost-airlines-pollute-more-than-ever-latest-emissions-data-shows.md)
 found more than three-quarters of European aviation emissions still carried no carbon price at all.
-
-[European aviation set to spend billions on offsetting schemes](../sources/european-aviation-set-to-spend-billions-on-offsetting-schemes.md)
-(T&E and Carbon Market Watch, September 2025, ahead of the 42nd ICAO Assembly) makes T&E's case
-that the EU's own carbon-pricing route (extending the ETS) is a far better mechanism than the
-UN's CORSIA offsetting scheme, which the report argues is captured by industry (a 14:1
-industry-to-green-group ratio at ICAO meetings, held under NDAs) and only covers growth above 85%
-of 2019 emissions — leaving CORSIA offsetting just 26% of EU aviation CO2 by 2035. A case study of
-Guyana's ART TREES/HFLD forest credits found 84% of 2016-2020 credits came from an artificially
-inflated deforestation baseline, illustrating a broader low-integrity-offset concern. T&E
-estimates CORSIA compliance will cost European aviation €7-43bn over 2024-2035 depending on
-credit-market conditions, versus extending the EU ETS to all departing flights from 2027, which
-Carbon Market Watch estimates could raise an extra €147bn by 2040 — money T&E argues should
-instead fund real decarbonisation (see [Sustainable aviation fuels](#sustainable-aviation-fuels)
-below).
 
 [Weak innovation in aviation risks slowing the sector's decarbonisation](../sources/la-faible-innovation-dans-l-a-rien-risque-de-ralentir-la-d-carbonation-de-l-avia.md)
 (French briefing, June 2025; also published in English as
@@ -311,6 +311,13 @@ gaps between air travel and other long-distance passenger modes.
 
 ## Airports
 
+T&E's opposition to airport expansion predates the economic-growth debate below by five years.
+[Four positives for sustainable aviation in this annus horribilis](../sources/four-positives-for-sustainable-aviation-in-this-annus-horribilis.md)
+(op-ed, December 2020) welcomed the European Investment Bank's new Climate Roadmap, adopted that
+November, for withdrawing EIB support from airport-expansion projects — a funding-side lever T&E
+argued other public and private investors should follow, on the grounds that the aviation sector
+needs to decarbonise rather than grow further.
+
 [Economics of air transport in Europe](../sources/economics-of-air-transport-in-europe.md)
 (report, November 2025) challenges the industry argument that passenger/traffic growth itself
 drives economic growth, and is therefore a reason to expand airport capacity. The accompanying
@@ -345,7 +352,7 @@ under-investing in the fuel switch themselves, rather than on airlines alone (se
 [Elite/high-emission flying](#elitehigh-emission-flying) below for the parallel corporate-travel
 ranking).
 
-## Airplane air pollution and health
+## Air quality and health
 
 Beyond its climate impact, jet engine exhaust is also a local air-quality and health problem, driven
 by the same aromatic and sulphur content in conventional jet fuel that causes contrails (see

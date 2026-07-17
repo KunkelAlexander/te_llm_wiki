@@ -36,7 +36,7 @@ Every T&E publication cited anywhere in this wiki. Open a source page for a link
 | [Making aviation fuel mandates sustainable](making-aviation-fuel-mandates-sustainable.md) | 2020-12-16 | [Sustainable aviation fuels](../topics/sustainable-aviation-fuels.md) |
 | [Plans for 'green' jet fuels threaten to repeat biofuels mistakes – analysis](plans-for-green-jet-fuels-threaten-to-repeat-biofuels-mistakes-analysis.md) | 2020-12-16 | [Sustainable aviation fuels](../topics/sustainable-aviation-fuels.md) |
 | [The return of the Climate Chancellor?](the-return-of-the-climate-chancellor.md) | 2020-12-19 | *(none yet)* |
-| [Four positives for sustainable aviation in this annus horribilis](four-positives-for-sustainable-aviation-in-this-annus-horribilis.md) | 2020-12-21 | *(none yet)* |
+| [Four positives for sustainable aviation in this annus horribilis](four-positives-for-sustainable-aviation-in-this-annus-horribilis.md) | 2020-12-21 | [Aviation](../topics/aviation-decarbonisation.md) |
 | [How to ensure the sustainability of electrofuels](how-to-ensure-the-sustainability-of-electrofuels.md) | 2021-01-19 | [Sustainable aviation fuels](../topics/sustainable-aviation-fuels.md) |
 | [Green jet fuel plans risk history repeating itself](green-jet-fuel-plans-risk-history-repeating-itself.md) | 2021-01-21 | *(none yet)* |
 | [FAQ: the what and how of e-kerosene](faq-the-what-and-how-of-e-kerosene.md) | 2021-02-05 | [Sustainable aviation fuels](../topics/sustainable-aviation-fuels.md) |
@@ -69,7 +69,7 @@ Every T&E publication cited anywhere in this wiki. Open a source page for a link
 | [EU axes airlines' fuel tax exemption in drive for greener fuels](eu-axes-airlines-fuel-tax-exemption-in-drive-for-greener-fuels.md) | 2021-07-14 | [Aviation](../topics/aviation-decarbonisation.md) |
 | [Decades of inaction on flying's climate impact are being replaced by action. But does it go far enough?](decades-of-inaction-on-flying-s-climate-impact-are-being-replaced-by-action-but-.md) | 2021-07-15 | [Aviation](../topics/aviation-decarbonisation.md) |
 | [What the EU's climate plan means for Europe](what-the-eu-s-climate-plan-means-for-europe.md) | 2021-07-15 | [Sustainable aviation fuels](../topics/sustainable-aviation-fuels.md) |
-| [Aviation's CO2: use it or bury it?](aviation-s-co2-use-it-or-bury-it.md) | 2021-08-06 | *(none yet)* |
+| [Aviation's CO2: use it or bury it?](aviation-s-co2-use-it-or-bury-it.md) | 2021-08-06 | [Sustainable aviation fuels](../topics/sustainable-aviation-fuels.md) |
 | [Jet Zero: our strategy for net zero aviation in the UK](jet-zero-our-strategy-for-net-zero-aviation-in-the-uk.md) | 2021-09-20 | [Sustainable aviation fuels](../topics/sustainable-aviation-fuels.md) |
 | [LNG trucks: a dead-end bridge](lng-trucks-a-dead-end-bridge.md) | 2021-09-27 | [Zero-emission trucks](../topics/zero-emission-trucking.md) |
 | [EU truck targets too weak to incentivise transition to zero-emission vehicles](eu-truck-targets-too-weak-to-incentivise-transition-to-zero-emission-vehicles.md) | 2021-10-10 | [Zero-emission trucks](../topics/zero-emission-trucking.md) |
