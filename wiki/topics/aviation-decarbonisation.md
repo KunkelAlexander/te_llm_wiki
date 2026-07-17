@@ -23,17 +23,21 @@ last_updated: 2025-11-13
 ## Airplane pollution
 
 [Aviation industry plans for growth 'irreconcilable' with Europe's climate goals](../sources/aviation-industry-plans-for-growth-irreconcilable-with-europe-s-climate-goals.md)
-("Down to Earth", January 2025) argues that projected traffic growth will overwhelm any
-efficiency or Sustainable Aviation Fuel (SAF) gains: under an industry "High Growth" scenario, EU
-aviation fuel burn rises 59% by 2050 versus 2019, and even a 42% SAF mandate leaves emissions
-almost flat (falling less than 3% by 2049 versus 2019). T&E frames this against the aviation
-sector's carbon budget for 1.5°C, which it estimates could be exhausted as early as 2026 (2033 for
-1.7°C, 2043 for 2.0°C). Even the European Commission's own 2040 modelling, which assumes 60% lower
-traffic growth than industry projections, still shows a 46% emissions increase by 2040 versus the
-1990 baseline against a target of -90%; unchecked industry growth could add a further 960 MtCO2
-versus that Commission scenario. T&E's policy response is to curb airport expansion, remove fossil
-fuel subsidies for aviation, and promote [rail](rail.md) as a substitute for short-haul flights, rather than
-relying on efficiency and SAF alone.
+(press release on the ["Down to Earth"](../sources/down-to-earth.md) report, January 2025; French
+release: [La croissance du transport aérien anéantira les objectifs climatiques du secteur](../sources/la-croissance-du-transport-a-rien-an-antira-les-objectifs-climatiques-du-secteur.md))
+argues that projected traffic growth will overwhelm any efficiency or Sustainable Aviation Fuel
+(SAF) gains: under an industry "High Growth" scenario, EU aviation fuel burn rises 59% by 2050
+versus 2019, and even a 42% SAF mandate leaves emissions almost flat (falling less than 3% by 2049
+versus 2019). T&E frames this against the aviation sector's carbon budget for 1.5°C, which it
+estimates could be exhausted as early as 2026 (2033 for 1.7°C, 2043 for 2.0°C). Even the European
+Commission's own 2040 modelling, which assumes 60% lower traffic growth than industry projections,
+still shows a 46% emissions increase by 2040 versus the 1990 baseline against a target of -90%;
+unchecked industry growth could add a further 960 MtCO2 versus that Commission scenario. The
+report's own policy asks: end airport-expansion-driven traffic growth, remove fossil fuel subsidies
+by fully pricing and taxing departing flights, direct the resulting revenue toward scaling e-kerosene
+specifically rather than SAF in general, and unlock rail's potential to compete with planes by
+improving cross-border ticketing and TEN-T implementation (see [Rail](rail.md)) — demand-side
+measures T&E argues are necessary rather than relying on efficiency and SAF alone.
 
 [Carbon leakage in the aviation sector](../sources/carbon-leakage-in-the-aviation-sector-is-it-a-problem-and-if-so-what-can-be-done.md)
 (CE Delft study for T&E, October 2025) backs T&E's push to extend the EU ETS to all flights
@@ -100,6 +104,16 @@ flights — a third of aviation emissions — so airlines paid around €3bn in 
 T&E frames the scheduled 2026 ETS review as the opportunity to close that gap, which would more
 than double ETS revenue from the sector. See [Contrails and non-CO2 emissions](#contrails-and-non-co2-emissions)
 below for the report's non-CO2 findings.
+
+Ahead of Germany's 2025 federal election,
+[Agenda klimaneutraler Luftverkehr](../sources/agenda-klimaneutraler-luftverkehr.md)
+(joint German environmental-group demands, January 2025) set out a three-part agenda for the
+incoming government and Bundestag: a roadmap for aviation to reach climate neutrality by 2045, a
+strategy to cut aviation noise 30% by 2040, and a plan to reduce air pollution around airports.
+Framed around aviation's 7.5%+ share of global warming impact (two-thirds of it non-CO2 effects),
+the coalition offered to help secure e-kerosene supply while also pushing to avoid flights and
+shift short/medium-haul trips elsewhere wherever possible, since climate-neutral fuel will remain
+scarce and costly even under an ambitious ramp-up.
 
 ## Aviation taxes
 
@@ -173,7 +187,22 @@ renewable electricity by 2050, more than Germany's entire 2023 electricity deman
 those two pages for T&E's full case on feedstock scarcity, fraud risk, and the financing gap this
 wiki tracks separately from the traffic-growth argument above.
 
+[Seulement 10 compagnies aériennes, dont Air France-KLM, investissent sérieusement dans les carburants alternatifs](../sources/seulement-10-compagnies-a-riennes-dont-air-france-klm-investissent-s-rieusement-.md)
+(T&E France airline ranking, December 2024) puts a number on how unevenly that transition is
+progressing today: of 77 European airlines ranked on alternative-fuel uptake, half scored the
+worst possible grade for making no real effort to incorporate anything beyond fossil kerosene,
+while Air France-KLM topped the ranking. T&E lays much of the blame on oil companies for
+under-investing in the fuel switch themselves, rather than on airlines alone (see also
+[Elite/high-emission flying](#elitehigh-emission-flying) below for the parallel corporate-travel
+ranking).
+
 ## Contrails and non-CO2 emissions
+
+[Aviation: International scientists warn of warming impact of contrails and risks of delaying action](../sources/aviation-international-scientists-warn-of-warming-impact-of-contrails-and-risks-.md)
+(letter, November 2024, at the close of COP29) is the earliest source in this wiki on contrails: a
+coalition of leading aviation and climate scientists warned of the warming impact of contrails and
+the risks of delaying regulatory action, laying groundwork for the legal-obligation argument T&E
+and Opportunity Green would make the following year (below).
 
 [Countries obliged to include aviation contrails in climate plans under Paris Agreement, new legal advice shows](../sources/countries-obliged-to-include-aviation-contrails-in-climate-plans-under-paris-agr.md)
 (T&E and Opportunity Green legal advice, August 2025; French release:

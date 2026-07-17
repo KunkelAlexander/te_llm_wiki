@@ -2,7 +2,7 @@
 title: Sources
 ---
 
-# Sources (91)
+# Sources (114)
 
 Every T&E publication cited anywhere in this wiki. Open a source page for a link to the original publication.
 
@@ -16,13 +16,36 @@ Every T&E publication cited anywhere in this wiki. Open a source page for a link
 | [Ready or not: Who are the frontrunners in the global race to clean up trucks?](ready-or-not-who-are-the-frontrunners-in-the-global-race-to-clean-up-trucks.md) | 2023-06-19 | [Zero-emission trucks](../topics/zero-emission-trucking.md) |
 | [On Thin Ice: Norway's Fossil Ambitions and the EU's Green Energy Future](on-thin-ice-norway-s-fossil-ambitions-and-the-eu-s-green-energy-future.md) | 2024-02-21 | [Oil and gas](../topics/oil-and-gas.md) |
 | [How sustainable are advanced and waste biofuels?](how-sustainable-are-advanced-and-waste-biofuels.md) | 2024-07-01 | [Biofuels](../topics/biofuels.md) |
+| [Aviation: International scientists warn of warming impact of contrails and risks of delaying action](aviation-international-scientists-warn-of-warming-impact-of-contrails-and-risks-.md) | 2024-11-20 | [Aviation](../topics/aviation-decarbonisation.md) |
+| [Fuels for cars: a dead end for industry, consumers and the environment](fuels-for-cars-a-dead-end-for-industry-consumers-and-the-environment.md) | 2024-11-27 | [Car and van CO2 standards](../topics/car-and-van-co2-standards.md) |
+| [Coming soon: Your European train ticket with just one click](coming-soon-your-european-train-ticket-with-just-one-click.md) | 2024-11-28 | [Rail](../topics/rail.md) |
+| [Seulement 10 compagnies aériennes, dont Air France-KLM, investissent sérieusement dans les carburants alternatifs](seulement-10-compagnies-a-riennes-dont-air-france-klm-investissent-s-rieusement-.md) | 2024-12-03 | [Aviation](../topics/aviation-decarbonisation.md) |
+| [Building back better: Ukraine's transport infrastructure](building-back-better-ukraine-s-transport-infrastructure.md) | 2024-12-04 | [Rail](../topics/rail.md) |
+| [Trenitalia classée meilleure compagnie ferroviaire d'Europe, Eurostar en dernière position](trenitalia-class-e-meilleure-compagnie-ferroviaire-d-europe-eurostar-en-derni-re.md) | 2024-12-09 | [Rail](../topics/rail.md) |
+| [Used Cooking Oil: The Certified Unknown](used-cooking-oil-the-certified-unknown.md) | 2024-12-11 | [Biofuels](../topics/biofuels.md) |
+| [Carbon market revenues can fund green fuels for shipping and aviation](carbon-market-revenues-can-fund-green-fuels-for-shipping-and-aviation.md) | 2024-12-16 | [E-fuels financing and infrastructure](../topics/e-fuels-financing.md) |
+| [Reducing emissions from non-road mobile machinery](reducing-emissions-from-non-road-mobile-machinery.md) | 2024-12-19 | *(none yet)* |
+| [Green aviation's make or break moment](green-aviation-s-make-or-break-moment.md) | 2024-12-20 | [E-fuels financing and infrastructure](../topics/e-fuels-financing.md) |
+| [Aviation fuels and emissions trading - T&E consultation response](aviation-fuels-and-emissions-trading-t-e-consultation-response.md) | 2025-01-08 | [E-fuels financing and infrastructure](../topics/e-fuels-financing.md) |
 | [Aviation industry plans for growth 'irreconcilable' with Europe's climate goals](aviation-industry-plans-for-growth-irreconcilable-with-europe-s-climate-goals.md) | 2025-01-13 | [Aviation](../topics/aviation-decarbonisation.md) |
+| [Down to earth](down-to-earth.md) | 2025-01-13 | [Aviation](../topics/aviation-decarbonisation.md) |
+| [La croissance du transport aérien anéantira les objectifs climatiques du secteur](la-croissance-du-transport-a-rien-an-antira-les-objectifs-climatiques-du-secteur.md) | 2025-01-13 | [Aviation](../topics/aviation-decarbonisation.md) |
+| [Agenda klimaneutraler Luftverkehr](agenda-klimaneutraler-luftverkehr.md) | 2025-01-16 | [Aviation](../topics/aviation-decarbonisation.md) |
 | [What fiscal future for the environmental score (éco-score)?](quel-avenir-fiscal-pour-le-score-environnemental-co-score.md) | 2025-01-27 | [Electric vehicles](../topics/electric-vehicles.md) |
+| [How to take the risk out of hydrogen investments](how-to-take-the-risk-out-of-hydrogen-investments.md) | 2025-02-03 | [E-fuels financing and infrastructure](../topics/e-fuels-financing.md) |
+| [Joint letter for the Clean Industrial Deal to deliver on decarbonisation and competitiveness](joint-letter-for-the-clean-industrial-deal-to-deliver-on-decarbonisation-and-com.md) | 2025-02-05 | [EV battery and raw materials supply chains](../topics/ev-battery-and-raw-materials.md) |
+| [T&E, shipping and aviation industry jointly call for urgent action to ramp up clean fuel production](t-e-shipping-and-aviation-industry-jointly-call-for-urgent-action-to-ramp-up-cle.md) | 2025-02-13 | [E-fuels financing and infrastructure](../topics/e-fuels-financing.md) |
 | [A European Hydrogen Clearing House for green maritime and aviation e-fuels](a-european-hydrogen-clearing-house-for-green-maritime-and-aviation-e-fuels.md) | 2025-02-13 | [E-fuels financing and infrastructure](../topics/e-fuels-financing.md) |
+| [NGOs, waste managers and recyclers urge policy makers to stick with ambitious targets for recycled plastics in new cars](ngos-waste-managers-and-recyclers-urge-policy-makers-to-stick-with-ambitious-tar.md) | 2025-02-14 | [EV battery and raw materials supply chains](../topics/ev-battery-and-raw-materials.md) |
 | [Shipping companies call for limits on biofuels in shipping](shipping-companies-call-for-limits-on-biofuels-in-shipping.md) | 2025-02-17 | [Biofuels](../topics/biofuels.md) |
 | [UN shipping body's green fuels law could worsen the sector's climate impact - study](un-shipping-body-s-green-fuels-law-could-worsen-the-sector-s-climate-impact-stud.md) | 2025-02-17 | [Biofuels](../topics/biofuels.md) |
 | [IMO: Fuelling deforestation](imo-fuelling-deforestation.md) | 2025-02-17 | [Biofuels](../topics/biofuels.md) |
+| [T&E and 70+ aviation industry actors call upon the European Commission to support e-SAF production](t-e-and-70-aviation-industry-actors-call-upon-the-european-commission-to-support.md) | 2025-02-18 | [E-fuels financing and infrastructure](../topics/e-fuels-financing.md) |
+| [EU Commission's State Aid plans fail to deliver for cleantech](eu-commission-s-state-aid-plans-fail-to-deliver-for-cleantech.md) | 2025-02-20 | [EV battery and raw materials supply chains](../topics/ev-battery-and-raw-materials.md) |
 | [Airbus' hydrogen plane crash - time for a reality check](airbus-hydrogen-plane-crash-time-for-a-reality-check.md) | 2025-02-21 | [Aviation](../topics/aviation-decarbonisation.md) |
+| [EU plans to boost green aviation and shipping fuels, but sends worrying signal on 2040 climate goal](eu-plans-to-boost-green-aviation-and-shipping-fuels-but-sends-worrying-signal-on.md) | 2025-02-26 | [EU 2040 climate target](../topics/eu-2040-climate-target.md) |
+| [Réaction de T&E au Pacte pour une industrie propre et à la proposition dite 'Omnibus'](r-action-de-t-e-au-pacte-pour-une-industrie-propre-et-la-proposition-dite-omnibu.md) | 2025-02-26 | [EU 2040 climate target](../topics/eu-2040-climate-target.md) |
+| [State of Transport 2025](state-of-transport-2025.md) | 2025-03-18 | [Mobility](../topics/mobility.md) |
 | [People do not simply want to get from A to B](people-do-not-simply-want-to-get-from-a-to-b.md) | 2025-03-31 | [Mobility](../topics/mobility.md) |
 | [Business travel: emissions from major global companies fell by a third between 2019 and 2023](voyages-d-affaires-les-missions-des-grandes-entreprises-mondiales-ont-recul-d-un.md) | 2025-04-01 | [Aviation](../topics/aviation-decarbonisation.md) |
 | [Why international shipping needs a global carbon levy AND a global fuel standard](why-international-shipping-needs-a-global-carbon-levy-and-a-global-fuel-standard.md) | 2025-04-08 | [IMO shipping fuel standard (Net-Zero Framework)](../topics/imo-shipping-fuel-standard.md) |

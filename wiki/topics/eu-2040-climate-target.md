@@ -7,7 +7,7 @@ summary: >
   vs. 1990, tightly limit international carbon credits and engineered removals, and hold
   transport — the only sector to have grown emissions since 1990 — to a much steeper cut than
   current policies deliver.
-first_seen: 2025-09-09
+first_seen: 2025-02-26
 last_updated: 2025-11-13
 ---
 
@@ -27,6 +27,19 @@ road transport fuels) as its own named subpage — see [ETS2](#ets2) below. -->
 **Contents:** [Headline ask and guardrails on credits/removals](#headline-ask-and-guardrails-on-creditsremovals) · [Transport is the outlier sector](#transport-is-the-outlier-sector) · [Economic framing](#economic-framing) · [ETS2](#ets2) · [October-November 2025: the target gets watered down](#october-november-2025-the-target-gets-watered-down)
 
 ## Headline ask and guardrails on credits/removals
+
+The first warning sign came months before T&E's own September consultation response:
+[EU plans to boost green aviation and shipping fuels, but sends worrying signal on 2040 climate goal](../sources/eu-plans-to-boost-green-aviation-and-shipping-fuels-but-sends-worrying-signal-on.md)
+(press release, February 2025; French release:
+[Réaction de T&E au Pacte pour une industrie propre et à la proposition dite "Omnibus"](../sources/r-action-de-t-e-au-pacte-pour-une-industrie-propre-et-la-proposition-dite-omnibu.md))
+welcomed the Commission's new Clean Industrial Deal for prioritising domestic green fuel production
+for aviation and shipping (see [E-fuels financing and infrastructure](e-fuels-financing.md)), but
+flagged as "very worrying" the Commission's failure to publish its promised 2040 target proposal on
+schedule — over a year after first committing to do so — arguing any climbdown from a -90% target
+would deny European carmakers, airlines and shipping companies the investment certainty clean
+technology is there to stay. The same package also proposed weakening corporate sustainability
+reporting rules, which T&E said risked undermining Europe's sustainability leadership just as it
+was trying to lead on climate.
 
 T&E calls for a target of at least 90% net greenhouse gas reduction by 2040 versus 1990, with
 international carbon credits permitted only from 2036 onward, only if high-quality and

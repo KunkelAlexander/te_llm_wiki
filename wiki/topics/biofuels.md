@@ -50,6 +50,15 @@ fixes. This is presented as an illustration of a broader risk: as scarce genuine
 feedstocks get squeezed by rising demand, mislabeling and fraud become more attractive and harder
 to police, even under tightened certification rules.
 
+[Used Cooking Oil: The Certified Unknown](../sources/used-cooking-oil-the-certified-unknown.md)
+(briefing, December 2024) makes the same case for the EU's single largest waste feedstock: UCO now
+accounts for over a third of European biofuel consumption, mostly imported, and its certification
+relies entirely on paper-based supply-chain audits rather than physical testing — UCO and virgin
+(fraudulently mislabeled) vegetable oil are virtually indistinguishable in the lab. The largest
+certifier, ISCC, had over 1,275 valid UCO certificates at the time, all under a "mass-balance"
+system that doesn't require physically segregating certified and uncertified oil, leaving the
+entire scheme vulnerable to the same kind of paper-only fraud POME illustrates.
+
 ## Shipping and the IMO Global Fuel Standard
 
 *See also: [IMO shipping fuel standard](imo-shipping-fuel-standard.md)* for the broader 2025

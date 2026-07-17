@@ -7,13 +7,17 @@ summary: >
   people travel a roughly constant ~1.1 hours a day regardless of era, so it's transport speed,
   not innate desire to cover distance, that determines how far people go — used to argue official
   forecasts overstate future car-travel growth.
-first_seen: 2025-03-31
+first_seen: 2025-03-18
 last_updated: 2025-03-31
 ---
 
 # Mobility
 
 *Updated: 2025-03-31*
+
+**Contents:** [Travel time budget theory](#travel-time-budget-theory) · [Annual overview: State of Transport](#annual-overview-state-of-transport)
+
+## Travel time budget theory
 
 [People do not simply want to get from A to B](../sources/people-do-not-simply-want-to-get-from-a-to-b.md)
 (op-ed by T&E President Arie Bleijenberg, March 2025) argues the biggest misconception about
@@ -31,3 +35,18 @@ average occupancy, not more distance travelled per person. Only air travel, stil
 comparatively faster, keeps expanding personal mobility. Bleijenberg's conclusion, developed further
 in his book *New mobility — beyond the car era*: most government transport forecasts don't account
 for this travel-time/speed relationship and so overstate future per-capita car-travel growth.
+
+## Annual overview: State of Transport
+
+[State of Transport 2025](../sources/state-of-transport-2025.md) is the first edition of T&E's
+annual cross-modal data overview, pulling together headline figures that recur across the topic
+pages this wiki tracks individually: road transport is 73% of EU transport GHG emissions; aviation
+emissions are almost back to pre-COVID levels even as transport CO2 overall starts a structural
+decline (see [Aviation](aviation-decarbonisation.md)); EU combustion-car sales peaked back in 2019;
+Europe remains heavily import-dependent for oil, gas and battery-metal processing, at a cost of
+€250bn/year and roughly €4 trillion cumulatively since 2011; and the EU's carbon-pricing regime
+(shipping and aviation ETS, soon extended to road transport) could raise around €265bn from 2025 to
+2030 — revenue this wiki's other pages track being fought over across e-fuels financing, EV
+charging infrastructure and rail (see [E-fuels financing and infrastructure](e-fuels-financing.md),
+[Electric vehicles § Charging infrastructure](electric-vehicles.md#charging-infrastructure), and
+[Rail](rail.md)).

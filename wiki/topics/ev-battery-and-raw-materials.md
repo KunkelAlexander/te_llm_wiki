@@ -7,7 +7,7 @@ summary: >
   tailpipe: a critical raw materials strategy that goes beyond reshuffling, EU industrial policy
   for battery manufacturing, decarbonising materials like aluminium, catching up on LFP battery
   technology, and tighter circularity/mining-waste standards.
-first_seen: 2025-11-07
+first_seen: 2025-02-05
 last_updated: 2025-11-20
 ---
 
@@ -17,10 +17,10 @@ last_updated: 2025-11-20
 
 *Part of [Electric vehicles](electric-vehicles.md).*
 
-Six T&E publications landed within two weeks of each other in November 2025, all addressing a
-common theme: that a genuinely green EV transition depends on what happens upstream — mineral
-sourcing, battery chemistry, materials decarbonisation and waste rules — not only on vehicle sales
-targets.
+A cluster of T&E publications running from February through November 2025 (six of them landing
+within two weeks of each other that November) all address a common theme: that a genuinely green
+EV transition depends on what happens upstream — mineral sourcing, battery chemistry, materials
+decarbonisation, industrial funding and waste rules — not only on vehicle sales targets.
 
 <!-- Two of the sections below map directly onto T&E's own named Green Steel subtopics
 ("Aluminium in cars"; "Battery recycling", which folds in the End-of-life Vehicles Regulation); the
@@ -57,7 +57,11 @@ average of just 13%.
 of locally recycled-content targets, simplified shipment rules, materials-leakage prevention, and a
 stronger focus on re-mining — recovering critical raw materials from existing mining waste rather
 than only from new extraction. These are the same recycled-content and re-mining questions at stake
-in the EU's End-of-life Vehicles (ELV) Regulation revision.
+in the EU's End-of-life Vehicles (ELV) Regulation revision. Nine months earlier,
+[NGOs, waste managers and recyclers urge policy makers to stick with ambitious targets for recycled plastics in new cars](../sources/ngos-waste-managers-and-recyclers-urge-policy-makers-to-stick-with-ambitious-tar.md)
+(joint letter, February 2025) had already made the recycled-content case specifically for the ELV
+revision then before the European Parliament, urging lawmakers to preserve the Commission's
+proposed recycled-plastics targets for new cars rather than water them down.
 
 [Driving best practice in mining waste management](../sources/driving-best-practice-in-mining-waste-management.md)
 (report with Earthworks, November 2025) provides a global benchmarking of mining waste rules,
@@ -66,8 +70,15 @@ trying to secure and recycle responsibly.
 
 ## Critical raw materials and industrial policy
 
-Earlier in 2025, T&E had already flagged the same underlying problem — a lack of real production
-funding — that ReSourceEU (below) would go on to fail to fix.
+T&E flagged the same underlying problem — a lack of real production funding — well before ReSourceEU
+(below) came along and, in its view, failed to fix it. As the Commission was preparing its Clean
+Industrial Deal,
+[Joint letter for the Clean Industrial Deal to deliver on decarbonisation and competitiveness](../sources/joint-letter-for-the-clean-industrial-deal-to-deliver-on-decarbonisation-and-com.md)
+(February 2025) had an alliance of cleantech businesses and civil society, including T&E, propose
+15 measures for a joint decarbonisation-and-competitiveness roadmap.
+[EU Commission's State Aid plans fail to deliver for cleantech](../sources/eu-commission-s-state-aid-plans-fail-to-deliver-for-cleantech.md)
+(briefing, February 2025) then found the leaked draft state-aid guidelines fell short of that ask —
+an early warning that came true when the finalised rules landed four months later:
 [EU rules out production aid in blow to battery and cleantech industry](../sources/eu-rules-out-production-aid-in-blow-to-battery-and-cleantech-industry.md)
 (press release, June 2025) criticises the EU's new state-aid rules (CISAF) for maintaining a ban
 on production aid — per-unit subsidies for cleantech actually manufactured — even as the US uses

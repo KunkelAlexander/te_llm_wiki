@@ -7,7 +7,7 @@ summary: >
   meeting sustainability, scalability and sovereignty criteria, but that a financing gap —
   not technology — is what's stalling projects, and its push for a Revenue Certainty Mechanism
   funded from ETS revenue to close it.
-first_seen: 2025-02-13
+first_seen: 2024-12-16
 last_updated: 2025-09-09
 ---
 
@@ -15,7 +15,7 @@ last_updated: 2025-09-09
 
 *Updated: 2025-09-09*
 
-Across mid-to-late 2025, T&E published a cluster of reports making the same underlying argument
+From late 2024 through 2025, T&E published a cluster of reports making the same underlying argument
 about e-fuels (hydrogen-derived e-kerosene, e-ammonia, e-methanol, etc. for aviation and
 shipping): the technology and project pipeline exist, but financing — specifically, the lack of a
 mechanism to guarantee revenue for first-of-a-kind plants — is the binding constraint, and closing
@@ -25,14 +25,52 @@ that gap should be a priority use of EU carbon-pricing revenue.
 
 ## An early financing mechanism: the Hydrogen Clearing House
 
+The earliest version of this financing argument predates the cluster below by two months:
+[Carbon market revenues can fund green fuels for shipping and aviation](../sources/carbon-market-revenues-can-fund-green-fuels-for-shipping-and-aviation.md)
+(report, December 2024) already proposed dedicating a quarter of shipping and aviation carbon
+market (ETS) revenue to bridge the price gap between fossil and green fuels — the same 25%
+earmarking figure the September 2025 Revenue Certainty Mechanism report (below) would later adopt.
+[Green aviation's make or break moment](../sources/green-aviation-s-make-or-break-moment.md)
+(op-ed, December 2024) restated the urgency from the demand side: e-kerosene then made up less
+than 10% of airlines' SAF agreements, none of Europe's 56 announced e-kerosene projects had a
+final investment decision, and T&E argued 2025 had to be the year oil majors and EU lawmakers
+"put their money where their mouth is."
+[Aviation fuels and emissions trading - T&E consultation response](../sources/aviation-fuels-and-emissions-trading-t-e-consultation-response.md)
+(January 2025) then scrutinised the EU ETS's own existing support mechanism — a delegated act
+allocating aviation ETS allowances based on the price gap between eligible fuels and fossil
+kerosene — welcoming its transparency requirements but warning the mechanism as designed would
+mostly benefit biofuels rather than e-kerosene, and calling for a dedicated e-kerosene "basket"
+within it.
+[How to take the risk out of hydrogen investments](../sources/how-to-take-the-risk-out-of-hydrogen-investments.md)
+(op-ed, February 2025) diagnosed why: the EU's Hydrogen Bank auction mechanism produced winning
+subsidies averaging just €0.50/kg of hydrogen — a "race to the bottom" — against an expected 2030
+price of at least €6/kg even in high-potential markets like Spain, leaving oil majors unwilling to
+invest and new entrants unable to secure financing without a revenue guarantee.
+
 [A European Hydrogen Clearing House for green maritime and aviation e-fuels](../sources/a-european-hydrogen-clearing-house-for-green-maritime-and-aviation-e-fuels.md)
-(February 2025) is T&E's earliest concrete financing proposal in this cluster: even with EU and
+(February 2025) is T&E's first concrete financing *proposal* in this cluster: even with EU and
 national subsidies (the Innovation Fund, the Hydrogen Bank), e-fuels can't yet compete with fossil
 LNG or biofuels on cost — the H2 Bank's first pilot auction awarded only €0.37-0.48/GJ, not enough
 to close the price gap for shipping, risking projects being delayed, cancelled, or diverted to
 other hydrogen end-uses. A clearing house would match green hydrogen supply and demand across
 sectors to reduce that risk. This proposal predates, and is narrower than, the Revenue Certainty
-Mechanism T&E proposed later in the year (see below).
+Mechanism T&E proposed later in the year (see below). The same day,
+[T&E, shipping and aviation industry jointly call for urgent action to ramp up clean fuel production](../sources/t-e-shipping-and-aviation-industry-jointly-call-for-urgent-action-to-ramp-up-cle.md)
+(press release, February 2025) showed T&E wasn't alone in making this case: European Shipowners
+(ECSA) and Airlines for Europe (A4E) — the same airlines T&E otherwise clashes with on taxes and
+traffic growth (see [Aviation](aviation-decarbonisation.md)) — joined T&E in jointly calling on the
+Commission and member states to ramp up clean fuel production in Europe.
+
+Days later,
+[T&E and 70+ aviation industry actors call upon the European Commission to support e-SAF production](../sources/t-e-and-70-aviation-industry-actors-call-upon-the-european-commission-to-support.md)
+(letter, February 2025) formalised that industry alignment specifically around e-SAF: 15 CEOs and
+70+ companies and NGOs proposed five policy interventions, headlined by recycling aviation ETS
+revenue via a market intermediary capitalised to sign long-term offtake and production contracts —
+an early, narrower version of the Revenue Certainty Mechanism auction model — plus a 2025 bridging
+mechanism for first movers. T&E put the prize at stake at a potential €350bn global e-SAF market by
+2050 (Europe already hosting 60% of announced global capacity), but noted at the time that under
+300,000 tonnes of announced European capacity was on track to be operational by 2030 — only half of
+what ReFuelEU's sub-mandate requires.
 
 ## The case for e-fuels over the alternatives
 
@@ -75,12 +113,13 @@ offtake deal for 7,500 tonnes/year over 10 years from IAG). T&E puts the investm
 have a combined €130-150bn of 2025-2027 capital budgets across Shell, bp and TotalEnergies — have
 so far committed minimal capital to e-SAF specifically.
 
-Industry itself is pushing the same funding mechanism T&E proposes:
+Industry kept pushing the same funding mechanism T&E proposes:
 [Open letter: E-SAF tender funded by national governments to unlock the first projects in Europe](../sources/open-letter-e-saf-tender-funded-by-national-governments-to-unlock-the-first-proj.md)
 (June 2025) has 40+ companies across the SAF value chain, coordinated via Project SkyPower, call on
-EU national governments to jointly fund a pilot double-sided-auction e-SAF tender — corroborating
-from the supply side that a Revenue Certainty Mechanism-style auction, not just subsidy, is what
-first-of-a-kind e-SAF plants need to reach FID.
+EU national governments to jointly fund a pilot double-sided-auction e-SAF tender — a more
+specific, formalised version of the market-intermediary ask the February 2025 industry letter above
+had already floated, corroborating from the supply side that a Revenue Certainty Mechanism-style
+auction, not just subsidy, is what first-of-a-kind e-SAF plants need to reach FID.
 
 [E-fuels as the key to Germany's competitiveness and industrial leadership](../sources/e-fuels-als-schl-ssel-f-r-deutschlands-wettbewerbsf-higkeit-und-industrielle-f-h.md)
 (open letter, Germany, September 2025) makes the same case from a single-country angle: Germany

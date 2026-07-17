@@ -88,6 +88,15 @@ on track.
 
 ## E-fuels
 
+[Fuels for cars: a dead end for industry, consumers and the environment](../sources/fuels-for-cars-a-dead-end-for-industry-consumers-and-the-environment.md)
+(briefing, November 2024) set out T&E's baseline case against allowing any liquid fuel — synthetic
+or bio — to count toward the car CO2 targets, ahead of the industry pushback the leaked ACEA paper
+below would bring: running a car on e-fuels costs a driver an estimated €10,000 more over five
+years than running a battery-electric car (also true for second-hand cars converted to e-petrol),
+and by 2030 a full tank of e-petrol in Germany could cost around €210 versus €140 for fossil petrol
+today — a fuel type T&E frames as viable only for wealthy drivers, not a mass-market decarbonisation
+route.
+
 [Leaked car industry paper: carmakers' EU demands would cut EV sales in half](../sources/leaked-car-industry-paper-carmakers-eu-demands-would-cut-ev-sales-in-half.md)
 (October 2025) is T&E's analysis of a leaked ACEA (European car lobby) position paper ahead of the
 car CO2 law's 2025 review, which lists over ten demanded loopholes that T&E says would roughly
