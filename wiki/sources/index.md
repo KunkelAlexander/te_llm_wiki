@@ -14,7 +14,7 @@ Every T&E publication cited anywhere in this wiki. Open a source page for a link
 | [LNG trucks: a dead-end bridge](lng-trucks-a-dead-end-bridge.md) | 2021-09-27 | [Zero-emission trucks](../topics/zero-emission-trucking.md) |
 | [EU truck targets too weak to incentivise transition to zero-emission vehicles](eu-truck-targets-too-weak-to-incentivise-transition-to-zero-emission-vehicles.md) | 2021-10-10 | [Zero-emission trucks](../topics/zero-emission-trucking.md) |
 | [Ready or not: Who are the frontrunners in the global race to clean up trucks?](ready-or-not-who-are-the-frontrunners-in-the-global-race-to-clean-up-trucks.md) | 2023-06-19 | [Zero-emission trucks](../topics/zero-emission-trucking.md) |
-| [On Thin Ice: Norway's Fossil Ambitions and the EU's Green Energy Future](on-thin-ice-norway-s-fossil-ambitions-and-the-eu-s-green-energy-future.md) | 2024-02-21 | [Norway's oil and gas expansion vs. EU energy transition](../topics/norway-oil-and-gas.md) |
+| [On Thin Ice: Norway's Fossil Ambitions and the EU's Green Energy Future](on-thin-ice-norway-s-fossil-ambitions-and-the-eu-s-green-energy-future.md) | 2024-02-21 | [Oil and gas](../topics/oil-and-gas.md) |
 | [How sustainable are advanced and waste biofuels?](how-sustainable-are-advanced-and-waste-biofuels.md) | 2024-07-01 | [Biofuels](../topics/biofuels.md) |
 | [Aviation industry plans for growth 'irreconcilable' with Europe's climate goals](aviation-industry-plans-for-growth-irreconcilable-with-europe-s-climate-goals.md) | 2025-01-13 | [Aviation](../topics/aviation-decarbonisation.md) |
 | [Quel avenir fiscal pour le score environnemental (éco-score) ?](quel-avenir-fiscal-pour-le-score-environnemental-co-score.md) | 2025-01-27 | [Electric vehicles](../topics/electric-vehicles.md) |

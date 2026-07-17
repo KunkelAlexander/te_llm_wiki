@@ -126,6 +126,7 @@ Frontmatter:
 ---
 title: "<subject name, a noun — e.g. 'Biofuels', 'POME'>"
 type: topic | concept | policy
+section: "<one of the Section list below>"
 summary: >
   One or two sentences summarising what this page covers — this is what shows up in
   topics/index.md, so an agent scanning it can tell if a new source belongs here without
@@ -138,6 +139,58 @@ Use `type: topic` for a broad subject/hub page, `type: concept` for a narrower p
 from a hub's subsection (e.g. POME split out of Biofuels), and `type: policy` for a page centered
 on a specific regulation/dossier. There is no `person` type — see "Do not create pages for people"
 above.
+
+### Section: mirroring transportenvironment.org's own topic structure
+
+Every topic page's `section` field must be one of transportenvironment.org's own top-nav topics —
+the org's own settled answer to "how do we divide up our work," not a taxonomy invented for this
+wiki. This is what `topics/index.md` groups by (see `2_refresh_wiki_index.py`'s `SECTION_ORDER`),
+so a colleague's mental model of "where do I find X on the real site" transfers directly to the
+wiki instead of hunting through one flat list of unrelated subjects.
+
+The canonical list (in the real site's own nav order — keep new sections appended in the same
+order if T&E's own site adds one): **Cars & Vans, Trucks, Vans, Buses, Planes, Ships, Rail,
+Batteries, Energy & Fuels, Sustainable Finance, Air Quality, Climate Instruments, Green Steel,
+Clean Cities**. (T&E's real site actually splits "Cars" and "Vans" into separate top-nav entries;
+this wiki merges them into one section because both existing car/van topic pages already track the
+same shared regulation — see `car-and-van-co2-standards.md` — so a split section would be one
+section with the same two pages under both halves. Split them back into `Cars` / `Vans` if the
+wiki ever gets van-specific pages distinct from the shared CO2-standards dossier.)
+
+When filing a topic page, check T&E's real site (or the mapping already reasoned through in past
+work on this wiki) for which section a subject's own "Explore further" list would put it under,
+rather than guessing. Two patterns to copy directly from how T&E structures its own site:
+
+- **A section only gets split into wiki subtopic pages once there's enough distinct material to
+  justify it** — T&E itself keeps Vans, Buses, Batteries and Air Quality as single flat pages
+  rather than pre-splitting them, and the wiki should do the same: don't invent subtopic pages
+  under a section ahead of the sources that would justify them.
+- **A fuel-type or cross-cutting subject gets its own page, cross-referenced from every section
+  that uses it, rather than living only under one parent.** T&E's own site does this for e-fuels
+  (a Cars-specific page distinct from Energy's general "Hydrogen and e-fuels" page) and for Green
+  Steel (aluminium/battery-recycling/circularity, cross-linked from Cars). This wiki mirrors it:
+  `e-fuels-financing.md` sits under Energy & Fuels but is cross-linked from Planes (aviation
+  e-kerosene financing is the concrete case so far); `ev-battery-and-raw-materials.md` sits under
+  Green Steel but is cross-linked from Cars & Vans.
+
+**Gap list** — sections/subtopics T&E treats as first-class on the real site with no wiki coverage
+yet, as of 2025-11-21: whole sections **Rail, Batteries, Air Quality, Clean Cities**; within
+**Planes**, T&E's own subtopics Contrails/non-CO2, Airports, Elite/corporate flying and airplane
+air pollution; within **Ships**, LNG, cruise ships, shipping air pollution, the e-fuels tracker,
+shipping MRV/emissions data, and shipping-aviation emissions allocation (only the IMO Net-Zero
+Framework is covered so far); within **Cars & Vans**, charging infrastructure, fleets, and
+lifecycle/"are electric cars cleaner" comparisons. When a new source doesn't obviously belong to an
+existing page, check this list first — it tells you which of T&E's own subtopics is most
+underserved, rather than defaulting to whichever topic page already exists being the path of least
+resistance. Update this list as gaps get filled or new ones are noticed.
+
+**Zero-emission trucks currently under-splits its section on purpose.** T&E's own site divides
+Trucks into three subtopics (CO2 standards / false solutions / enabling conditions), but this
+wiki's `zero-emission-trucking.md` covers all three in one page — correct for now, per the
+"don't split until there's enough content" pattern above, given the current source volume. If truck
+sources keep arriving, split along T&E's own three lines rather than letting one page grow
+indefinitely; that will also require adding `section: "Trucks"` to each resulting page (already the
+section this page uses today).
 
 Body: immediately below the `# Title` heading (before any hatnote), add a one-line freshness marker
 mirroring the frontmatter's `last_updated`:
