@@ -68,6 +68,10 @@ SECTION_ORDER = [
     "Cars & Vans", "Trucks", "Vans", "Buses", "Planes", "Ships", "Rail", "Batteries",
     "Energy & Fuels", "Sustainable Finance", "Air Quality", "Climate Instruments",
     "Green Steel", "Clean Cities",
+    # "Mobility" is a wiki-only addition, not a real transportenvironment.org top-nav section —
+    # see wiki/AGENT_INSTRUCTIONS.md's "Section" subsection for why. Kept last so it doesn't
+    # disturb the real site's own nav order above.
+    "Mobility",
 ]
 
 

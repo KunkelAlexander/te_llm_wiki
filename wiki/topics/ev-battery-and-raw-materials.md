@@ -39,6 +39,17 @@ much as removing 900,000 fossil-fuel cars from the road each year, at an estimat
 just €25 per car. *See also:* [Car and van CO2 standards](car-and-van-co2-standards.md) for T&E's
 tailpipe-CO2 work on the same vehicles — this page instead covers what the car is made of.
 
+The same argument extends to the car's other major material:
+[Which carmakers are leading the way on green steel?](../sources/which-carmakers-are-leading-the-way-on-green-steel.md)
+(2025 Lead the Charge Leaderboard briefing, September 2025) tracks automaker progress on
+decarbonising steel — 16-30% of a typical vehicle's embodied CO2, and a material responsible for
+roughly 7% of global emissions. Since the Leaderboard's 2023 launch, the share of automakers
+taking any action on steel decarbonisation has flipped from one-third to two-thirds, led by Volvo
+and Mercedes using their purchasing power to secure green steel made via hydrogen-based direct
+reduced iron (cutting steel emissions by up to 97%). But the gap between leaders and laggards
+remains wide: the best-in-class combined score is 72%, more than five times the all-automaker
+average of just 13%.
+
 ## Battery recycling and the End-of-life Vehicles Regulation
 
 [From waste to value: Driving circularity in Europe](../sources/from-waste-to-value-driving-circularity-in-europe.md)
@@ -54,6 +65,32 @@ addressing the upstream extraction risks behind the raw materials this page's ot
 trying to secure and recycle responsibly.
 
 ## Critical raw materials and industrial policy
+
+Earlier in 2025, T&E had already flagged the same underlying problem — a lack of real production
+funding — that ReSourceEU (below) would go on to fail to fix.
+[EU rules out production aid in blow to battery and cleantech industry](../sources/eu-rules-out-production-aid-in-blow-to-battery-and-cleantech-industry.md)
+(press release, June 2025) criticises the EU's new state-aid rules (CISAF) for maintaining a ban
+on production aid — per-unit subsidies for cleantech actually manufactured — even as the US uses
+equivalent aid under the IRA to build a battery industry from scratch and overtake Europe's. CISAF
+does allow governments to take equity in cleantech firms and eases aid vetted by the EU Innovation
+Fund, but T&E calls this an inadequate, complex, project-by-project substitute for the "cleantech
+bazooka" of simple, predictable manufacturing aid promised in the Commission's own auto action
+plan. It also warns CISAF still permits state aid for hydrogen produced from fossil gas, risking
+continued fossil financing at the expense of the green hydrogen aviation and shipping need (see
+[Hydrogen policy](hydrogen-policy.md)).
+
+The following month,
+[Transport decarbonisation is a lever for industrial competitiveness but the EU budget fails to capitalise on it](../sources/transport-decarbonisation-is-a-lever-for-industrial-competitiveness-but-the-eu-b.md)
+(press release, July 2025) makes the same funding-gap argument against the EU's draft post-2027
+budget: its new European Competitiveness Fund allocates just €67bn to climate/industrial
+decarbonisation over seven years (€40bn already existing money, not new), against an estimated
+€39bn/year in public funding transport cleantech manufacturing alone would need by 2030 — putting
+up to 100,000 potential battery-industry jobs at risk. T&E credits the budget for finally allowing
+production aid and "Made in EU" content requirements (reversing the CISAF gap above), but says the
+funding scale isn't there yet; it also flags the proposed dismantling of the LIFE environmental
+programme and calls for lightly-taxed, heavily-polluting sectors — aviation and shipping — to help
+fund the budget instead (an EU-wide kerosene tax on all departing flights could raise an estimated
+€21.25bn/year alone; see [Aviation § Aviation taxes](aviation-decarbonisation.md#aviation-taxes)).
 
 [ReSourceEU risks becoming a rebranding project. Here's what it needs to become a game changer](../sources/resourceeu-risks-becoming-a-rebranding-project-here-s-what-it-needs-to-become-a-.md)
 (op-ed, November 2025) is T&E's critique of the EU's ReSourceEU critical raw materials plan: as

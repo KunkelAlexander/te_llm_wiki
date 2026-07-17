@@ -182,6 +182,17 @@ same shared regulation — see `car-and-van-co2-standards.md` — so a split sec
 section with the same two pages under both halves. Split them back into `Cars` / `Vans` if the
 wiki ever gets van-specific pages distinct from the shared CO2-standards dossier.)
 
+**`Mobility` is the one deliberate exception to "mirror the real nav."** T&E's real site has no
+top-nav section by this name — checked directly against transportenvironment.org on 2026-07-17,
+whose closest matches are the mode-specific sections above and "State of European Transport"
+(annual trend reports, not a topic hub). `mobility.md` exists anyway, added on 2026-07-17 at the
+maintainer's explicit direction, as a home for general mobility-philosophy content that doesn't
+belong to any single vehicle segment or fuel type (e.g. Arie Bleijenberg's op-ed
+"People do not simply want to get from A to B") rather than force-fitting it into an unrelated
+section or leaving it permanently uncited. Don't file new sources here just because they're hard
+to place — this section is for genuinely cross-cutting mobility-philosophy pieces, not a catch-all;
+default to an existing mode/fuel hub whenever a source has one.
+
 When filing a topic page, check T&E's real site (or the mapping already reasoned through in past
 work on this wiki) for which section a subject's own "Explore further" list would put it under,
 rather than guessing. Two patterns to copy directly from how T&E structures its own site:
@@ -199,13 +210,15 @@ rather than guessing. Two patterns to copy directly from how T&E structures its 
   Green Steel but is cross-linked from Cars & Vans.
 
 **Gap list** — sections/subtopics T&E treats as first-class on the real site with no wiki coverage
-yet, as of 2026-07-17: whole sections **Rail, Batteries, Air Quality, Clean Cities**; within
+yet, as of 2026-07-17: whole sections **Batteries, Air Quality, Clean Cities** (Rail was filled in
+on 2026-07-17, see `rail.md`); within
 **Planes**, airplane air pollution specifically (Contrails/non-CO2 and Elite/corporate flying were
 filled in on 2026-07-17, see `aviation-decarbonisation.md`); within **Ships**, LNG, cruise ships,
 shipping air pollution, the e-fuels tracker,
 shipping MRV/emissions data, and shipping-aviation emissions allocation (only the IMO Net-Zero
-Framework is covered so far); within **Cars & Vans**, charging infrastructure, fleets, and
-lifecycle/"are electric cars cleaner" comparisons. When a new source doesn't obviously belong to an
+Framework is covered so far); within **Cars & Vans**, lifecycle/"are electric cars cleaner"
+comparisons (charging infrastructure and fleets were filled in on 2026-07-17, see
+`electric-vehicles.md`). When a new source doesn't obviously belong to an
 existing page, check this list first — it tells you which of T&E's own subtopics is most
 underserved, rather than defaulting to whichever topic page already exists being the path of least
 resistance. Update this list as gaps get filled or new ones are noticed.

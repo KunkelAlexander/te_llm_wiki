@@ -33,6 +33,12 @@ T&E's work, organized by subject. Each page tracks how T&E's position or estimat
 |---|---|
 | [IMO shipping fuel standard (Net-Zero Framework)](imo-shipping-fuel-standard.md) | T&E's advocacy around the IMO's Net-Zero Framework for shipping in 2025: welcoming it as a historic but too-weak first step, arguing the EU's own ETS/FuelEU Maritime must stay in force regardless of the outcome, opposing US-led pressure to weaken or delay it, and pushing for e-fuel incentives over biofuels/LNG. |
 
+## Rail
+
+| Topic | Summary |
+|---|---|
+| [Rail](rail.md) | T&E's push for rail as the low-carbon alternative to flying: closing the infrastructure gaps (signalling, line speed, cross-border capacity) that make trains slow and unreliable, and fixing the ticketing and tax barriers that make them more expensive and harder to book than flights. |
+
 ## Energy & Fuels
 
 | Topic | Summary |
@@ -60,4 +66,10 @@ T&E's work, organized by subject. Each page tracks how T&E's position or estimat
 | Topic | Summary |
 |---|---|
 | [EV battery and raw materials supply chains](ev-battery-and-raw-materials.md) | T&E's push to make Europe's shift to EVs resilient and clean upstream, not just at the tailpipe: a critical raw materials strategy that goes beyond reshuffling, EU industrial policy for battery manufacturing, decarbonising materials like aluminium, catching up on LFP battery technology, and tighter circularity/mining-waste standards. |
+
+## Mobility
+
+| Topic | Summary |
+|---|---|
+| [Mobility](mobility.md) | T&E's broader mobility-philosophy work: the "travel time budget" theory of transport demand — people travel a roughly constant ~1.1 hours a day regardless of era, so it's transport speed, not innate desire to cover distance, that determines how far people go — used to argue official forecasts overstate future car-travel growth. |
 

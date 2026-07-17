@@ -32,7 +32,7 @@ sector's carbon budget for 1.5°C, which it estimates could be exhausted as earl
 traffic growth than industry projections, still shows a 46% emissions increase by 2040 versus the
 1990 baseline against a target of -90%; unchecked industry growth could add a further 960 MtCO2
 versus that Commission scenario. T&E's policy response is to curb airport expansion, remove fossil
-fuel subsidies for aviation, and promote rail as a substitute for short-haul flights, rather than
+fuel subsidies for aviation, and promote [rail](rail.md) as a substitute for short-haul flights, rather than
 relying on efficiency and SAF alone.
 
 [Carbon leakage in the aviation sector](../sources/carbon-leakage-in-the-aviation-sector-is-it-a-problem-and-if-so-what-can-be-done.md)

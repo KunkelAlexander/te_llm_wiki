@@ -22,7 +22,7 @@ work on those CO2 targets and industry attempts to weaken them. *Main article:
 upstream materials, industrial policy and circularity questions behind the EV transition — not
 covered on this page.
 
-**Contents:** [Car taxation](#car-taxation) · [Fleets](#fleets)
+**Contents:** [Car taxation](#car-taxation) · [Fleets](#fleets) · [Charging infrastructure](#charging-infrastructure)
 
 ## Car taxation
 
@@ -60,3 +60,18 @@ car-financing and leasing activities — coming, T&E notes, against a backdrop o
 against climate targets elsewhere in the car sector (see
 [Car and van CO2 standards](car-and-van-co2-standards.md)). T&E and Reclaim Finance frame this as a
 strong signal and call on the rest of the banking sector to align similarly.
+
+## Charging infrastructure
+
+[How to close the AFIF funding gap in 2026/2027](../sources/how-to-close-the-afif-funding-gap-in-2026-2027.md)
+(briefing, May 2025) covers the Alternative Fuels Infrastructure Facility (AFIF), the EU's central
+funding instrument for public EV charging and other alternative-fuel infrastructure. T&E credits it
+as an effective model — simple, predictable per-unit contributions, aligned with AFIR charging
+targets — with 62% of its €2.3bn (2021-2025) going to public charging (both light- and heavy-duty)
+and 23% to hydrogen refuelling, though it judges the latter poor value given hydrogen's very
+limited role in road transport. AFIF's funds are due to run out after a June 2025 cut-off, opening
+a €1.25bn gap for 2026-27 that T&E warns risks stalling infrastructure deployment just as EV uptake
+accelerates; it wants the gap bridged — ideally from unspent Recovery and Resilience Facility,
+ERDF or Cohesion Fund money — as a priority for Commissioner Tzitzikostas' Sustainable Transport
+Investment Plan (STIP), targeted at heavy-duty charging along the TEN-T network and closing
+remaining light-duty charging gaps in Southern, Central and Eastern Europe.

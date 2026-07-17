@@ -82,6 +82,13 @@ EU national governments to jointly fund a pilot double-sided-auction e-SAF tende
 from the supply side that a Revenue Certainty Mechanism-style auction, not just subsidy, is what
 first-of-a-kind e-SAF plants need to reach FID.
 
+[E-fuels as the key to Germany's competitiveness and industrial leadership](../sources/e-fuels-als-schl-ssel-f-r-deutschlands-wettbewerbsf-higkeit-und-industrielle-f-h.md)
+(open letter, Germany, September 2025) makes the same case from a single-country angle: Germany
+already has a head start on e-fuels — research funding, first plants, and the world's first
+national e-kerosene blending target — but its industrial ramp-up is stalling on high electricity
+prices, the scrapping of national power-to-liquid quotas, and a €2bn funding cut, echoing this
+page's broader financing-gap argument at national scale.
+
 ## Related dossiers
 
 This financing argument underpins T&E's positions in

@@ -73,6 +73,17 @@ existing battery-electric ferry range), add carbon-leakage/evasion safeguards fo
 and align the ETS with FuelEU Maritime's ban on food/feed-crop biofuels — which are currently
 "zero-rated" (treated as zero-emission) under the ETS despite the same ILUC risk raised above.
 
+Alongside the IMO track, T&E also pushed a second, national-level channel for regulating shipping
+emissions:
+[Ocean protection means including shipping in countries' Paris climate targets](../sources/ocean-protection-means-including-shipping-in-countries-paris-climate-targets.md)
+(joint press release with Opportunity Green and Seas at Risk, June 2025, at the UN Ocean
+Conference) argues international shipping emissions belong in countries' Nationally Determined
+Contributions (NDCs) under the Paris Agreement — a "glaring gap" in most national climate plans
+today — regardless of what the IMO itself eventually agrees. T&E frames this as complementary
+rather than a substitute: NDC inclusion would give countries a legislative mandate to enforce
+their own shipping-emissions measures, and provide the investment certainty the NZF alone (see
+below) does not yet deliver.
+
 ## The October 2025 political fight
 
 By October 2025, the IMO's formal vote on adopting the NZF became a live political fight, and T&E

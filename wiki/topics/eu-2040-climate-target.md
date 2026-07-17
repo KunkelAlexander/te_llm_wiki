@@ -38,6 +38,19 @@ carbon removals: it cites the EU's science advisory body (ESABCC) capping techno
 a European Commission planning assumption of up to 400 MtCO2/year of removals — a gap T&E treats
 as a risk that removals get used to paper over insufficient real cuts.
 
+When the Commission confirmed its headline 90% figure,
+[EU's reliance on carbon credits risks making a 'paper tiger' of Europe's climate efforts](../sources/eu-s-reliance-on-carbon-credits-risks-making-a-paper-tiger-of-europe-s-climate-e.md)
+(press release, July 2025; French release:
+[Climate: the EU's 2040 target seriously weakened by reliance on carbon credits](../sources/climat-l-objectif-2040-de-l-ue-s-rieusement-affaibli-par-le-recours-aux-cr-dits-.md))
+welcomed the number itself but warned that leaving the door open to carbon credits contradicted
+the Commission's own prior commitments and risked setting a precedent for watering down other
+climate obligations via offsets — pointing to an earlier finding that over 90% of rainforest
+carbon offsets from the world's largest certifier were worthless. T&E's position: meeting the 90%
+target for real, without leaning on credits, means holding firm on the 2035 car CO2 target, ETS2,
+truck CO2 standards, and green fuel mandates for ships and planes (see
+[Car and van CO2 standards](car-and-van-co2-standards.md),
+[Zero-emission trucks](zero-emission-trucking.md), and [Aviation](aviation-decarbonisation.md)).
+
 ## Transport is the outlier sector
 
 Transport is highlighted as the EU's largest emitting sector by 2030 (~45% of EU emissions) and
@@ -65,6 +78,28 @@ per year, worth $75-100bn/year.
 ETS2 (the EU's planned 2027 extension of carbon pricing to buildings and road transport fuels) is
 projected to raise around €300bn in revenue from 2026-2032 at a carbon price of €55/tCO2, with road
 transport accounting for 58% of ETS2 emissions.
+
+[How to defuse the EU's carbon tax time bomb](../sources/how-to-defuse-the-eu-s-carbon-tax-time-bomb.md)
+(op-ed, April 2025) sets out T&E's earliest response to the political risk ETS2 carries — carbon
+pricing on petrol and heating fuel is an easy target for populist backlash. Its proposed fixes:
+since the top 30% of earners account for around 50% of fuel sales, let a soft price cap (currently
+€55/tCO2, rising to €60 by 2030) and revenue recycling shift most of the real burden onto them;
+frontload spending on alternatives (targeted social leasing of EVs at €100-200/month, cycling and
+public transport) before the carbon price bites, rather than after; close the loophole where
+private jets, business-class tickets and carbon tax-free long-haul flights escape scrutiny while
+ordinary drivers pay (see also [Aviation § Elite/high-emission flying](aviation-decarbonisation.md#elitehigh-emission-flying));
+and eliminate overlapping national carbon taxes once ETS2 takes effect.
+
+[How to turn the ETS2 implementation into a success](../sources/ets2-a-300bn-opportunity-to-help-transition-european-citizens-away-from-fossil-f.md)
+(report, June 2025) turns those principles into five concrete recommendations: return at least 50%
+of ETS2 revenue as direct financial support (a mix of targeted compensation, climate dividends and
+tax reductions, since no single mechanism suits every income group); spend roughly half the
+remaining budget on transport measures given road transport's 58% share of ETS2 emissions
+(low-cost EV leasing, e-bike subsidies, public transport capacity, mobility credits and scrappage
+schemes, prioritising rural/low-income/industrial areas); and frontload the Social Climate Fund —
+front-loading investment via the Commission and European Investment Bank so alternatives exist
+*before* the carbon price starts biting, rather than arriving too late to soften the initial shock.
+
 [ETS2 reform will limit price spikes and make redistribution easier, says T&E](../sources/ets2-reform-will-limit-price-spikes-and-make-redistribution-easier-says-t-e.md)
 (October 2025) welcomed a reform of the ETS2 mechanism intended to dampen carbon-price spikes, but
 argued it is now down to national governments to properly use the redistributed revenue to support
