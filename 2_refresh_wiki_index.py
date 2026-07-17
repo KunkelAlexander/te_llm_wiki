@@ -111,12 +111,14 @@ def refresh():
         sections[t["frontmatter"].get("section", "Other")].append((filename, t))
     with open(topics_path, "w", encoding="utf-8") as f:
         f.write("---\ntitle: Topics\n---\n\n# Topics\n\n")
-        f.write("Everything T&E works on that this wiki covers, one page per subject, grouped to "
-                "match [transportenvironment.org](https://www.transportenvironment.org)'s own "
-                "top-level topics — so \"where would this live on the real site\" and \"where "
-                "does it live in this wiki\" are the same question. Each page tracks how T&E's "
-                "position or estimates on that subject have evolved over time, with every claim "
-                "linked back to the publication it's drawn from.\n\n")
+        f.write(
+            "<!-- Everything T&E works on that this wiki covers, one page per subject, grouped to "
+            "match transportenvironment.org's own top-level topics — so \"where would this live "
+            "on the real site\" and \"where does it live in this wiki\" are the same question. -->\n\n"
+        )
+        f.write("T&E's work, organized by subject. Each page tracks how T&E's position or "
+                "estimates have evolved over time, with every claim linked back to the "
+                "publication it's drawn from.\n\n")
         for section in sorted(sections, key=_section_sort_key):
             f.write(f"## {section}\n\n")
             f.write("| Topic | Summary |\n")

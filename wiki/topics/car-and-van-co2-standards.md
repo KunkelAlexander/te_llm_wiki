@@ -17,8 +17,7 @@ last_updated: 2025-11-21
 
 Cars and vans are regulated together under the same EU law, Regulation 2019/631 ("CO2 emission
 performance standards for new passenger cars and for new light commercial vehicles"), so T&E's
-work on the two segments tracks the same regulatory dossier. Sections below follow T&E's own
-"Cars" subtopics where this wiki has matching content; *see also:*
+work on the two segments tracks the same regulatory dossier. *See also:*
 [Zero-emission trucks](zero-emission-trucking.md) for the separate
 truck regulation, which shows the same "flexibilities blunt real ambition" pattern;
 [Electric vehicles](electric-vehicles.md) for the "Car taxation" and "Fleets" subtopics (EV-adoption
@@ -31,8 +30,8 @@ here (decarbonising what the car is made of, not just what it emits while drivin
 
 ## Vans
 
-T&E's real site keeps Vans as a single flat topic rather than splitting it further, and this wiki
-follows the same pattern.
+<!-- T&E's real site keeps Vans as a single flat topic rather than splitting it further, and this
+wiki follows the same pattern. -->
 
 [How regulation is failing to electrify Europe's van market](../sources/how-regulation-is-failing-to-electrify-europe-s-van-market.md)
 (2021) is T&E's main analysis of the van segment. Vans account for 13% of road transport CO2, and

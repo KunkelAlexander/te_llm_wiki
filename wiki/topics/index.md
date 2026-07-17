@@ -4,7 +4,9 @@ title: Topics
 
 # Topics
 
-Everything T&E works on that this wiki covers, one page per subject, grouped to match [transportenvironment.org](https://www.transportenvironment.org)'s own top-level topics — so "where would this live on the real site" and "where does it live in this wiki" are the same question. Each page tracks how T&E's position or estimates on that subject have evolved over time, with every claim linked back to the publication it's drawn from.
+<!-- Everything T&E works on that this wiki covers, one page per subject, grouped to match transportenvironment.org's own top-level topics — so "where would this live on the real site" and "where does it live in this wiki" are the same question. -->
+
+T&E's work, organized by subject. Each page tracks how T&E's position or estimates have evolved over time, with every claim linked back to the publication it's drawn from.
 
 ## Cars & Vans
 

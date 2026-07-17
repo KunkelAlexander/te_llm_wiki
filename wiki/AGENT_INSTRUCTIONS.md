@@ -261,6 +261,18 @@ scheme GitHub uses). When you add, rename, reorder, or remove a `##` subsection,
 contents line in the same edit — it goes stale otherwise. A page with only one `##` subsection (or
 none) doesn't need one.
 
+**Every sentence in the visible body is for the reader, not a note to the next agent.** Sentences
+like "Sections below follow T&E's own X subtopics", "this wiki currently files this under Y as the
+closest match, pending more material", or "superseded by this page per the report's own duplicate
+log" describe *this wiki's* editorial/organizational decisions — a reader came here for T&E's
+positions on a subject, not for how the wiki itself is structured or maintained. That kind of
+maintainer note is still worth writing down (it's exactly the reasoning a future agent needs), but
+as an HTML comment (`<!-- ... -->`), which kramdown passes through untouched but browsers don't
+render — invisible on the built site, still readable by anyone opening the markdown source. Keep:
+cross-references a reader would actually use ("*See also:* [X](x.md) for ...", "Main article: X",
+"the angles this page doesn't cover — see Y"). Move to a comment: anything explaining *why the
+wiki is organized this way* rather than *what T&E's position is*.
+
 When an estimate or position has evolved, say so explicitly and in date order, e.g.:
 
 > T&E's 2021 [LNG trucks: a dead-end bridge](sources/lng-trucks-a-dead-end-bridge.md) report

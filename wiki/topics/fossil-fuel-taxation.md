@@ -36,5 +36,5 @@ policy ask: use windfall taxation (or an end to fossil subsidies) to reduce EU h
 to future energy price spikes, linking this topic to the ETS2 reform debate — see
 [EU 2040 climate target](eu-2040-climate-target.md).
 
-This is currently a single-report topic in this wiki; expect it to connect to future T&E work on
-energy pricing and just-transition funding as more publications come in.
+<!-- This is currently a single-report topic in this wiki; expect it to connect to future T&E
+work on energy pricing and just-transition funding as more publications come in. -->

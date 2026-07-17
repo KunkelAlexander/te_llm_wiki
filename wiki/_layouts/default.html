@@ -54,9 +54,6 @@
     th{white-space:nowrap; color:var(--ink); border-bottom:2px solid var(--pink);}
     tr:hover td{background:#fbfbfe;}
 
-    footer{margin-top:3rem; padding-top:1.4rem; border-top:1px solid var(--line); font-size:.85rem; color:var(--muted); line-height:1.5;}
-    footer a{color:var(--muted); text-decoration:underline;}
-
     @media (max-width:480px){ h1{font-size:1.6rem;} nav{gap:1rem; flex-wrap:wrap;} }
   </style>
 </head>
@@ -79,11 +76,8 @@
     </script>
     <hr>
     {{ content }}
-    <footer>
-      Generated from T&amp;E publications. Every claim above should cite a
-      <a href="{{ '/sources/index.html' | relative_url }}">source page</a> with a link to the
-      original publication.
-    </footer>
+    <!-- Generated from T&E publications. Every claim above should cite a source page with a
+         link to the original publication. -->
   </div>
 </body>
 </html>

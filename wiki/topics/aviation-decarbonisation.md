@@ -16,7 +16,7 @@ last_updated: 2025-11-13
 
 *Updated: 2025-11-13*
 
-Sections below follow T&E's own "Planes" subtopics.
+<!-- Sections below follow T&E's own "Planes" subtopics. -->
 
 **Contents:** [Airplane pollution](#airplane-pollution) · [Aviation taxes](#aviation-taxes) · [Airports](#airports) · [Sustainable aviation fuels](#sustainable-aviation-fuels) · [Contrails and non-CO2 emissions](#contrails-and-non-co2-emissions) · [Elite/high-emission flying](#elitehigh-emission-flying)
 

@@ -17,12 +17,12 @@ last_updated: 2025-11-13
 
 [Driving Change: Creating the EU's Ambitious 2040 Climate Commitment](../sources/driving-change-creating-the-eu-s-ambitious-2040-climate-commitment.md)
 (September 2025, T&E consultation response) sets out T&E's position on the EU's 2040 climate
-target, the framework that will shape the next decade of EU sectoral policy — including the
-vehicle CO2 standards and carbon-pricing dossiers covered elsewhere in this wiki.
+target, the framework that will shape the next decade of EU sectoral policy, including vehicle
+CO2 standards and carbon pricing.
 
-T&E's real "Climate Instruments" topic covers the Paris Agreement, the EU ETS and the Effort
+<!-- T&E's real "Climate Instruments" topic covers the Paris Agreement, the EU ETS and the Effort
 Sharing Regulation in-page, with only ETS2 (the 2027 carbon-pricing extension to buildings and
-road transport fuels) as its own named subpage — see [ETS2](#ets2) below.
+road transport fuels) as its own named subpage — see [ETS2](#ets2) below. -->
 
 **Contents:** [Headline ask and guardrails on credits/removals](#headline-ask-and-guardrails-on-creditsremovals) · [Transport is the outlier sector](#transport-is-the-outlier-sector) · [Economic framing](#economic-framing) · [ETS2](#ets2) · [October-November 2025: the target gets watered down](#october-november-2025-the-target-gets-watered-down)
 
@@ -45,10 +45,10 @@ the only one whose emissions have grown since 1990. T&E's own "Road to Zero" sce
 transport to cut emissions by around 70% by 2040 versus 1990, against only a 30% cut that current
 Fit for 55 policies are on track to deliver as written — a gap driven largely by aviation and
 shipping, whose emissions are projected to keep rising (+13% versus 1990) even as road transport
-emissions roughly halve. T&E's recommendation is to hold the line on measures already covered
-elsewhere in this wiki — the 2035 combustion-engine phase-out for cars (see
-[Car and van CO2 standards](car-and-van-co2-standards.md)), [ETS2](#ets2), and truck CO2
-targets (see [Zero-emission trucks](zero-emission-trucking.md)) — and to bring aviation's
+emissions roughly halve. T&E's recommendation is to hold the line on the 2035 combustion-engine
+phase-out for cars (see [Car and van CO2 standards](car-and-van-co2-standards.md)),
+[ETS2](#ets2), and truck CO2 targets (see [Zero-emission trucks](zero-emission-trucking.md)) —
+and to bring aviation's
 non-CO2 warming effects (contrails) into EU climate law for the first time, since EU ETS aviation
 coverage currently captures only 64 MtCO2 of aviation's emissions, leaving roughly 70% of aviation
 CO2 outside the scheme (see [Aviation](aviation-decarbonisation.md)).

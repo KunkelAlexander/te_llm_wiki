@@ -20,19 +20,20 @@ last_updated: 2025-11-20
 Six T&E publications landed within two weeks of each other in November 2025, all addressing a
 common theme: that a genuinely green EV transition depends on what happens upstream — mineral
 sourcing, battery chemistry, materials decarbonisation and waste rules — not only on vehicle sales
-targets. Two of the sections below map directly onto T&E's own named Green Steel subtopics
+targets.
+
+<!-- Two of the sections below map directly onto T&E's own named Green Steel subtopics
 ("Aluminium in cars"; "Battery recycling", which folds in the End-of-life Vehicles Regulation); the
 third section covers adjacent EU industrial/raw-materials policy that this wiki currently files
 under Green Steel as the closest match, pending enough further material to justify its own page
-(e.g. under a future Batteries topic, which T&E's own site currently keeps as a single flat page).
+(e.g. under a future Batteries topic, which T&E's own site currently keeps as a single flat page). -->
 
 **Contents:** [Aluminium in cars](#aluminium-in-cars) · [Battery recycling and the End-of-life Vehicles Regulation](#battery-recycling-and-the-end-of-life-vehicles-regulation) · [Critical raw materials and industrial policy](#critical-raw-materials-and-industrial-policy)
 
 ## Aluminium in cars
 
 [Reducing the carbon footprint of aluminium in cars: why and how?](../sources/reducing-the-carbon-footprint-of-aluminium-in-cars-why-and-how.md)
-(report, November 2025, with EN and DE press-release companions superseded by this page per the
-report's own duplicate log) examines how to secure an ambitious uptake of green (low-carbon)
+(report, November 2025) examines how to secure an ambitious uptake of green (low-carbon)
 aluminium in cars by 2040: switching to green aluminium in EU car production could cut CO2 by as
 much as removing 900,000 fossil-fuel cars from the road each year, at an estimated extra cost of
 just €25 per car. *See also:* [Car and van CO2 standards](car-and-van-co2-standards.md) for T&E's

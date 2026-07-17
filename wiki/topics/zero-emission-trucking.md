@@ -18,7 +18,9 @@ T&E's consistent position since 2021 is that **direct electrification (battery-e
 overhead-catenary electric road systems as a complementary option) is the dominant realistic
 pathway to decarbonise heavy trucking**, that hydrogen and e-fuels are far less efficient
 detours, and that EU CO2 standards for trucks have been too weak to drive the transition on
-their own. Sections below follow T&E's own three-way "Trucks" subtopic split.
+their own.
+
+<!-- Sections below follow T&E's own three-way "Trucks" subtopic split. -->
 
 **Contents:** [Truck CO2 standards](#truck-co2-standards) · [False solutions](#false-solutions) · [Enabling conditions](#enabling-conditions)
 
