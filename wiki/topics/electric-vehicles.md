@@ -11,6 +11,8 @@ last_updated: 2025-01-27
 
 # Electric vehicles
 
+*Updated: 2025-01-27*
+
 *See also: [Car and van CO2 standards](car-and-van-co2-standards.md)* for T&E's watchdog work on
 the EU's fleet-wide CO2 targets and industry attempts to weaken them — this page instead covers
 policy mechanisms aimed at accelerating EV adoption directly, such as national purchase

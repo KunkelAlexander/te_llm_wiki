@@ -11,6 +11,8 @@ last_updated: 2025-11-05
 
 # Biofuels
 
+*Updated: 2025-11-05*
+
 Across 2024-2025, T&E's biofuels work builds a consistent, hardening case: sustainable biofuel
 feedstocks are far scarcer than policy targets assume, "advanced" or "waste" labels are
 increasingly unreliable, and land-based biofuels can be worse for the climate than the fossil

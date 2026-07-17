@@ -10,6 +10,8 @@ last_updated: 2025-10-30
 
 # Fossil fuel windfall taxation
 
+*Updated: 2025-10-30*
+
 [Excessive fossil fuel profits should be taxed and given back to citizens](../sources/excessive-fossil-fuel-profits-should-be-taxed-and-given-back-to-citizens.md)
 (PwC study commissioned by T&E, March 2025) argues that fossil fuel majors reaped windfall profits
 from the 2022 energy crisis following Russia's invasion of Ukraine, and that these should be taxed

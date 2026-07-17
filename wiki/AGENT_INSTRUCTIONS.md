@@ -139,7 +139,22 @@ from a hub's subsection (e.g. POME split out of Biofuels), and `type: policy` fo
 on a specific regulation/dossier. There is no `person` type — see "Do not create pages for people"
 above.
 
-Body: prose organized so it reads as a living summary, not a changelog dump. Whenever a page has
+Body: immediately below the `# Title` heading (before any hatnote), add a one-line freshness marker
+mirroring the frontmatter's `last_updated`:
+
+```
+*Updated: 2025-11-05*
+```
+
+This is the reader-facing reason `last_updated` exists at all: someone trusting this page's claims
+should be able to tell at a glance whether it reflects the latest sources or has sat untouched
+while newer publications on the subject piled up. Keep the two in lockstep — whenever you bump
+`last_updated` in the frontmatter (step 5 of the update workflow below), update this line to match
+in the same edit. This is a per-page marker only; it does not belong in the `topics/index.md`
+table, which stays a plain topic/summary index (a "first seen/last updated" column there was tried
+and cut as maintainer-only noise on a public page — see `topics/DEDUP_INDEX.md` for that view).
+
+Prose organized so it reads as a living summary, not a changelog dump. Whenever a page has
 **two or more `##` subsections**, add a one-line table of contents immediately before the first
 `##` heading (after any intro paragraph/hatnote), so a reader or agent can tell what the page
 covers without scrolling through it:
@@ -208,8 +223,9 @@ When new source pages appear (after re-running the extraction script over more d
    it a `summary` in its frontmatter (see above). If a subsection of an existing hub page has
    grown large enough to stand alone (recurs across several sources with its own figures and
    arguments), split it into a `concept` page and leave a hatnote behind, per the pattern above.
-5. Update `last_updated` in the frontmatter of any topic page you touched, and refresh its
-   `## `-heading contents line (see "Topic pages" above) if you added, renamed, or removed a
+5. Update `last_updated` in the frontmatter of any topic page you touched, and its matching
+   `*Updated: ...*` line below the `# Title` heading (see "Topic pages" above) to the same date.
+   Also refresh the page's `## `-heading contents line if you added, renamed, or removed a
    subsection.
 6. Run `python 2_refresh_wiki_index.py` from the repo root to regenerate both index.md files from
    the citations/frontmatter you just wrote. Never hand-edit `topics/index.md` or

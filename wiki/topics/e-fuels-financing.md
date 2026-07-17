@@ -12,6 +12,8 @@ last_updated: 2025-09-09
 
 # E-fuels financing and infrastructure
 
+*Updated: 2025-09-09*
+
 Across mid-to-late 2025, T&E published a cluster of reports making the same underlying argument
 about e-fuels (hydrogen-derived e-kerosene, e-ammonia, e-methanol, etc. for aviation and
 shipping): the technology and project pipeline exist, but financing — specifically, the lack of a

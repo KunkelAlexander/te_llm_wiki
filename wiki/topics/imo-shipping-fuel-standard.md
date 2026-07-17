@@ -12,6 +12,8 @@ last_updated: 2025-10-17
 
 # IMO shipping fuel standard (Net-Zero Framework)
 
+*Updated: 2025-10-17*
+
 *See also: [Biofuels § Shipping and the IMO Global Fuel Standard](biofuels.md#shipping-and-the-imo-global-fuel-standard)*
 for the biofuel-feedstock-safeguard argument this policy fight connects to, and
 [E-fuels financing and infrastructure](e-fuels-financing.md) for how T&E wants shipping ETS

@@ -12,6 +12,8 @@ last_updated: 2025-10-08
 
 # Car and van CO2 standards
 
+*Updated: 2025-10-08*
+
 Cars and vans are regulated together under the same EU law, Regulation 2019/631 ("CO2 emission
 performance standards for new passenger cars and for new light commercial vehicles"), so T&E's
 work on the two segments tracks the same regulatory dossier. *See also:*

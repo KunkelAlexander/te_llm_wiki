@@ -10,6 +10,8 @@ last_updated: 2025-06-23
 
 # POME (Palm Oil Mill Effluent)
 
+*Updated: 2025-06-23*
+
 *Part of [Biofuels](biofuels.md).*
 
 POME is a wastewater by-product of palm oil milling, classified as an Annex IX "waste" feedstock

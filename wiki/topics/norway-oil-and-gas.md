@@ -11,6 +11,8 @@ last_updated: 2024-02-21
 
 # Norway's oil and gas expansion vs. EU energy transition
 
+*Updated: 2024-02-21*
+
 [On Thin Ice: Norway's Fossil Ambitions and the EU's Green Energy Future](../sources/on-thin-ice-norway-s-fossil-ambitions-and-the-eu-s-green-energy-future.md)
 (2024), co-published with Oil Change International, Zero Carbon Analytics, WWF Norway and
 Greenpeace Norway, argues that EU gas and oil demand is in structural long-term decline under

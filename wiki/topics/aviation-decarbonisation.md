@@ -12,6 +12,8 @@ last_updated: 2025-10-29
 
 # Aviation
 
+*Updated: 2025-10-29*
+
 [Aviation industry plans for growth 'irreconcilable' with Europe's climate goals](../sources/aviation-industry-plans-for-growth-irreconcilable-with-europe-s-climate-goals.md)
 ("Down to Earth", January 2025) argues that projected traffic growth will overwhelm any
 efficiency or Sustainable Aviation Fuel (SAF) gains: under an industry "High Growth" scenario, EU

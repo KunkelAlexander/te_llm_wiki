@@ -11,6 +11,8 @@ last_updated: 2025-09-23
 
 # Hydrogen policy: blue vs. green
 
+*Updated: 2025-09-23*
+
 *See also: [Norway's oil and gas expansion vs. EU energy transition](norway-oil-and-gas.md)*, which
 covers the same blue-vs-green cost comparison from the gas-supply side.
 

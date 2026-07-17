@@ -11,6 +11,8 @@ last_updated: 2025-07-14
 
 # Zero-emission trucks
 
+*Updated: 2025-07-14*
+
 T&E's consistent position since 2021 is that **direct electrification (battery-electric, with
 overhead-catenary electric road systems as a complementary option) is the dominant realistic
 pathway to decarbonise heavy trucking**, that hydrogen and e-fuels are far less efficient

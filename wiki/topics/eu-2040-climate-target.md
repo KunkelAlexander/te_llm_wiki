@@ -12,6 +12,8 @@ last_updated: 2025-09-09
 
 # EU 2040 climate target
 
+*Updated: 2025-09-09*
+
 [Driving Change: Creating the EU's Ambitious 2040 Climate Commitment](../sources/driving-change-creating-the-eu-s-ambitious-2040-climate-commitment.md)
 (September 2025, T&E consultation response) sets out T&E's position on the EU's 2040 climate
 target, the framework that will shape the next decade of EU sectoral policy — including the
