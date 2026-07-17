@@ -89,13 +89,13 @@ def refresh():
         f.write("Everything T&E works on that this wiki covers, one page per subject. Each page "
                 "tracks how T&E's position or estimates on that subject have evolved over time, "
                 "with every claim linked back to the publication it's drawn from.\n\n")
-        f.write("| Topic | Type | Summary |\n")
-        f.write("|---|---|---|\n")
+        f.write("| Topic | Summary |\n")
+        f.write("|---|---|\n")
         for filename, t in ordered_topics:
             fm = t["frontmatter"]
             title = fm.get("title", filename)
             summary = fm.get("summary", "")
-            f.write(f"| [{title}]({filename}) | {fm.get('type', '')} | {summary} |\n")
+            f.write(f"| [{title}]({filename}) | {summary} |\n")
     print(f"Wrote {topics_path}  ({len(topics)} topics)")
 
     # — topics/DEDUP_INDEX.md (maintainer-only, excluded from the Jekyll build) —
