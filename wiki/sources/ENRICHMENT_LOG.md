@@ -1,9 +1,14 @@
-# Source enrichment log (hand-maintained tracker, not script-generated)
+# Source enrichment log (historical — the initial backfill batch only)
 
-Tracks progress on a separate task: adding a hand-written `## Summary` section (key quantitative
-findings first, then bullet points) to `wiki/sources/*.md` pages, sourced from the fulltext in
-`output/metadata_with_fulltext.parquet` (matched by each page's `doc_ids`). This is distinct from
-the main topic-page work described in `AGENT_INSTRUCTIONS.md`.
+This file records the initial backfill effort that added a hand-written `## Summary` section (key
+quantitative findings first, then bullet points) to the oldest 10 `wiki/sources/*.md` pages, sourced
+from the fulltext in `output/metadata_with_fulltext.parquet` (matched by each page's `doc_ids`).
+
+**This is no longer required reading for ongoing work.** Adding this summary to every new source
+page is now a standing part of the regular update workflow — see "Quantitative-findings summary"
+and update-workflow step 2 in `AGENT_INSTRUCTIONS.md`. Whether a given source page has been
+enriched yet is tracked by the presence of the `<!-- ENRICHED SUMMARY` marker in that page itself,
+not by this log — check the page, not this file, when deciding whether a source still needs one.
 
 **How it's preserved across regeneration**: `1_build_wiki_subset.py` was updated to detect the
 `<!-- ENRICHED SUMMARY: ... -->` marker in an existing source page and re-append everything from
