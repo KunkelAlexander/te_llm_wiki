@@ -16,3 +16,12 @@ doc_ids: [656d886b-942e-515d-9e77-228b5054dcff]
 [Read the original publication](https://www.transportenvironment.org/articles/te-response-vat-consultation)
 
 *(No abstract available for this publication.)*
+
+<!-- ENRICHED SUMMARY: hand-written, preserved across regenerations by 1_build_wiki_subset.py -->
+
+## Summary
+
+*(No key quantitative findings — see below.)*
+
+- The scraped fulltext for this 2011 document (parquet doc_id `656d886b-942e-515d-9e77-228b5054dcff`) does not contain the actual response text — the extraction only captured the source PDF's filename ("T E Response to VAT Consultation Final.pdf") and unrelated navigation/related-articles boilerplate from the live site.
+- No substantive content is available to summarize from the corpus; consult the original PDF/article link above for the primary source if this document needs to be cited in a topic page.

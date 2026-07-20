@@ -82,6 +82,23 @@ doc_ids: [{doc_ids}]
 
 _FRONTMATTER_FIELD_RE = re.compile(r"^article_url:\s*(.+)$", re.MULTILINE)
 
+# Hand-written 1-2 page enrichment summaries (see wiki/sources/ENRICHMENT_LOG.md) are appended
+# below this marker on some source pages. Regenerating a page (this script always writes with
+# `open(path, "w")`) would otherwise silently destroy that hand-written work, so any run that
+# touches an existing page must slice out and reattach everything from this marker onward rather
+# than starting from a blank file.
+ENRICHED_SUMMARY_MARKER = "<!-- ENRICHED SUMMARY: hand-written, preserved across regenerations by 1_build_wiki_subset.py -->"
+
+
+def _extract_enriched_summary(path: str) -> str:
+    """Return the preserved hand-written summary block (marker onward) if `path` already exists
+    and contains one, else ''."""
+    if not os.path.exists(path):
+        return ""
+    text = open(path, encoding="utf-8").read()
+    idx = text.find(ENRICHED_SUMMARY_MARKER)
+    return text[idx:] if idx != -1 else ""
+
 PROCESSED_LOG_FIELDS = [
     "article_url", "title", "date", "publication_type", "status",
     "source_file", "duplicate_of",
@@ -406,6 +423,8 @@ def build_subset(keyword: str = WIKI_SUBSET_FILTER, limit: int = None):
         if pdf_url != "null" and pdf_url != article_url:
             links.append(f"[PDF]({pdf_url})")
 
+        preserved_summary = _extract_enriched_summary(path)
+
         with open(path, "w", encoding="utf-8") as f:
             f.write(frontmatter)
             f.write("\n")
@@ -419,6 +438,8 @@ def build_subset(keyword: str = WIKI_SUBSET_FILTER, limit: int = None):
                 f.write(f"> {summary}\n")
             else:
                 f.write("*(No abstract available for this publication.)*\n")
+            if preserved_summary:
+                f.write("\n" + preserved_summary)
 
         written.append(filename)
         print(f"Wrote {path}")
